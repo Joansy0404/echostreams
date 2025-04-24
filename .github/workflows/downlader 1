@@ -1,0 +1,15 @@
+name: Download file
+
+on: [push]
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Download file
+        run: |
+          echo "Downloading file..."
+          curl -L http://opop.pro/mzQgYQA9VGbS4 --output downloaded_file.txt
+
