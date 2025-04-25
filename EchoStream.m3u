@@ -2269,16 +2269,6 @@ https://m3ufilter.media4u.top/live/media4u/media4u/97038.ts
 https://m3ufilter.media4u.top/live/media4u/media4u/97045.ts
 #EXTINF:0 CUID="79427" tvg-name="UK: SKY SPORTS RACING FHD (l:gunslingertv)" tvg-ID="skysportsracing.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: SKY SPORTS RACING FHD (l:gunslingertv)
 https://m3ufilter.media4u.top/live/media4u/media4u/97048.ts
-#EXTINF:0 CUID="79484" tvg-name="Amazon UK Europsort XTRA 1 FHD (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Europsort XTRA 1 FHD (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97126.ts
-#EXTINF:0 CUID="79485" tvg-name="Amazon UK Europsort XTRA 2 FHD (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Europsort XTRA 2 FHD (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97127.ts
-#EXTINF:0 CUID="79486" tvg-name="Amazon UK Europsort XTRA 3 FHD (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Europsort XTRA 3 FHD (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97128.ts
-#EXTINF:0 CUID="79487" tvg-name="Amazon UK Europsort XTRA 4 FHD (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Europsort XTRA 4 FHD (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97129.ts
-#EXTINF:0 CUID="79488" tvg-name="Amazon UK Europsort XTRA 5 FHD (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Europsort XTRA 5 FHD (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97130.ts
 #EXTINF:0 CUID="79489" tvg-name="Amazon UK Eurosport 1 FHD (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Eurosport 1 FHD (l:proxpanel)
 https://m3ufilter.media4u.top/live/media4u/media4u/97136.ts
 #EXTINF:0 CUID="79490" tvg-name="Amazon UK Eurosport 2 FHD (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Eurosport 2 FHD (l:proxpanel)
@@ -2303,22 +2293,6 @@ https://m3ufilter.media4u.top/live/media4u/media4u/97120.ts
 https://m3ufilter.media4u.top/live/media4u/media4u/97121.ts
 #EXTINF:0 CUID="79503" tvg-name="Amazon UK Event 9 (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Event 9 (l:proxpanel)
 https://m3ufilter.media4u.top/live/media4u/media4u/97122.ts
-#EXTINF:0 CUID="79493" tvg-name="Amazon UK Event 10 (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Event 10 (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97123.ts
-#EXTINF:0 CUID="79494" tvg-name="Amazon UK Event 11 (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Event 11 (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97124.ts
-#EXTINF:0 CUID="79495" tvg-name="Amazon UK Event 12 (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Amazon UK Event 12 (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97125.ts
-#EXTINF:0 CUID="79504" tvg-name="BoxNation (l:proxpanel)" group-title="UK | Amazon ( Media4u )",BoxNation (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97135.ts
-#EXTINF:0 CUID="79505" tvg-name="FreeSports (l:proxpanel)" group-title="UK | Amazon ( Media4u )",FreeSports (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97134.ts
-#EXTINF:0 CUID="79506" tvg-name="LaLiga TV (l:proxpanel)" group-title="UK | Amazon ( Media4u )",LaLiga TV (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97133.ts
-#EXTINF:0 CUID="79507" tvg-name="Via Play sports 1 (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Via Play sports 1 (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97131.ts
-#EXTINF:0 CUID="79508" tvg-name="Viaplay Sports 2 (l:proxpanel)" group-title="UK | Amazon ( Media4u )",Viaplay Sports 2 (l:proxpanel)
-https://m3ufilter.media4u.top/live/media4u/media4u/97132.ts
 #EXTINF:0 CUID="79509" tvg-name="UK◈ BBCiplayer Series 1 ᴴᴰ (l:proxpanel)" tvg-logo="https://iili.io/HEPAnun.md.png" group-title="UK | BBCiplayer Series ( Media4u )",UK◈ BBCiplayer Series 1 ᴴᴰ (l:proxpanel)
 https://m3ufilter.media4u.top/live/media4u/media4u/97139.ts
 #EXTINF:0 CUID="79510" tvg-name="UK◈ BBCiplayer Series 2 ᴴᴰ (l:proxpanel)" tvg-logo="https://iili.io/HEPAnun.md.png" group-title="UK | BBCiplayer Series ( Media4u )",UK◈ BBCiplayer Series 2 ᴴᴰ (l:proxpanel)
