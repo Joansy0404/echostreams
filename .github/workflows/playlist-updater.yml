@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Download file
-        run: wget http;//opop.pro/mzQgYQA9VGbS4 -O echostreams/EchoStream.m3u
+        run: wget http://opop.pro/mzQgYQA9VGbS4 -O echostreams/EchoStream.m3u
 
       - name: Add file to Git
         run: git add echostreams/EchoStream.m3u
