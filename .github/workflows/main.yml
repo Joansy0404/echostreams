@@ -6,7 +6,7 @@ on:
 
 jobs:
   download:
-    runs-on: ubuntu-latest
+    runs-on: windows-Latest
     steps:
       - name: Get the code
         uses: actions/checkout@v4
