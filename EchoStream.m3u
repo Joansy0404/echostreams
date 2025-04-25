@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:0 CUID="738" tvg-name="Astro Premier League" tvg-ID="astropremierleague.my" tvg-logo="https://logo.iptveditor.com/premierleague.png" group-title="EPL   (A1X)",Astro Premier League
-https://a1xs.vip/1100030
-#EXTINF:0 CUID="739" tvg-name="Astro Premier League 2" tvg-ID="astropremierleague2.my" tvg-logo="https://logo.iptveditor.com/premierleague.png" group-title="EPL   (A1X)",Astro Premier League 2
-https://a1xs.vip/1100031
-#EXTINF:0 CUID="743" tvg-name="Hub Premier 1 FHD" tvg-ID="hubpremier1.sg" tvg-logo="https://logo.iptveditor.com/hubpremier1.png" group-title="EPL   (A1X)",Hub Premier 1 FHD
-https://a1xs.vip/1100041
-#EXTINF:0 CUID="744" tvg-name="Hub Premier 2 FHD" tvg-ID="hubpremier2.sg" tvg-logo="https://logo.iptveditor.com/hubpremier2.png" group-title="EPL   (A1X)",Hub Premier 2 FHD
-https://a1xs.vip/1100042
-#EXTINF:0 CUID="745" tvg-name="Hub Premier 3 FHD" tvg-ID="hubpremier3.sg" tvg-logo="https://logo.iptveditor.com/hubpremier3.png" group-title="EPL   (A1X)",Hub Premier 3 FHD
-https://a1xs.vip/1100043
-#EXTINF:0 CUID="746" tvg-name="Hub Premier 4 FHD" tvg-ID="hubpremier4.sg" group-title="EPL   (A1X)",Hub Premier 4 FHD
-https://a1xs.vip/1100044
-#EXTINF:0 CUID="736" tvg-name="Now Sports PL 1 FHD" tvg-ID="nowsportspremierleague1.hk" tvg-logo="https://logo.iptveditor.com/nowsportspremierleaguetv.png" group-title="EPL   (A1X)",Now Sports PL 1 FHD
-https://a1xs.vip/1100001
-#EXTINF:0 CUID="737" tvg-name="Now Sports PL 2 FHD" tvg-ID="nowsportspremierleague2.hk" tvg-logo="https://logo.iptveditor.com/nowsportspremierleaguetv.png" group-title="EPL   (A1X)",Now Sports PL 2 FHD
-https://a1xs.vip/1100002
-#EXTINF:0 CUID="741" tvg-name="Peacock Premier League TV" tvg-ID="skysportpremierleague.nz" tvg-logo="https://logo.iptveditor.com/premierleague.png" group-title="EPL   (A1X)",Peacock Premier League TV
-https://a1xs.vip/1100021
-#EXTINF:0 CUID="723" tvg-name="SG: Hub Premier 2 UHD" tvg-ID="hubpremier2.sg" tvg-logo="https://logo.iptveditor.com/hubpremier2.png" group-title="EPL   (A1X)",SG: Hub Premier 2 UHD
-https://a1xs.vip/9000012
-#EXTINF:0 CUID="948" tvg-name="USA Network" tvg-ID="network.us" tvg-logo="https://logo.iptveditor.com/network.png" group-title="EPL   (A1X)",USA Network
-https://a1xs.vip/1100020
 #EXTINF:0 CUID="933" tvg-name="03:00 PM PT | New Jersey Devils vs. Carolina Hurricanes | 04/22/25" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/5H6d9sg.png@jpeg" group-title="PPV (A1X, PPVLAND)",03:00 PM PT | New Jersey Devils vs. Carolina Hurricanes | 04/22/25
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=M5fyBXjpoFSs1zrL0eflqw&expires=1745370000&net=MTg1LjE4NC4yMjguMTM4
 #EXTINF:0 CUID="934" tvg-name="03:10 PM PT | New York Yankees vs. Cleveland Guardians | 04/22/25" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/J0Y6Pkc.png@jpeg" group-title="PPV (A1X, PPVLAND)",03:10 PM PT | New York Yankees vs. Cleveland Guardians | 04/22/25
@@ -105,6 +83,28 @@ https://a1xs.vip/ppv3
 https://a1xs.vip/ppv4
 #EXTINF:0 CUID="717" tvg-name="A1X Live Event 5" tvg-ID="dummy-5" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 5
 https://a1xs.vip/ppv5
+#EXTINF:0 CUID="738" tvg-name="Astro Premier League" tvg-ID="astropremierleague.my" tvg-logo="https://logo.iptveditor.com/premierleague.png" group-title="EPL   (A1X)",Astro Premier League
+https://a1xs.vip/1100030
+#EXTINF:0 CUID="739" tvg-name="Astro Premier League 2" tvg-ID="astropremierleague2.my" tvg-logo="https://logo.iptveditor.com/premierleague.png" group-title="EPL   (A1X)",Astro Premier League 2
+https://a1xs.vip/1100031
+#EXTINF:0 CUID="743" tvg-name="Hub Premier 1 FHD" tvg-ID="hubpremier1.sg" tvg-logo="https://logo.iptveditor.com/hubpremier1.png" group-title="EPL   (A1X)",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:0 CUID="744" tvg-name="Hub Premier 2 FHD" tvg-ID="hubpremier2.sg" tvg-logo="https://logo.iptveditor.com/hubpremier2.png" group-title="EPL   (A1X)",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:0 CUID="745" tvg-name="Hub Premier 3 FHD" tvg-ID="hubpremier3.sg" tvg-logo="https://logo.iptveditor.com/hubpremier3.png" group-title="EPL   (A1X)",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:0 CUID="746" tvg-name="Hub Premier 4 FHD" tvg-ID="hubpremier4.sg" group-title="EPL   (A1X)",Hub Premier 4 FHD
+https://a1xs.vip/1100044
+#EXTINF:0 CUID="736" tvg-name="Now Sports PL 1 FHD" tvg-ID="nowsportspremierleague1.hk" tvg-logo="https://logo.iptveditor.com/nowsportspremierleaguetv.png" group-title="EPL   (A1X)",Now Sports PL 1 FHD
+https://a1xs.vip/1100001
+#EXTINF:0 CUID="737" tvg-name="Now Sports PL 2 FHD" tvg-ID="nowsportspremierleague2.hk" tvg-logo="https://logo.iptveditor.com/nowsportspremierleaguetv.png" group-title="EPL   (A1X)",Now Sports PL 2 FHD
+https://a1xs.vip/1100002
+#EXTINF:0 CUID="741" tvg-name="Peacock Premier League TV" tvg-ID="skysportpremierleague.nz" tvg-logo="https://logo.iptveditor.com/premierleague.png" group-title="EPL   (A1X)",Peacock Premier League TV
+https://a1xs.vip/1100021
+#EXTINF:0 CUID="723" tvg-name="SG: Hub Premier 2 UHD" tvg-ID="hubpremier2.sg" tvg-logo="https://logo.iptveditor.com/hubpremier2.png" group-title="EPL   (A1X)",SG: Hub Premier 2 UHD
+https://a1xs.vip/9000012
+#EXTINF:0 CUID="948" tvg-name="USA Network" tvg-ID="network.us" tvg-logo="https://logo.iptveditor.com/network.png" group-title="EPL   (A1X)",USA Network
+https://a1xs.vip/1100020
 #EXTINF:0 CUID="728" tvg-name="Bloomberg TV UHD" tvg-ID="bloombergtv.us" tvg-logo="https://logo.iptveditor.com/bloombergtv.png" group-title="UHD | 4K   (A1X)",Bloomberg TV UHD
 https://a1xs.vip/blombuhd
 #EXTINF:0 CUID="726" tvg-name="Eleven Sports 1 4K" tvg-ID="Eleven.Sports.1.4K.pl" tvg-logo="https://logo.iptveditor.com/elevensports1.png" group-title="UHD | 4K   (A1X)",Eleven Sports 1 4K
