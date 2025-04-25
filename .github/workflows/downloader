@@ -2,7 +2,7 @@ name: downloader
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '5 * * * *'
 
 jobs:
   download:
