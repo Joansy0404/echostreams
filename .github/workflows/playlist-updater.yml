@@ -1,58 +1,30 @@
-name: Download and Commit echostream File
+name: Download File
 
 on:
   schedule:
-    - cron: '5 * * * *'
-  workflow_dispatch:
-    inputs:
-      file_url:
-        description: 'URL of the file to download'
-        required: true
-        default: 'http://opop.pro/mzQgYQA9VGbS4'
-      commit_message:
-        description: 'Commit message for the changes'
-        required: true
-        default: 'Update downloaded file'
+    - cron: '*/30 * * * *' # Runs every 30 minutes
 
 jobs:
-  download_file:
+  download_and_commit:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download File
-        run: |
-          curl "${{ github.event.inputs.file_url }}" --output echostream
-          if [ $? -ne 0 ]; then
-            echo "Error downloading file"
-            exit 1
-          fi
-        working-directory: ${{ github.workspace }}
-        env:
-          file_url: ${{ github.event.inputs.file_url }} # Make input available as environment variable
+      - name: Download file
+        run: wget http://opop.mzQgYQA9VGbS4 -O echostreams/EchoStream.m3u
 
-      - name: Configure Git User
-        run: |
-          git config --global user.name "Joansy0404"
-          git config --global user.email "xxmartinxx1990@gmail.com"
+      - name: Add file to Git
+        run: git add echostreams/EchoStream.m3u
 
-      - name: Check for Changes
-        id: check_changes
+      - name: Commit changes
         run: |
-          git diff --quiet
-          if [ $? -eq 0 ]; then
-            echo "::set-output name=changed::false"
-            echo "No changes to commit"
-          else
-            echo "::set-output name=changed::true"
-          fi
+          git config --local user.email "xxmartinxx1990@gmail.com"
+          git config --local user.name "Joansy0404"
+          git commit -m "Add file from URL"
 
-      - name: Commit and Push Changes
-        if: steps.check_changes.outputs.changed == 'true'
-        run: |
-          git add echostream
-          git commit -m "${{ github.event.inputs.commit_message }}"
-          git push
-        env:
-          commit_message: ${{ github.event.inputs.commit_message }} # Make input available as environment variable
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
