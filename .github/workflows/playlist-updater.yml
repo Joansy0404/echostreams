@@ -1,27 +1,28 @@
- name: Download File
+# This is a basic workflow to help you get started with Actions
+name: Download File
 
 on:
-  schedule:
-    - cron: '20 * * * *' # Runs every 30 minutes
+  workflow_dispatch: {} # Enables manual triggering
 
 jobs:
   download_and_commit:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Download file
-        run: wget http://opop.pro/mzQgYQA9VGbS4 -O echostreams/EchoStream.m3u
+        run: wget http://opop.pro/mzQgYQA9VGbS4 -O EchoStream.m3u
 
       - name: Add file to Git
-        run: git add echostreams/EchoStream.m3u
+        run: git add EchoStream.m3u
 
       - name: Commit changes
         run: |
           git config --local user.email "xxmartinxx1990@gmai.com"
           git config --local user.name "Joansy0404"
-          git commit -m "mhttps://github.com/Joansy0404/echostreams/commits/main/"
+          git commit -m "Updated EchoStream.m3u"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
