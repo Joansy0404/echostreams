@@ -3,7 +3,7 @@ name: Download File Hourly
 on:
   schedule:
 
-    - cron: '*/5 * * * *'
+    - cron: '5 * * * *'
 
 jobs:
   download:
