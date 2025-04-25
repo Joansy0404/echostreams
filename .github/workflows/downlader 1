@@ -1,15 +1,16 @@
-name: Download file
+name: Download File Hourly
 
-on: [push]
+on:
+  schedule:
+    - cron: '0 * * * *'
 
 jobs:
   download:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Get the code
         uses: actions/checkout@v4
-      - name: Download file
+      - name: Download the file
         run: |
-          echo "Downloading file..."
+          echo "Starting download..."
           curl -L http://opop.pro/mzQgYQA9VGbS4 --output downloaded_file.txt
-
