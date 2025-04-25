@@ -19,7 +19,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "MY EMAIL"
+          git config --local user.email "xxmartinxx1990@gmai.com"
           git config --local user.name "Joansy0404"
           git commit -m "mhttps://github.com/Joansy0404/echostreams/commits/main/"
 
