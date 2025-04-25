@@ -19,9 +19,9 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "xxmartinxx1990@gmail.com"
+          git config --local user.email "MY EMAIL"
           git config --local user.name "Joansy0404"
-          git commit -m "Add file from URL"
+          git commit -m "mhttps://github.com/Joansy0404/echostreams/commits/main/"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
