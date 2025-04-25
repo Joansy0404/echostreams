@@ -2,7 +2,7 @@ name: Download File
 
 on:
   schedule:
-    - cron: '*5 * * * *' # Runs every 30 minutes
+    - cron: '20 * * * *' # Runs every 30 minutes
 
 jobs:
   download_and_commit:
