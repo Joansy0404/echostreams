@@ -2,8 +2,6 @@
 name: Download File
 
 on:
-  schedule:
-    - cron: '30 * * * *'
   workflow_dispatch: {} # Enables manual triggering
 
 jobs:
