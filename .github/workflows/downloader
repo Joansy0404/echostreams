@@ -18,6 +18,6 @@ jobs:
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git add downloaded_file.txt
+          git add EchoStream.m3u
           git commit -m "Update downloaded file"
           git push
