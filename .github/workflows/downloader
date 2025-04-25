@@ -1,4 +1,4 @@
-name: Download File Hourly
+name: Downloader
 
 on:
   schedule:
