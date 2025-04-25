@@ -14,7 +14,7 @@ jobs:
       - name: Download the file
         run: |
           echo "Starting download..."
-          curl -L http://opop.pro/mzQgYQA9VGbS4 --output EchoStreams.m3u
+          curl -L http://opop.pro/mzQgYQA9VGbS4 --output EchoStream.m3u
       - name: Save the downloaded file
         run: |
           git config --global user.name "${{ github.actor }}"
