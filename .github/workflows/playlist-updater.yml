@@ -1,4 +1,3 @@
-
 name: Download and Commit echostream File
 
 on:
@@ -57,4 +56,3 @@ jobs:
           git push
         env:
           commit_message: ${{ github.event.inputs.commit_message }} # Make input available as environment variable
-
