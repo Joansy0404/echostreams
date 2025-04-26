@@ -185,7 +185,7 @@ https://a1xs.vip/2000016
 https://a1xs.vip/1000036
 #EXTINF:0 CUID="766" tvg-name="BBC News FHD" tvg-ID="BBC.NEWS.HD.uk" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="UK Channels  (A1X)     ",BBC News FHD
 https://a1xs.vip/1000015
-#EXTINF:0 CUID="768" tvg-name="BBC One FHD" tvg-ID="BBC.One.Lon.HD.uk" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK Channels  (A1X)     ",BBC One FHD
+#EXTINF:0 CUID="768" tvg-name="BBC One FHD" tvg-ID="BBC.One.CI.HD.uk" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK Channels  (A1X)     ",BBC One FHD
 https://a1xs.vip/1000001
 #EXTINF:0 CUID="770" tvg-name="BBC Three / CBBC FHD" tvg-ID="BBC.Three.HD.uk" tvg-logo="https://logo.iptveditor.com/bbcthreecbbc.png" group-title="UK Channels  (A1X)     ",BBC Three / CBBC FHD
 https://a1xs.vip/1000003
@@ -261,7 +261,7 @@ https://a1xs.vip/2000010
 https://a1xs.vip/2000013
 #EXTINF:0 CUID="760" tvg-name="Sky Sports+ FHD" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png" group-title="UK Sports  (A1X)",Sky Sports+ FHD
 https://a1xs.vip/2000012
-#EXTINF:0 CUID="762" tvg-name="TNT Sports 1 FHD" tvg-ID="TNT.Sports.10.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="UK Sports  (A1X)",TNT Sports 1 FHD
+#EXTINF:0 CUID="762" tvg-name="TNT Sports 1 FHD" tvg-ID="TNT.Sports.1.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="UK Sports  (A1X)",TNT Sports 1 FHD
 https://a1xs.vip/2000021
 #EXTINF:0 CUID="763" tvg-name="TNT Sports 2 FHD" tvg-ID="TNT.Sports.2.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports2.png" group-title="UK Sports  (A1X)",TNT Sports 2 FHD
 https://a1xs.vip/2000022
@@ -273,7 +273,7 @@ https://a1xs.vip/2000024
 https://a1xs.vip/2000031
 #EXTINF:0 CUID="97191" tvg-name="Sky Sports Main Event UHD" tvg-ID="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UK Sports  (A1X)",Sky Sports Main Event UHD
 https://a1xs.vip/2000015
-#EXTINF:0 CUID="97192" tvg-name="Sky Sports F1 UHD" tvg-ID="SkySp.F1.uk" tvg-logo="https://i.ibb.co/swp9ncv/Sky-f1-uhd.png" group-title="UK Sports  (A1X)",Sky Sports F1 UHD
+#EXTINF:0 CUID="97192" tvg-name="Sky Sports F1 UHD" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://i.ibb.co/swp9ncv/Sky-f1-uhd.png" group-title="UK Sports  (A1X)",Sky Sports F1 UHD
 https://a1xs.vip/2000016
 #EXTINF:0 CUID="835" tvg-name="ABC" tvg-ID="abcern.us" tvg-logo="https://logo.iptveditor.com/abc.png" group-title="US Channels.  (A1X)",ABC
 https://a1xs.vip/300003
