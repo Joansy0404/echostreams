@@ -1109,408 +1109,6 @@ https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8|Referer=https://xextream
 https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
 #EXTINF:0 CUID="1448" tvg-name="Sky Sport Select NZ" tvg-ID="Sky.Sport.Select.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-select-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport Select NZ
 https://dokko1new.newkso.ru/dokko1/premium587/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="79066" tvg-name="UK: 4SEVEN (l:gunslingertv)" tvg-ID="4seven.uk" tvg-logo="https://logo.iptveditor.com/4seven.png" group-title="UK HD ( Media4u Backup )",UK: 4SEVEN (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96757.ts
-#EXTINF:0 CUID="79067" tvg-name="UK: 5STAR (l:gunslingertv)" tvg-ID="5STAR.uk" tvg-logo="https://logo.iptveditor.com/5star.png" group-title="UK HD ( Media4u Backup )",UK: 5STAR (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96756.ts
-#EXTINF:0 CUID="79069" tvg-name="UK: And TV (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/andtv.png" group-title="UK HD ( Media4u Backup )",UK: And TV (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96773.ts
-#EXTINF:0 CUID="79068" tvg-name="UK: ANIMAL PLANET (l:gunslingertv)" tvg-ID="Animal.Planet.uk" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="UK HD ( Media4u Backup )",UK: ANIMAL PLANET (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96758.ts
-#EXTINF:0 CUID="79070" tvg-name="UK: B4U Movies (l:gunslingertv)" tvg-ID="B4U.Movies.uk" tvg-logo="https://logo.iptveditor.com/b4umovies.png" group-title="UK HD ( Media4u Backup )",UK: B4U Movies (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96772.ts
-#EXTINF:0 CUID="79071" tvg-name="UK: B4U Music (l:gunslingertv)" tvg-ID="B4U.Music.uk" tvg-logo="https://logo.iptveditor.com/b4umusic.png" group-title="UK HD ( Media4u Backup )",UK: B4U Music (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96771.ts
-#EXTINF:0 CUID="79072" tvg-name="UK: BBC Four HD (l:gunslingertv)" tvg-ID="BBC.Four.HD.uk" tvg-logo="https://logo.iptveditor.com/bbcfour.png" group-title="UK HD ( Media4u Backup )",UK: BBC Four HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96765.ts
-#EXTINF:0 CUID="79073" tvg-name="UK: BBC News HD (l:gunslingertv)" tvg-ID="BBC.NEWS.HD.uk" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="UK HD ( Media4u Backup )",UK: BBC News HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96767.ts
-#EXTINF:0 CUID="79075" tvg-name="UK: BBC One HD (l:gunslingertv)" tvg-ID="BBC.One.CI.HD.uk" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK HD ( Media4u Backup )",UK: BBC One HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96761.ts
-#EXTINF:0 CUID="79074" tvg-name="UK: BBC ONE SCOTLAND (l:gunslingertv)" tvg-ID="BBC.One.ScotHD.uk" tvg-logo="https://logo.iptveditor.com/bbconescotland.png" group-title="UK HD ( Media4u Backup )",UK: BBC ONE SCOTLAND (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96759.ts
-#EXTINF:0 CUID="79076" tvg-name="UK: BBC PARLIAMENT (l:gunslingertv)" tvg-ID="BBC.Parliament.HD.uk" tvg-logo="https://logo.iptveditor.com/bbcparliament.png" group-title="UK HD ( Media4u Backup )",UK: BBC PARLIAMENT (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96755.ts
-#EXTINF:0 CUID="79077" tvg-name="UK: BBC TWO (l:gunslingertv)" tvg-ID="BBC.Two.HD.uk" tvg-logo="https://logo.iptveditor.com/bbctwo.png" group-title="UK HD ( Media4u Backup )",UK: BBC TWO (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96754.ts
-#EXTINF:0 CUID="79078" tvg-name="UK: BBC Two Northern Ireland (l:gunslingertv)" tvg-ID="bbc2northernireland.uk" tvg-logo="https://logo.iptveditor.com/bbctwonorthern.png" group-title="UK HD ( Media4u Backup )",UK: BBC Two Northern Ireland (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96764.ts
-#EXTINF:0 CUID="79079" tvg-name="UK: BBC Two Scotland (l:gunslingertv)" tvg-ID="BBCScotlandHD.uk" tvg-logo="https://logo.iptveditor.com/bbctwo.png" group-title="UK HD ( Media4u Backup )",UK: BBC Two Scotland (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96763.ts
-#EXTINF:0 CUID="79080" tvg-name="UK: BBC Two Wales (l:gunslingertv)" tvg-ID="BBC.Two.Wal.HD.uk" tvg-logo="https://logo.iptveditor.com/bbctwowales.png" group-title="UK HD ( Media4u Backup )",UK: BBC Two Wales (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96762.ts
-#EXTINF:0 CUID="79081" tvg-name="UK: CARTOON NETWORK (l:gunslingertv)" tvg-ID="Cartoon.Netwrk.uk" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="UK HD ( Media4u Backup )",UK: CARTOON NETWORK (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96753.ts
-#EXTINF:0 CUID="79082" tvg-name="UK: CARTOONITO (l:gunslingertv)" tvg-ID="Cartoonito.uk" tvg-logo="https://logo.iptveditor.com/cartoonito.png" group-title="UK HD ( Media4u Backup )",UK: CARTOONITO (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96751.ts
-#EXTINF:0 CUID="79083" tvg-name="UK: CBBC hd (l:gunslingertv)" tvg-ID="CBBC.HD.uk" tvg-logo="https://logo.iptveditor.com/bbccbbc.png" group-title="UK HD ( Media4u Backup )",UK: CBBC hd (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96752.ts
-#EXTINF:0 CUID="79086" tvg-name="UK: CBeebies HD (l:gunslingertv)" tvg-ID="CBeebies.HD.uk" tvg-logo="https://logo.iptveditor.com/bbccbeebies.png" group-title="UK HD ( Media4u Backup )",UK: CBeebies HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96766.ts
-#EXTINF:0 CUID="79084" tvg-name="UK: CBS DRAMA reality xtra (l:gunslingertv)" tvg-ID="92news.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CBS_Drama.png/200px-CBS_Drama.png" group-title="UK HD ( Media4u Backup )",UK: CBS DRAMA reality xtra (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96750.ts
-#EXTINF:0 CUID="79085" tvg-name="UK: CBS Reality  (l:gunslingertv)" tvg-ID="cbsrealityplus1.uk" tvg-logo="https://logo.iptveditor.com/cbsreality.png" group-title="UK HD ( Media4u Backup )",UK: CBS Reality  (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96770.ts
-#EXTINF:0 CUID="79087" tvg-name="UK: CHALLENGE (l:gunslingertv)" tvg-ID="Challenge.uk" tvg-logo="https://logo.iptveditor.com/challenge.png" group-title="UK HD ( Media4u Backup )",UK: CHALLENGE (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96749.ts
-#EXTINF:0 CUID="79088" tvg-name="UK: CHANNEL 4 (l:gunslingertv)" tvg-ID="Channel.4.HD.uk" tvg-logo="https://logo.iptveditor.com/channel4.png" group-title="UK HD ( Media4u Backup )",UK: CHANNEL 4 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96748.ts
-#EXTINF:0 CUID="79093" tvg-name="UK: Channel 4 Midlands SD (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/channel4.png" group-title="UK HD ( Media4u Backup )",UK: Channel 4 Midlands SD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96769.ts
-#EXTINF:0 CUID="79089" tvg-name="UK: CHANNEL 5 (l:gunslingertv)" tvg-ID="Channel.5.uk" tvg-logo="https://logo.iptveditor.com/channel5.png" group-title="UK HD ( Media4u Backup )",UK: CHANNEL 5 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96747.ts
-#EXTINF:0 CUID="79090" tvg-name="UK: CLUBLAND (l:gunslingertv)" tvg-ID="Clubland.TV.uk" tvg-logo="https://logo.iptveditor.com/clublandtv.png" group-title="UK HD ( Media4u Backup )",UK: CLUBLAND (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96746.ts
-#EXTINF:0 CUID="79091" tvg-name="UK: COMEDY CENTRAL (l:gunslingertv)" tvg-ID="ComedyCentral.uk" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="UK HD ( Media4u Backup )",UK: COMEDY CENTRAL (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96745.ts
-#EXTINF:0 CUID="79092" tvg-name="UK: CRIME + INVESTIGATION (l:gunslingertv)" tvg-ID="crimeandinvestigationnetwork.uk" tvg-logo="https://logo.iptveditor.com/crimeandinvestigation.png" group-title="UK HD ( Media4u Backup )",UK: CRIME + INVESTIGATION (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96744.ts
-#EXTINF:0 CUID="79100" tvg-name="UK: Dave (l:gunslingertv)" tvg-ID="dave.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png" group-title="UK HD ( Media4u Backup )",UK: Dave (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96776.ts
-#EXTINF:0 CUID="79094" tvg-name="UK: DAVE JA VU (l:gunslingertv)" tvg-ID="U.and.Dave.ja.vu.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2320.png" group-title="UK HD ( Media4u Backup )",UK: DAVE JA VU (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96743.ts
-#EXTINF:0 CUID="79095" tvg-name="UK: DISCOVERY CHANNEL (l:gunslingertv)" tvg-ID="discoverychannel.uk" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="UK HD ( Media4u Backup )",UK: DISCOVERY CHANNEL (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96742.ts
-#EXTINF:0 CUID="79096" tvg-name="UK: DISCOVERY HISTORY (l:gunslingertv)" tvg-ID="Discovery.HD.uk" tvg-logo="https://logo.iptveditor.com/discoveryhistory.png" group-title="UK HD ( Media4u Backup )",UK: DISCOVERY HISTORY (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96741.ts
-#EXTINF:0 CUID="79097" tvg-name="UK: DISCOVERY SCIENCE (l:gunslingertv)" tvg-ID="discoveryscience.uk" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="UK HD ( Media4u Backup )",UK: DISCOVERY SCIENCE (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96740.ts
-#EXTINF:0 CUID="79098" tvg-name="UK: DISCOVERY SHED (real time now) (l:gunslingertv)" tvg-ID="Discovery.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="UK HD ( Media4u Backup )",UK: DISCOVERY SHED (real time now) (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96739.ts
-#EXTINF:0 CUID="79099" tvg-name="UK: DISCOVERY TURBO (l:gunslingertv)" tvg-ID="discoveryturbo.uk" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="UK HD ( Media4u Backup )",UK: DISCOVERY TURBO (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96738.ts
-#EXTINF:0 CUID="79102" tvg-name="UK: E4 (l:gunslingertv)" tvg-ID="e4.uk" tvg-logo="https://logo.iptveditor.com/e4.png" group-title="UK HD ( Media4u Backup )",UK: E4 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96736.ts
-#EXTINF:0 CUID="79101" tvg-name="UK: E! NETWORK (l:gunslingertv)" tvg-ID="4seven.uk" tvg-logo="https://logo.iptveditor.com/e.png" group-title="UK HD ( Media4u Backup )",UK: E! NETWORK (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96737.ts
-#EXTINF:0 CUID="79103" tvg-name="UK: EDEN (l:gunslingertv)" tvg-ID="eden.uk" tvg-logo="https://logo.iptveditor.com/uandeden.png" group-title="UK HD ( Media4u Backup )",UK: EDEN (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96735.ts
-#EXTINF:0 CUID="79104" tvg-name="UK: FILM 4 (l:gunslingertv)" tvg-ID="Film4.HD.uk" tvg-logo="https://logo.iptveditor.com/film4.png" group-title="UK HD ( Media4u Backup )",UK: FILM 4 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96734.ts
-#EXTINF:0 CUID="79105" tvg-name="UK: FOOD NETWORK (l:gunslingertv)" tvg-ID="Food.Network.uk" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="UK HD ( Media4u Backup )",UK: FOOD NETWORK (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96733.ts
-#EXTINF:0 CUID="79106" tvg-name="UK: GOLD (l:gunslingertv)" tvg-ID="U.and.Gold.uk" tvg-logo="https://logo.iptveditor.com/uandgold.png" group-title="UK HD ( Media4u Backup )",UK: GOLD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96732.ts
-#EXTINF:0 CUID="79107" tvg-name="UK: GOOD FOOD (l:gunslingertv)" tvg-ID="foodnetwork.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Good_Food.svg/150px-Good_Food.svg.png" group-title="UK HD ( Media4u Backup )",UK: GOOD FOOD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96731.ts
-#EXTINF:0 CUID="79108" tvg-name="UK: H2 (l:gunslingertv)" tvg-ID="history2.uk" tvg-logo="https://logo.iptveditor.com/skyhistory2.png" group-title="UK HD ( Media4u Backup )",UK: H2 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96730.ts
-#EXTINF:0 CUID="79109" tvg-name="UK: HISTORY CHANNEL (l:gunslingertv)" tvg-ID="historychannel.uk" tvg-logo="https://logo.iptveditor.com/skyhistory.png" group-title="UK HD ( Media4u Backup )",UK: HISTORY CHANNEL (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96729.ts
-#EXTINF:0 CUID="79110" tvg-name="UK: History HD (l:gunslingertv)" tvg-ID="Sky.History2.uk" tvg-logo="https://logo.iptveditor.com/skyhistory.png" group-title="UK HD ( Media4u Backup )",UK: History HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96774.ts
-#EXTINF:0 CUID="79111" tvg-name="UK: INVESTIGATION DISCOVERY (l:gunslingertv)" tvg-ID="investigationdiscovery.uk" tvg-logo="https://logo.iptveditor.com/investigationdiscovery.png" group-title="UK HD ( Media4u Backup )",UK: INVESTIGATION DISCOVERY (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96728.ts
-#EXTINF:0 CUID="79113" tvg-name="UK: ITV 2 (l:gunslingertv)" tvg-ID="ITV2.HD.uk" tvg-logo="https://logo.iptveditor.com/itv2.png" group-title="UK HD ( Media4u Backup )",UK: ITV 2 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96726.ts
-#EXTINF:0 CUID="79114" tvg-name="UK: ITV 3 (l:gunslingertv)" tvg-ID="ITV3.HD.uk" tvg-logo="https://logo.iptveditor.com/itv3.png" group-title="UK HD ( Media4u Backup )",UK: ITV 3 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96725.ts
-#EXTINF:0 CUID="79115" tvg-name="UK: ITV 4 (l:gunslingertv)" tvg-ID="ITV4.HD.uk" tvg-logo="https://logo.iptveditor.com/itv4.png" group-title="UK HD ( Media4u Backup )",UK: ITV 4 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96724.ts
-#EXTINF:0 CUID="79112" tvg-name="UK: ITV (l:gunslingertv)" tvg-ID="itv1anglia.uk" tvg-logo="https://logo.iptveditor.com/itv1.png" group-title="UK HD ( Media4u Backup )",UK: ITV (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96727.ts
-#EXTINF:0 CUID="79116" tvg-name="UK: ITV BE (l:gunslingertv)" tvg-ID="itvbe.uk" tvg-logo="https://logo.iptveditor.com/itvbe.png" group-title="UK HD ( Media4u Backup )",UK: ITV BE (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96723.ts
-#EXTINF:0 CUID="79117" tvg-name="UK: MORE 4 (l:gunslingertv)" tvg-ID="More4.HD.uk" tvg-logo="https://logo.iptveditor.com/more4.png" group-title="UK HD ( Media4u Backup )",UK: MORE 4 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96722.ts
-#EXTINF:0 CUID="79118" tvg-name="UK: MTV (l:gunslingertv)" tvg-ID="mtv.uk" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="UK HD ( Media4u Backup )",UK: MTV (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96721.ts
-#EXTINF:0 CUID="79119" tvg-name="UK: MTV BASE (l:gunslingertv)" tvg-ID="MTV.BASE.uk" tvg-logo="https://logo.iptveditor.com/mtvbase.png" group-title="UK HD ( Media4u Backup )",UK: MTV BASE (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96720.ts
-#EXTINF:0 CUID="79120" tvg-name="UK: MTV CLASSIC (l:gunslingertv)" tvg-ID="MTV.Classic.uk" tvg-logo="https://logo.iptveditor.com/mtvclassic.png" group-title="UK HD ( Media4u Backup )",UK: MTV CLASSIC (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96719.ts
-#EXTINF:0 CUID="79121" tvg-name="UK: MTV HITS (l:gunslingertv)" tvg-ID="MTV.HITS.uk" tvg-logo="https://logo.iptveditor.com/mtvhits.png" group-title="UK HD ( Media4u Backup )",UK: MTV HITS (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96718.ts
-#EXTINF:0 CUID="79122" tvg-name="UK: MTV LIVE (l:gunslingertv)" tvg-ID="MTV.Live.HD.uk" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="UK HD ( Media4u Backup )",UK: MTV LIVE (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96717.ts
-#EXTINF:0 CUID="79123" tvg-name="UK: MTV MUSIC (l:gunslingertv)" tvg-ID="MTV.MUSIC.uk" tvg-logo="https://logo.iptveditor.com/mtvmusic.png" group-title="UK HD ( Media4u Backup )",UK: MTV MUSIC (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96716.ts
-#EXTINF:0 CUID="79124" tvg-name="UK: MTV OMG (l:gunslingertv)" tvg-ID="92news.uk" tvg-logo="https://logo.iptveditor.com/mtvomg.png" group-title="UK HD ( Media4u Backup )",UK: MTV OMG (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96715.ts
-#EXTINF:0 CUID="79125" tvg-name="UK: NATIONAL GEOGRAPHIC (l:gunslingertv)" tvg-ID="natgeo.uk" tvg-logo="https://logo.iptveditor.com/nationalgeographic.png" group-title="UK HD ( Media4u Backup )",UK: NATIONAL GEOGRAPHIC (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96714.ts
-#EXTINF:0 CUID="79126" tvg-name="UK: NICK JR (l:gunslingertv)" tvg-ID="Nick.Jr..HD.uk" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="UK HD ( Media4u Backup )",UK: NICK JR (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96713.ts
-#EXTINF:0 CUID="79127" tvg-name="UK: NICK JR TOO (l:gunslingertv)" tvg-ID="Nick.Jr..Too.uk" tvg-logo="https://logo.iptveditor.com/nickjrtoo.png" group-title="UK HD ( Media4u Backup )",UK: NICK JR TOO (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96712.ts
-#EXTINF:0 CUID="79128" tvg-name="UK: NICKELODEON (l:gunslingertv)" tvg-ID="NickelodeonHD.uk" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="UK HD ( Media4u Backup )",UK: NICKELODEON (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96711.ts
-#EXTINF:0 CUID="79129" tvg-name="UK: NICKTOONS (l:gunslingertv)" tvg-ID="Nicktoons.uk" tvg-logo="https://logo.iptveditor.com/nicktoons.png" group-title="UK HD ( Media4u Backup )",UK: NICKTOONS (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96709.ts
-#EXTINF:0 CUID="79131" tvg-name="UK: Pick (l:gunslingertv)" tvg-ID="picktv.uk" tvg-logo="https://logo.iptveditor.com/skymix.png" group-title="UK HD ( Media4u Backup )",UK: Pick (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96777.ts
-#EXTINF:0 CUID="79130" tvg-name="UK: POP MAX (l:gunslingertv)" tvg-ID="POP.Max.uk" tvg-logo="https://logo.iptveditor.com/popmax.png" group-title="UK HD ( Media4u Backup )",UK: POP MAX (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96710.ts
-#EXTINF:0 CUID="79132" tvg-name="UK: QUEST (l:gunslingertv)" tvg-ID="QUEST.uk" tvg-logo="https://logo.iptveditor.com/questp.png" group-title="UK HD ( Media4u Backup )",UK: QUEST (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96708.ts
-#EXTINF:0 CUID="79133" tvg-name="UK: QUEST RED (l:gunslingertv)" tvg-ID="Quest.Red.uk" tvg-logo="https://logo.iptveditor.com/questred.png" group-title="UK HD ( Media4u Backup )",UK: QUEST RED (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96707.ts
-#EXTINF:0 CUID="79134" tvg-name="UK: REALLY (l:gunslingertv)" tvg-ID="Really.uk" tvg-logo="https://logo.iptveditor.com/really.png" group-title="UK HD ( Media4u Backup )",UK: REALLY (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96706.ts
-#EXTINF:0 CUID="79135" tvg-name="UK: RTE NEWS NOW (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/rtenewsnow.png" group-title="UK HD ( Media4u Backup )",UK: RTE NEWS NOW (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96705.ts
-#EXTINF:0 CUID="79136" tvg-name="UK: S4C (l:gunslingertv)" tvg-ID="s4c.uk" tvg-logo="https://logo.iptveditor.com/s4c.png" group-title="UK HD ( Media4u Backup )",UK: S4C (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96704.ts
-#EXTINF:0 CUID="79137" tvg-name="UK: SKY 2  (l:gunslingertv)" tvg-ID="sky2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Sky_Two_2017.png/220px-Sky_Two_2017.png" group-title="UK HD ( Media4u Backup )",UK: SKY 2  (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96702.ts
-#EXTINF:0 CUID="79138" tvg-name="UK: SKY ATLANTIC (l:gunslingertv)" tvg-ID="Sky.Atlantic.HD.uk" tvg-logo="https://logo.iptveditor.com/skyatlantic.png" group-title="UK HD ( Media4u Backup )",UK: SKY ATLANTIC (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96701.ts
-#EXTINF:0 CUID="79142" tvg-name="UK: Sky News HD (l:gunslingertv)" tvg-ID="Sky.News.HD.uk" tvg-logo="https://logo.iptveditor.com/skynews.png" group-title="UK HD ( Media4u Backup )",UK: Sky News HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96695.ts
-#EXTINF:0 CUID="79139" tvg-name="UK: SKY one (l:gunslingertv)" tvg-ID="92news.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_One_-_Logo_2020.png/220px-Sky_One_-_Logo_2020.png" group-title="UK HD ( Media4u Backup )",UK: SKY one (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96703.ts
-#EXTINF:0 CUID="79143" tvg-name="UK: Sky Witness (l:gunslingertv)" tvg-ID="Sky.Witness.HD.uk" tvg-logo="https://logo.iptveditor.com/skywitness.png" group-title="UK HD ( Media4u Backup )",UK: Sky Witness (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96775.ts
-#EXTINF:0 CUID="79140" tvg-name="UK: STV East (l:gunslingertv)" tvg-ID="stv.uk" tvg-logo="https://logo.iptveditor.com/stv.png" group-title="UK HD ( Media4u Backup )",UK: STV East (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96768.ts
-#EXTINF:0 CUID="79141" tvg-name="UK: SYFY (l:gunslingertv)" tvg-ID="SYFY.HD.uk" tvg-logo="https://logo.iptveditor.com/skyscifi.png" group-title="UK HD ( Media4u Backup )",UK: SYFY (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96700.ts
-#EXTINF:0 CUID="79144" tvg-name="UK: TCM (l:gunslingertv)" tvg-ID="92news.uk" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="UK HD ( Media4u Backup )",UK: TCM (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96699.ts
-#EXTINF:0 CUID="79145" tvg-name="UK: TINY POP (l:gunslingertv)" tvg-ID="4seven.uk" tvg-logo="https://logo.iptveditor.com/tinypop.png" group-title="UK HD ( Media4u Backup )",UK: TINY POP (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96698.ts
-#EXTINF:0 CUID="79146" tvg-name="UK: TLC (l:gunslingertv)" tvg-ID="tlc.uk" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="UK HD ( Media4u Backup )",UK: TLC (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96697.ts
-#EXTINF:0 CUID="79147" tvg-name="UK: TRAVEL CHANNEL (l:gunslingertv)" tvg-ID="92news.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" group-title="UK HD ( Media4u Backup )",UK: TRAVEL CHANNEL (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96696.ts
-#EXTINF:0 CUID="79148" tvg-name="UK: Willow HD (l:gunslingertv)" tvg-ID="willowcricket.us" tvg-logo="https://logo.iptveditor.com/willow.png" group-title="UK HD ( Media4u Backup )",UK: Willow HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96760.ts
-#EXTINF:0 CUID="79160" tvg-name="BEIN SPORTS 1 ENGLISH (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/beinsports1english.png" group-title="UK Local GS ( Media4u Backup )",BEIN SPORTS 1 ENGLISH (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96789.ts
-#EXTINF:0 CUID="79161" tvg-name="BEIN SPORTS 2 ENGLISH (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/beinsports2english.png" group-title="UK Local GS ( Media4u Backup )",BEIN SPORTS 2 ENGLISH (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96790.ts
-#EXTINF:0 CUID="79162" tvg-name="GB: Eurosport 2 HD (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="UK Local GS ( Media4u Backup )",GB: Eurosport 2 HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96803.ts
-#EXTINF:0 CUID="79163" tvg-name="GB: Racing TV HD (l:gunslingertv)" tvg-ID="Racing.TV.uk" tvg-logo="https://logo.iptveditor.com/racingtv.png" group-title="UK Local GS ( Media4u Backup )",GB: Racing TV HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96804.ts
-#EXTINF:0 CUID="79164" tvg-name="GB: Sky Sports Action FHD (l:gunslingertv)" tvg-ID="SkySp.Action.uk" tvg-logo="https://logo.iptveditor.com/skysportsaction.png" group-title="UK Local GS ( Media4u Backup )",GB: Sky Sports Action FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96805.ts
-#EXTINF:0 CUID="79165" tvg-name="GB: Sky Sports Cricket HD (l:gunslingertv)" tvg-ID="SkySp.Cricket.uk" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="UK Local GS ( Media4u Backup )",GB: Sky Sports Cricket HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96799.ts
-#EXTINF:0 CUID="79166" tvg-name="GB: Sky Sports F1 FHD (l:gunslingertv)" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="UK Local GS ( Media4u Backup )",GB: Sky Sports F1 FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96801.ts
-#EXTINF:0 CUID="79167" tvg-name="GB: Sky Sports Football FHD (l:gunslingertv)" tvg-ID="Sky.Sports.Football.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="UK Local GS ( Media4u Backup )",GB: Sky Sports Football FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96798.ts
-#EXTINF:0 CUID="79168" tvg-name="GB: Sky Sports Golf HD (l:gunslingertv)" tvg-ID="SkySp.Golf.uk" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="UK Local GS ( Media4u Backup )",GB: Sky Sports Golf HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96800.ts
-#EXTINF:0 CUID="79169" tvg-name="GB: Sky Sports Main Event FHD (l:gunslingertv)" tvg-ID="SkySpMainEv.uk" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="UK Local GS ( Media4u Backup )",GB: Sky Sports Main Event FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96796.ts
-#EXTINF:0 CUID="79170" tvg-name="GB: Sky Sports News HD (l:gunslingertv)" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://logo.iptveditor.com/skysportsnews.png" group-title="UK Local GS ( Media4u Backup )",GB: Sky Sports News HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96795.ts
-#EXTINF:0 CUID="79171" tvg-name="GB: Sky Sports Premiere League FHD (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="UK Local GS ( Media4u Backup )",GB: Sky Sports Premiere League FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96797.ts
-#EXTINF:0 CUID="79172" tvg-name="GB: Sky Sports Racing (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skysportsracing.png" group-title="UK Local GS ( Media4u Backup )",GB: Sky Sports Racing (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96802.ts
-#EXTINF:0 CUID="79173" tvg-name="UK: Viaplay Sports UK 1 HD (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/viaplaysports1.png" group-title="UK Local GS ( Media4u Backup )",UK: Viaplay Sports UK 1 HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96793.ts
-#EXTINF:0 CUID="79174" tvg-name="UK: Viaplay Sports UK 1 HD (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/viaplaysports1.png" group-title="UK Local GS ( Media4u Backup )",UK: Viaplay Sports UK 1 HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96794.ts
-#EXTINF:0 CUID="79175" tvg-name="UK: Viaplay Sports UK 2 HD (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/viaplaysports2.png" group-title="UK Local GS ( Media4u Backup )",UK: Viaplay Sports UK 2 HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96791.ts
-#EXTINF:0 CUID="79176" tvg-name="UK: Viaplay Sports UK 2 HD (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/viaplaysports2.png" group-title="UK Local GS ( Media4u Backup )",UK: Viaplay Sports UK 2 HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96792.ts
-#EXTINF:0 CUID="79177" tvg-name="UK_gs BBC Comedy (l:gunslingertv)" group-title="UK Local GS ( Media4u Backup )",UK_gs BBC Comedy (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96859.ts
-#EXTINF:0 CUID="79178" tvg-name="UK_gs BBC Earth (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/bbcearth.png" group-title="UK Local GS ( Media4u Backup )",UK_gs BBC Earth (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96863.ts
-#EXTINF:0 CUID="79179" tvg-name="UK_gs BBC Food (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/bbcfood.png" group-title="UK Local GS ( Media4u Backup )",UK_gs BBC Food (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96860.ts
-#EXTINF:0 CUID="79180" tvg-name="UK_gs BBC Home & Garden (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/bbchome&garden.png" group-title="UK Local GS ( Media4u Backup )",UK_gs BBC Home & Garden (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96864.ts
-#EXTINF:0 CUID="79181" tvg-name="UK_gs BBC News (l:gunslingertv)" tvg-ID="BBC.NEWS.HD.uk" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="UK Local GS ( Media4u Backup )",UK_gs BBC News (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96862.ts
-#EXTINF:0 CUID="79182" tvg-name="UK_gs BBC Sci-fi (l:gunslingertv)" group-title="UK Local GS ( Media4u Backup )",UK_gs BBC Sci-fi (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96865.ts
-#EXTINF:0 CUID="79183" tvg-name="UK_gs BBC Travel (l:gunslingertv)" group-title="UK Local GS ( Media4u Backup )",UK_gs BBC Travel (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96861.ts
-#EXTINF:0 CUID="79184" tvg-name="UK_gs: Alibi (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/uandalibi.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Alibi (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96806.ts
-#EXTINF:0 CUID="79185" tvg-name="UK_gs: Boomerang (l:gunslingertv)" tvg-ID="Boomerang.HD.uk" tvg-logo="https://logo.iptveditor.com/boomerang.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Boomerang (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96807.ts
-#EXTINF:0 CUID="79186" tvg-name="UK_gs: Cartoon Network (l:gunslingertv)" tvg-ID="Cartoon.Netwrk.uk" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Cartoon Network (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96808.ts
-#EXTINF:0 CUID="79187" tvg-name="UK_gs: Cartoonito (l:gunslingertv)" tvg-ID="Cartoonito.uk" tvg-logo="https://logo.iptveditor.com/cartoonito.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Cartoonito (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96809.ts
-#EXTINF:0 CUID="79188" tvg-name="UK_gs: Comedy Central (l:gunslingertv)" tvg-ID="ComedyCentral.uk" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Comedy Central (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96810.ts
-#EXTINF:0 CUID="79189" tvg-name="UK_gs: Gold (l:gunslingertv)" tvg-ID="U.and.Gold.uk" tvg-logo="https://logo.iptveditor.com/uandgold.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Gold (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96811.ts
-#EXTINF:0 CUID="79190" tvg-name="UK_gs: MTV (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: MTV (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96812.ts
-#EXTINF:0 CUID="79191" tvg-name="UK_gs: Nick Jr (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Nick Jr (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96813.ts
-#EXTINF:0 CUID="79192" tvg-name="UK_gs: Nickelodeon (l:gunslingertv)" tvg-ID="NickelodeonHD.uk" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Nickelodeon (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96814.ts
-#EXTINF:0 CUID="79193" tvg-name="UK_gs: Premier Sports 1 (l:gunslingertv)" tvg-ID="Premier.Sports.1.HD.uk" tvg-logo="https://logo.iptveditor.com/premiersports1.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Premier Sports 1 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96815.ts
-#EXTINF:0 CUID="79194" tvg-name="UK_gs: Premier Sports 2 (l:gunslingertv)" tvg-ID="Premier.Sports.2.HD.uk" tvg-logo="https://logo.iptveditor.com/premiersports2.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Premier Sports 2 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96816.ts
-#EXTINF:0 CUID="79195" tvg-name="UK_gs: Sky Arts (l:gunslingertv)" tvg-ID="Sky.Arts.HD.uk" tvg-logo="https://logo.iptveditor.com/skyarts.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Arts (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96817.ts
-#EXTINF:0 CUID="79196" tvg-name="UK_gs: Sky Atlantic (l:gunslingertv)" tvg-ID="Sky.Atlantic.HD.uk" tvg-logo="https://logo.iptveditor.com/skyatlantic.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Atlantic (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96818.ts
-#EXTINF:0 CUID="79197" tvg-name="UK_gs: Sky Cinema Action (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skycinemaaction.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema Action (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96819.ts
-#EXTINF:0 CUID="79198" tvg-name="UK_gs: Sky Cinema Animation (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skycinemaanimation.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema Animation (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96820.ts
-#EXTINF:0 CUID="79199" tvg-name="UK_gs: Sky Cinema Comedy (l:gunslingertv)" tvg-ID="Sky.Comedy.Cinema.uk" tvg-logo="https://logo.iptveditor.com/skycinemacomedy.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema Comedy (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96821.ts
-#EXTINF:0 CUID="79200" tvg-name="UK_gs: Sky Cinema Drama (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skycinemadrama.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema Drama (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96822.ts
-#EXTINF:0 CUID="79201" tvg-name="UK_gs: Sky Cinema Family (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skycinemafamily.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema Family (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96823.ts
-#EXTINF:0 CUID="79202" tvg-name="UK_gs: Sky Cinema Greats (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skycinemagreats.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema Greats (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96824.ts
-#EXTINF:0 CUID="79203" tvg-name="UK_gs: Sky Cinema Hits (l:gunslingertv)" tvg-ID="Sky.Cinema.Hits.HD.uk" tvg-logo="https://logo.iptveditor.com/skycinemahits.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema Hits (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96825.ts
-#EXTINF:0 CUID="79204" tvg-name="UK_gs: Sky Cinema Premier (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skycinemapremiere.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema Premier (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96826.ts
-#EXTINF:0 CUID="79205" tvg-name="UK_gs: Sky Cinema SciFi (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skycinemascifiandhorror.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema SciFi (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96827.ts
-#EXTINF:0 CUID="79206" tvg-name="UK_gs: Sky Cinema Select (l:gunslingertv)" tvg-ID="Sky.Cinema.Select.uk" tvg-logo="https://logo.iptveditor.com/skycinemaselect.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema Select (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96828.ts
-#EXTINF:0 CUID="79207" tvg-name="UK_gs: Sky Cinema Thriller (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skycinemathriller.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Cinema Thriller (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96829.ts
-#EXTINF:0 CUID="79208" tvg-name="UK_gs: Sky Comedy (l:gunslingertv)" tvg-ID="Sky.Comedy.HD.uk" tvg-logo="https://logo.iptveditor.com/skycomedy.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Comedy (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96830.ts
-#EXTINF:0 CUID="79209" tvg-name="UK_gs: Sky Crime (l:gunslingertv)" tvg-ID="Sky.Crime.HD.uk" tvg-logo="https://logo.iptveditor.com/skycrime.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Crime (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96831.ts
-#EXTINF:0 CUID="79210" tvg-name="UK_gs: Sky History (l:gunslingertv)" tvg-ID="Sky.History2.uk" tvg-logo="https://logo.iptveditor.com/skyhistory.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky History (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96832.ts
-#EXTINF:0 CUID="79211" tvg-name="UK_gs: Sky Kids (l:gunslingertv)" tvg-ID="Sky.Kids.HD.uk" tvg-logo="https://logo.iptveditor.com/skykids.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Kids (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96833.ts
-#EXTINF:0 CUID="79212" tvg-name="UK_gs: Sky Max (l:gunslingertv)" tvg-ID="Sky.Max.HD.uk" tvg-logo="https://logo.iptveditor.com/skymax.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Max (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96834.ts
-#EXTINF:0 CUID="79213" tvg-name="UK_gs: Sky Nature (l:gunslingertv)" tvg-ID="Sky.Nature.HD.uk" tvg-logo="https://logo.iptveditor.com/skynature.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Nature (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96835.ts
-#EXTINF:0 CUID="79214" tvg-name="UK_gs: Sky News Live (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skynews.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky News Live (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96836.ts
-#EXTINF:0 CUID="79215" tvg-name="UK_gs: Sky Showcase (l:gunslingertv)" tvg-ID="Sky.Showcase.uk" tvg-logo="https://logo.iptveditor.com/skyshowcase.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Showcase (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96837.ts
-#EXTINF:0 CUID="79216" tvg-name="UK_gs: Sky Sports 1 UHD (l:gunslingertv)" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://logo.iptveditor.com/skysport.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports 1 UHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96838.ts
-#EXTINF:0 CUID="79217" tvg-name="UK_gs: Sky Sports 2 UHD (l:gunslingertv)" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://logo.iptveditor.com/skysport.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports 2 UHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96839.ts
-#EXTINF:0 CUID="79218" tvg-name="UK_gs: Sky Sports Action (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skysportsaction.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports Action (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96840.ts
-#EXTINF:0 CUID="79219" tvg-name="UK_gs: Sky Sports Cricket (l:gunslingertv)" tvg-ID="SkySp.Cricket.uk" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports Cricket (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96841.ts
-#EXTINF:0 CUID="79220" tvg-name="UK_gs: Sky Sports F1 (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports F1 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96842.ts
-#EXTINF:0 CUID="79221" tvg-name="UK_gs: Sky Sports F1 UHD (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports F1 UHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96843.ts
-#EXTINF:0 CUID="79222" tvg-name="UK_gs: Sky Sports Football (l:gunslingertv)" tvg-ID="Sky.Sports.Football.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports Football (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96844.ts
-#EXTINF:0 CUID="79223" tvg-name="UK_gs: Sky Sports Golf (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports Golf (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96845.ts
-#EXTINF:0 CUID="79224" tvg-name="UK_gs: Sky Sports Main Event (l:gunslingertv)" tvg-ID="SkySpMainEv.uk" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports Main Event (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96846.ts
-#EXTINF:0 CUID="79225" tvg-name="UK_gs: Sky Sports Main Event UHD (l:gunslingertv)" tvg-ID="SkySpMainEv.uk" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports Main Event UHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96847.ts
-#EXTINF:0 CUID="79226" tvg-name="UK_gs: Sky Sports Mix (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports Mix (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96848.ts
-#EXTINF:0 CUID="79227" tvg-name="UK_gs: Sky Sports News (l:gunslingertv)" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://logo.iptveditor.com/skysportsnews.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports News (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96849.ts
-#EXTINF:0 CUID="79228" tvg-name="UK_gs: Sky Sports Plus (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skysportsplusbug.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports Plus (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96850.ts
-#EXTINF:0 CUID="79229" tvg-name="UK_gs: Sky Sports Racing (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skysportsracing.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports Racing (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96851.ts
-#EXTINF:0 CUID="79230" tvg-name="UK_gs: Sky Sports Tennis (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/skysportstennis.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Sports Tennis (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96852.ts
-#EXTINF:0 CUID="79231" tvg-name="UK_gs: Sky Witness (l:gunslingertv)" tvg-ID="Sky.Witness.HD.uk" tvg-logo="https://logo.iptveditor.com/skywitness.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: Sky Witness (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96853.ts
-#EXTINF:0 CUID="79232" tvg-name="UK_gs: TNT Sports 1 (l:gunslingertv)" tvg-ID="TNT.Sports.10.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: TNT Sports 1 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96854.ts
-#EXTINF:0 CUID="79233" tvg-name="UK_gs: TNT Sports 2 (l:gunslingertv)" tvg-ID="TNT.Sports.2.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports2.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: TNT Sports 2 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96855.ts
-#EXTINF:0 CUID="79234" tvg-name="UK_gs: TNT Sports 3 (l:gunslingertv)" tvg-ID="TNT.Sports.3.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports3.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: TNT Sports 3 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96856.ts
-#EXTINF:0 CUID="79235" tvg-name="UK_gs: TNT Sports 4 (l:gunslingertv)" tvg-ID="TNT.Sports.4.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports4.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: TNT Sports 4 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96857.ts
-#EXTINF:0 CUID="79236" tvg-name="UK_gs: TNT Sports Ultimate UHD (l:gunslingertv)" tvg-ID="TNT.Sports.Ultimate.uk" tvg-logo="https://logo.iptveditor.com/tntsportsultimate.png" group-title="UK Local GS ( Media4u Backup )",UK_gs: TNT Sports Ultimate UHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96858.ts
-#EXTINF:0 CUID="79267" tvg-name="UK: Sky Animation FHD (l:gunslingertv)" tvg-ID="SkyAnimationHD.uk" tvg-logo="https://logo.iptveditor.com/skycinemaanimation.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Animation FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96895.ts
-#EXTINF:0 CUID="79268" tvg-name="UK: Sky Arts HD (l:gunslingertv)" tvg-ID="Sky.Arts.HD.uk" tvg-logo="https://logo.iptveditor.com/skyarts.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Arts HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96893.ts
-#EXTINF:0 CUID="79269" tvg-name="UK: Sky Atlantic HD (l:gunslingertv)" tvg-ID="Sky.Atlantic.HD.uk" tvg-logo="https://logo.iptveditor.com/skyatlantic.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Atlantic HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96899.ts
-#EXTINF:0 CUID="79270" tvg-name="UK: Sky Cinema Action HD (l:gunslingertv)" tvg-ID="skyaction.uk" tvg-logo="https://logo.iptveditor.com/skycinemaaction.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Cinema Action HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96902.ts
-#EXTINF:0 CUID="79271" tvg-name="UK: Sky Cinema Comedy HD (l:gunslingertv)" tvg-ID="Sky.Comedy.Cinema.uk" tvg-logo="https://logo.iptveditor.com/skycinemacomedy.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Cinema Comedy HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96896.ts
-#EXTINF:0 CUID="79272" tvg-name="UK: Sky Cinema Drama HD (l:gunslingertv)" tvg-ID="skydrama.uk" tvg-logo="https://logo.iptveditor.com/skycinemadrama.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Cinema Drama HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96898.ts
-#EXTINF:0 CUID="79264" tvg-name="UK: SKY CINEMA FAMILY HD (l:gunslingertv)" tvg-ID="skyfamily.uk" tvg-logo="https://logo.iptveditor.com/skycinemafamily.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: SKY CINEMA FAMILY HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96905.ts
-#EXTINF:0 CUID="79273" tvg-name="UK: Sky Cinema Greats HD (l:gunslingertv)" tvg-ID="skygreats.uk" tvg-logo="https://logo.iptveditor.com/skycinemagreats.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Cinema Greats HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96901.ts
-#EXTINF:0 CUID="79274" tvg-name="UK: Sky Cinema Hits HD (l:gunslingertv)" tvg-ID="Sky.Cinema.Hits.HD.uk" tvg-logo="https://logo.iptveditor.com/skycinemahits.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Cinema Hits HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96906.ts
-#EXTINF:0 CUID="79275" tvg-name="UK: Sky Cinema Premier HD (l:gunslingertv)" tvg-ID="skypremiere.uk" tvg-logo="https://logo.iptveditor.com/skycinemapremiere.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Cinema Premier HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96894.ts
-#EXTINF:0 CUID="79276" tvg-name="UK: Sky Cinema Premier HD (l:gunslingertv)" tvg-ID="skypremiere.uk" tvg-logo="https://logo.iptveditor.com/skycinemapremiere.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Cinema Premier HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96900.ts
-#EXTINF:0 CUID="79277" tvg-name="UK: Sky Cinema SciFi and Horror FHD (l:gunslingertv)" tvg-ID="skyscifihorror.uk" tvg-logo="https://logo.iptveditor.com/skycinemascifiandhorror.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sky Cinema SciFi and Horror FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96897.ts
-#EXTINF:0 CUID="79265" tvg-name="UK: SKY CINEMA SELECT HD (l:gunslingertv)" tvg-ID="Sky.Cinema.Select.uk" tvg-logo="https://logo.iptveditor.com/skycinemaselect.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: SKY CINEMA SELECT HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96904.ts
-#EXTINF:0 CUID="79266" tvg-name="UK: SKY CINEMA THRILLER HD (l:gunslingertv)" tvg-ID="92news.uk" tvg-logo="https://logo.iptveditor.com/skycinemathriller.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: SKY CINEMA THRILLER HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96903.ts
-#EXTINF:0 CUID="79278" tvg-name="UK: Sony Channel (l:gunslingertv)" tvg-ID="Channel.5.uk" tvg-logo="https://logo.iptveditor.com/sonychannel.png" group-title="UK MOVIES HD ( Media4u Backup )",UK: Sony Channel (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/96907.ts
-#EXTINF:0 CUID="79407" tvg-name="TNT 4 (l:gunslingertv)" tvg-ID="92news.uk" tvg-logo="https://logo.iptveditor.com/tntsports4.png" group-title="UK SPORTS HD ( Media4u Backup )",TNT 4 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97053.ts
-#EXTINF:0 CUID="79408" tvg-name="TNT Sport 1 FHD (l:gunslingertv)" tvg-ID="TNT.Sports.5.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="UK SPORTS HD ( Media4u Backup )",TNT Sport 1 FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97061.ts
-#EXTINF:0 CUID="79409" tvg-name="TNT Sport 2 FHD (l:gunslingertv)" tvg-ID="TNT.Sports.5.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports2.png" group-title="UK SPORTS HD ( Media4u Backup )",TNT Sport 2 FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97055.ts
-#EXTINF:0 CUID="79410" tvg-name="TNT Sport 3 FHD (l:gunslingertv)" tvg-ID="TNT.Sports.5.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports3.png" group-title="UK SPORTS HD ( Media4u Backup )",TNT Sport 3 FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97054.ts
-#EXTINF:0 CUID="79411" tvg-name="UK: Betfred TV (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/betfredtv.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: Betfred TV (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97056.ts
-#EXTINF:0 CUID="79412" tvg-name="UK: Coral TV 1 (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/coraltv02.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: Coral TV 1 (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97057.ts
-#EXTINF:0 CUID="79413" tvg-name="UK: EuroSport 1 HD (l:gunslingertv)" tvg-ID="eurosport1.uk" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: EuroSport 1 HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97036.ts
-#EXTINF:0 CUID="79415" tvg-name="UK: Eurosport 1 SD (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: Eurosport 1 SD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97059.ts
-#EXTINF:0 CUID="79414" tvg-name="UK: EuroSport 2 HD (l:gunslingertv)" tvg-ID="eurosport2.uk" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: EuroSport 2 HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97037.ts
-#EXTINF:0 CUID="79431" tvg-name="UK: freesports hd (l:gunslingertv)" tvg-logo="https://logo.iptveditor.com/freesports.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: freesports hd (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97058.ts
-#EXTINF:0 CUID="79416" tvg-name="UK: LFC TV HD (l:gunslingertv)" tvg-ID="LFCTV.HD.uk" tvg-logo="https://logo.iptveditor.com/lfctv.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: LFC TV HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97060.ts
-#EXTINF:0 CUID="79417" tvg-name="UK: Premier Sports 1 HD  (l:gunslingertv)" tvg-ID="Premier.Sports.1.HD.uk" tvg-logo="https://logo.iptveditor.com/premiersports1.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: Premier Sports 1 HD  (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97049.ts
-#EXTINF:0 CUID="79432" tvg-name="UK: premier Sports 2 HD (l:gunslingertv)" tvg-ID="Premier.Sports.2.HD.uk" tvg-logo="https://logo.iptveditor.com/premiersports2.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: premier Sports 2 HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97040.ts
-#EXTINF:0 CUID="79418" tvg-name="UK: Racing  HD (l:gunslingertv)" tvg-ID="Racing.TV.HD.uk" tvg-logo="https://logo.iptveditor.com/racing1p.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: Racing  HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97039.ts
-#EXTINF:0 CUID="79428" tvg-name="UK: Sky Sports Action FHD (l:gunslingertv)" tvg-ID="SkySp.Action.uk" tvg-logo="https://logo.iptveditor.com/skysportsaction.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: Sky Sports Action FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97051.ts
-#EXTINF:0 CUID="79419" tvg-name="UK: SKY SPORTS ARENA FHD (l:gunslingertv)" tvg-ID="92news.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: SKY SPORTS ARENA FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97041.ts
-#EXTINF:0 CUID="79420" tvg-name="UK: SKY SPORTS CRICKET FHD (l:gunslingertv)" tvg-ID="SkySp.Cricket.uk" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: SKY SPORTS CRICKET FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97042.ts
-#EXTINF:0 CUID="79421" tvg-name="UK: SKY SPORTS F1 HD (l:gunslingertv)" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: SKY SPORTS F1 HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97046.ts
-#EXTINF:0 CUID="79429" tvg-name="UK: Sky Sports Football FHD (l:gunslingertv)" tvg-ID="Sky.Sports.Football.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: Sky Sports Football FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97050.ts
-#EXTINF:0 CUID="79422" tvg-name="UK: SKY SPORTS GOLF FHD (l:gunslingertv)" tvg-ID="SkySp.Golf.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: SKY SPORTS GOLF FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97047.ts
-#EXTINF:0 CUID="79423" tvg-name="UK: SKY SPORTS MAIN EVENT FHD (l:gunslingertv)" tvg-ID="SkySpMainEv.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: SKY SPORTS MAIN EVENT FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97043.ts
-#EXTINF:0 CUID="79424" tvg-name="UK: SKY SPORTS MIX FHD (l:gunslingertv)" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: SKY SPORTS MIX FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97044.ts
-#EXTINF:0 CUID="79425" tvg-name="UK: SKY SPORTS NEWS FHD (l:gunslingertv)" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://logo.iptveditor.com/skysportsnews.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: SKY SPORTS NEWS FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97052.ts
-#EXTINF:0 CUID="79430" tvg-name="UK: Sky Sports News HD (l:gunslingertv)" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: Sky Sports News HD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97038.ts
-#EXTINF:0 CUID="79426" tvg-name="UK: SKY SPORTS PREMIER LEAGUE FHD (l:gunslingertv)" tvg-ID="skysportspremiereleague.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: SKY SPORTS PREMIER LEAGUE FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97045.ts
-#EXTINF:0 CUID="79427" tvg-name="UK: SKY SPORTS RACING FHD (l:gunslingertv)" tvg-ID="skysportsracing.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD ( Media4u Backup )",UK: SKY SPORTS RACING FHD (l:gunslingertv)
-https://m3ufilter.media4u.top/live/media4u/media4u/97048.ts
 #EXTINF:0 CUID="79489" tvg-name="Amazon UK Eurosport 1 FHD (l:proxpanel)" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="UK | Amazon ( Media4u )",Amazon UK Eurosport 1 FHD (l:proxpanel)
 https://m3ufilter.media4u.top/live/media4u/media4u/97136.ts
 #EXTINF:0 CUID="79490" tvg-name="Amazon UK Eurosport 2 FHD (l:proxpanel)" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="UK | Amazon ( Media4u )",Amazon UK Eurosport 2 FHD (l:proxpanel)
@@ -14383,6 +13981,14 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/299106
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8585
 #EXTINF:0 CUID="313961" tvg-name="Travel Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/a8130c54266d7463472fcfdf096b1b0f.png" group-title="USA (IPTVtree)",Travel Channel
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1066
+#EXTINF:0 CUID="333807" tvg-name="Ace TV" group-title="USA (IPTVtree)",Ace TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306938
+#EXTINF:0 CUID="333809" tvg-name="American Crime" group-title="USA (IPTVtree)",American Crime
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306940
+#EXTINF:0 CUID="333811" tvg-name="Anger Management Channel" group-title="USA (IPTVtree)",Anger Management Channel
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306941
+#EXTINF:0 CUID="333815" tvg-name="Automotion" group-title="USA (IPTVtree)",Automotion
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306942
 #EXTINF:0 CUID="314095" tvg-name="Agrotendencia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-03/2edd8cdd8af5b32184fff6f48e91eaf7.png" group-title="Venezuela  (IPTVtree)",Agrotendencia TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/286037
 #EXTINF:0 CUID="314096" tvg-name="AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-03/73e6f9be660db6716009ef873d1c7787.png" group-title="Venezuela  (IPTVtree)",AMC
@@ -14897,3 +14503,109 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/266321
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/266320
 #EXTINF:0 CUID="314591" tvg-name="Yemen TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/f9fc99a62ad17a325e8d0127fb787b0b.png" group-title="Yemen (IPTVtree)",Yemen TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/266322
+#EXTINF:0 CUID="323678" tvg-name="= = = = = SWITZERLAND = = = = = (l:medotv)" group-title=" SWITZERLAND",= = = = = SWITZERLAND = = = = = (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248685.ts
+#EXTINF:0 CUID="323679" tvg-name="CH: 4+ HD (l:medotv)" group-title=" SWITZERLAND",CH: 4+ HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248686.ts
+#EXTINF:0 CUID="323680" tvg-name="CH: 5+ HD (l:medotv)" group-title=" SWITZERLAND",CH: 5+ HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248687.ts
+#EXTINF:0 CUID="323681" tvg-name="CH: 6TER Suisse HD (l:medotv)" group-title=" SWITZERLAND",CH: 6TER Suisse HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248688.ts
+#EXTINF:0 CUID="323682" tvg-name="CH: BLUE Sport 1 HD (l:medotv)" group-title=" SWITZERLAND",CH: BLUE Sport 1 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248689.ts
+#EXTINF:0 CUID="323683" tvg-name="CH: BLUE Sport 2 HD (l:medotv)" group-title=" SWITZERLAND",CH: BLUE Sport 2 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248690.ts
+#EXTINF:0 CUID="323684" tvg-name="CH: BLUE ZOOM D HD (l:medotv)" group-title=" SWITZERLAND",CH: BLUE ZOOM D HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248691.ts
+#EXTINF:0 CUID="323685" tvg-name="CH: Canal Alpha JURA HD (l:medotv)" group-title=" SWITZERLAND",CH: Canal Alpha JURA HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248692.ts
+#EXTINF:0 CUID="323686" tvg-name="CH: Comedy Central HD (l:medotv)" group-title=" SWITZERLAND",CH: Comedy Central HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248693.ts
+#EXTINF:0 CUID="323687" tvg-name="CH: DIE NEUE ZEIT TV HD (l:medotv)" group-title=" SWITZERLAND",CH: DIE NEUE ZEIT TV HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248694.ts
+#EXTINF:0 CUID="323688" tvg-name="CH: Eurosport 1 HD (l:medotv)" group-title=" SWITZERLAND",CH: Eurosport 1 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248695.ts
+#EXTINF:0 CUID="323689" tvg-name="CH: Eurosport 2 HD (l:medotv)" group-title=" SWITZERLAND",CH: Eurosport 2 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248696.ts
+#EXTINF:0 CUID="323690" tvg-name="CH: History HD (l:medotv)" group-title=" SWITZERLAND",CH: History HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248697.ts
+#EXTINF:0 CUID="323691" tvg-name="CH: Kabel EINS Schweiz HD (l:medotv)" group-title=" SWITZERLAND",CH: Kabel EINS Schweiz HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248698.ts
+#EXTINF:0 CUID="323692" tvg-name="CH: Kanal 9 (FR) HD (l:medotv)" group-title=" SWITZERLAND",CH: Kanal 9 (FR) HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248699.ts
+#EXTINF:0 CUID="323693" tvg-name="CH: Kanal 9 HD (l:medotv)" group-title=" SWITZERLAND",CH: Kanal 9 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248700.ts
+#EXTINF:0 CUID="323694" tvg-name="CH: LA TELE HD (l:medotv)" group-title=" SWITZERLAND",CH: LA TELE HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248701.ts
+#EXTINF:0 CUID="323695" tvg-name="CH: M6 Suisse HD (l:medotv)" group-title=" SWITZERLAND",CH: M6 Suisse HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248702.ts
+#EXTINF:0 CUID="323696" tvg-name="CH: Mysports 1 HD (l:medotv)" group-title=" SWITZERLAND",CH: Mysports 1 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248703.ts
+#EXTINF:0 CUID="323697" tvg-name="CH: Mysports 2 HD (l:medotv)" group-title=" SWITZERLAND",CH: Mysports 2 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248704.ts
+#EXTINF:0 CUID="323698" tvg-name="CH: Mysports 3 HD (l:medotv)" group-title=" SWITZERLAND",CH: Mysports 3 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248705.ts
+#EXTINF:0 CUID="323699" tvg-name="CH: Mysports 4 HD (l:medotv)" group-title=" SWITZERLAND",CH: Mysports 4 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248706.ts
+#EXTINF:0 CUID="323700" tvg-name="CH: Mysports 5 HD (l:medotv)" group-title=" SWITZERLAND",CH: Mysports 5 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248707.ts
+#EXTINF:0 CUID="323701" tvg-name="CH: Mysports 6 HD (l:medotv)" group-title=" SWITZERLAND",CH: Mysports 6 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248708.ts
+#EXTINF:0 CUID="323702" tvg-name="CH: Mysports 7 HD (l:medotv)" group-title=" SWITZERLAND",CH: Mysports 7 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248709.ts
+#EXTINF:0 CUID="323703" tvg-name="CH: Mysports 8 HD (l:medotv)" group-title=" SWITZERLAND",CH: Mysports 8 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248710.ts
+#EXTINF:0 CUID="323704" tvg-name="CH: Mysports 9 HD (l:medotv)" group-title=" SWITZERLAND",CH: Mysports 9 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248711.ts
+#EXTINF:0 CUID="323705" tvg-name="CH: NAT GEO HD (l:medotv)" group-title=" SWITZERLAND",CH: NAT GEO HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248712.ts
+#EXTINF:0 CUID="323706" tvg-name="CH: NAT GEO WILD HD (l:medotv)" group-title=" SWITZERLAND",CH: NAT GEO WILD HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248713.ts
+#EXTINF:0 CUID="323707" tvg-name="CH: NICK JR HD (l:medotv)" group-title=" SWITZERLAND",CH: NICK JR HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248714.ts
+#EXTINF:0 CUID="323708" tvg-name="CH: PULS ACHT HD (l:medotv)" group-title=" SWITZERLAND",CH: PULS ACHT HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248715.ts
+#EXTINF:0 CUID="323709" tvg-name="CH: Prosieben Schweiz HD (l:medotv)" group-title=" SWITZERLAND",CH: Prosieben Schweiz HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248716.ts
+#EXTINF:0 CUID="323710" tvg-name="CH: RSI LA 1 HD (l:medotv)" group-title=" SWITZERLAND",CH: RSI LA 1 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248717.ts
+#EXTINF:0 CUID="323711" tvg-name="CH: RSI LA 2 HD (l:medotv)" group-title=" SWITZERLAND",CH: RSI LA 2 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248718.ts
+#EXTINF:0 CUID="323712" tvg-name="CH: RTS 1 HD (l:medotv)" group-title=" SWITZERLAND",CH: RTS 1 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248719.ts
+#EXTINF:0 CUID="323713" tvg-name="CH: RTS 2 HD (l:medotv)" group-title=" SWITZERLAND",CH: RTS 2 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248720.ts
+#EXTINF:0 CUID="323714" tvg-name="CH: Rouge TV HD (l:medotv)" group-title=" SWITZERLAND",CH: Rouge TV HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248721.ts
+#EXTINF:0 CUID="323715" tvg-name="CH: SAT 1 Schweiz HD (l:medotv)" group-title=" SWITZERLAND",CH: SAT 1 Schweiz HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248722.ts
+#EXTINF:0 CUID="323716" tvg-name="CH: SRF 1 HD (l:medotv)" group-title=" SWITZERLAND",CH: SRF 1 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248723.ts
+#EXTINF:0 CUID="323717" tvg-name="CH: SRF INFO HD (l:medotv)" group-title=" SWITZERLAND",CH: SRF INFO HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248724.ts
+#EXTINF:0 CUID="323718" tvg-name="CH: SRF ZWEI HD (l:medotv)" group-title=" SWITZERLAND",CH: SRF ZWEI HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248725.ts
+#EXTINF:0 CUID="323719" tvg-name="CH: TELE 1 HD (l:medotv)" group-title=" SWITZERLAND",CH: TELE 1 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248726.ts
+#EXTINF:0 CUID="323720" tvg-name="CH: TF 1 HD (l:medotv)" group-title=" SWITZERLAND",CH: TF 1 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248727.ts
+#EXTINF:0 CUID="323721" tvg-name="CH: TV 24 HD (l:medotv)" group-title=" SWITZERLAND",CH: TV 24 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248728.ts
+#EXTINF:0 CUID="323722" tvg-name="CH: TVO HD (l:medotv)" group-title=" SWITZERLAND",CH: TVO HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248729.ts
+#EXTINF:0 CUID="323723" tvg-name="CH: Telebarn HD (l:medotv)" group-title=" SWITZERLAND",CH: Telebarn HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248730.ts
+#EXTINF:0 CUID="323724" tvg-name="CH: Telebielingue HD (l:medotv)" group-title=" SWITZERLAND",CH: Telebielingue HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248731.ts
+#EXTINF:0 CUID="323725" tvg-name="CH: Teleticino HD (l:medotv)" group-title=" SWITZERLAND",CH: Teleticino HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248732.ts
+#EXTINF:0 CUID="323726" tvg-name="CH: Telezuri HD (l:medotv)" group-title=" SWITZERLAND",CH: Telezuri HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248733.ts
+#EXTINF:0 CUID="323727" tvg-name="CH: V FILM Premiere HD (l:medotv)" group-title=" SWITZERLAND",CH: V FILM Premiere HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248734.ts
+#EXTINF:0 CUID="323728" tvg-name="CH: V Sport LIVE 1 HD (l:medotv)" group-title=" SWITZERLAND",CH: V Sport LIVE 1 HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248735.ts
+#EXTINF:0 CUID="323729" tvg-name="CH: W9 Suisse HD (l:medotv)" group-title=" SWITZERLAND",CH: W9 Suisse HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248736.ts
+#EXTINF:0 CUID="323730" tvg-name="CH: Wetter TV HD (l:medotv)" group-title=" SWITZERLAND",CH: Wetter TV HD (l:medotv)
+https://m3ufilter.media4u.top/live/media4u/media4u/248737.ts
