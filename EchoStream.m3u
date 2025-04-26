@@ -65,22 +65,12 @@ https://vod.ppv.wtf/mfn/index.m3u8?md5=e8FHHX2npbO8uUha4_14yQ&expires=1745733600
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=RgZOovYGvgMTmnNPCZShoA&expires=1745728800&net=MjEyLjEwMi41MC4xMDk%3D
 #EXTINF:0 CUID="380698" tvg-name="09:40 AM None | Miami Marlins vs. Seattle Mariners | 04/27/25" tvg-logo="https://i.imgur.com/SSjr1Bc.png" group-title="PPV (A1X, PPVLAND)",09:40 AM None | Miami Marlins vs. Seattle Mariners | 04/27/25
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=RgZOovYGvgMTmnNPCZShoA&expires=1745728800&net=MjEyLjEwMi41MC4xMDk%3D
-#EXTINF:0 CUID="713" tvg-name="A1X Live Event 1" tvg-ID="dummy-1" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 1
-https://a1xs.vip/ppv1
 #EXTINF:0 CUID="380699" tvg-name="02:15 AM None | Milwaukee Brewers vs. St. Louis Cardinals | 04/27/25" tvg-logo="https://i.imgur.com/RsZb9He.png" group-title="PPV (A1X, PPVLAND)",02:15 AM None | Milwaukee Brewers vs. St. Louis Cardinals | 04/27/25
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=9R2idyEn10Hd8V9CzI6sGg&expires=1745702100&net=MjEyLjEwMi41MC4xMDk%3D
-#EXTINF:0 CUID="714" tvg-name="A1X Live Event 2" tvg-ID="dummy-2" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 2
-https://a1xs.vip/ppv2
 #EXTINF:0 CUID="380700" tvg-name="02:15 AM None | Milwaukee Brewers vs. St. Louis Cardinals | 04/27/25" tvg-logo="https://i.imgur.com/lMOagzF.png" group-title="PPV (A1X, PPVLAND)",02:15 AM None | Milwaukee Brewers vs. St. Louis Cardinals | 04/27/25
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=9R2idyEn10Hd8V9CzI6sGg&expires=1745702100&net=MjEyLjEwMi41MC4xMDk%3D
-#EXTINF:0 CUID="715" tvg-name="A1X Live Event 3" tvg-ID="dummy-3" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 3
-https://a1xs.vip/ppv3
 #EXTINF:0 CUID="380701" tvg-name="04:05 AM None | New York Mets vs. Washington Nationals | 04/27/25" tvg-logo="https://i.imgur.com/OarejfE.png" group-title="PPV (A1X, PPVLAND)",04:05 AM None | New York Mets vs. Washington Nationals | 04/27/25
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDFhNjk4YjE5YzA3LTgyMmEtYmVjNC04N2RlLTIyYWI2MDlm/master.m3u8?md5=5Iev0Vl5rD2ErpEAPzYihg&expires=1745708700&net=MjEyLjEwMi41MC4xMDk%3D
-#EXTINF:0 CUID="716" tvg-name="A1X Live Event 4" tvg-ID="dummy-4" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 4
-https://a1xs.vip/ppv4
-#EXTINF:0 CUID="717" tvg-name="A1X Live Event 5" tvg-ID="dummy-5" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 5
-https://a1xs.vip/ppv5
 #EXTINF:0 CUID="380702" tvg-name="04:05 AM None | New York Mets vs. Washington Nationals | 04/27/25" tvg-logo="https://i.imgur.com/gtr3rgU.png" group-title="PPV (A1X, PPVLAND)",04:05 AM None | New York Mets vs. Washington Nationals | 04/27/25
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDFhNjk4YjE5YzA3LTgyMmEtYmVjNC04N2RlLTIyYWI2MDlm/master.m3u8?md5=5Iev0Vl5rD2ErpEAPzYihg&expires=1745708700&net=MjEyLjEwMi41MC4xMDk%3D
 #EXTINF:0 CUID="380703" tvg-name="06:00 AM None | Nuggets at Clippers | 04/27/25" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/den-lac/1280x720.png" group-title="PPV (A1X, PPVLAND)",06:00 AM None | Nuggets at Clippers | 04/27/25
@@ -127,6 +117,16 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtN
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDgtNjM5NC0yZTZkLTk3NWI5Nzhh/master.m3u8?md5=e8FHHX2npbO8uUha4_14yQ&expires=1745733600&net=MjEyLjEwMi41MC4xMDk%3D
 #EXTINF:0 CUID="380724" tvg-name="04:00 AM None | Vegas Golden Knights vs. Minnesota Wild | 04/27/25" tvg-logo="https://i.imgur.com/WyboMAO.png" group-title="PPV (A1X, PPVLAND)",04:00 AM None | Vegas Golden Knights vs. Minnesota Wild | 04/27/25
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=JyLlQOcmuWbRDA8nmB6GOQ&expires=1745708400&net=MjEyLjEwMi41MC4xMDk%3D
+#EXTINF:0 CUID="713" tvg-name="A1X Live Event 1" tvg-ID="dummy-1" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 1
+https://a1xs.vip/ppv1
+#EXTINF:0 CUID="714" tvg-name="A1X Live Event 2" tvg-ID="dummy-2" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 2
+https://a1xs.vip/ppv2
+#EXTINF:0 CUID="715" tvg-name="A1X Live Event 3" tvg-ID="dummy-3" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 3
+https://a1xs.vip/ppv3
+#EXTINF:0 CUID="716" tvg-name="A1X Live Event 4" tvg-ID="dummy-4" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 4
+https://a1xs.vip/ppv4
+#EXTINF:0 CUID="717" tvg-name="A1X Live Event 5" tvg-ID="dummy-5" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 5
+https://a1xs.vip/ppv5
 #EXTINF:0 CUID="738" tvg-name="Astro Premier League" tvg-ID="AstroPremierLeague.my" tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="EPL   (A1X)",Astro Premier League
 https://a1xs.vip/1100030
 #EXTINF:0 CUID="739" tvg-name="Astro Premier League 2" tvg-ID="AstroPremierLeague2.my" tvg-logo="https://i.imgur.com/QtsG3ra.png" group-title="EPL   (A1X)",Astro Premier League 2
