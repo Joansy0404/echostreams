@@ -18,7 +18,7 @@ jobs:
         run: wget http://opop.pro/mzQgYQA9VGbS4 -O PIXEL_CLOUD.m3u
 
       - name: Add file to Git
-        run: git add PIXEL CLOUD.m3u
+        run: git add PIXEL_CLOUD.m3u
 
       - name: Check for changes before commit
         id: changes
@@ -35,7 +35,7 @@ jobs:
         run: |
           git config --local user.email "xxmartinxx1990@gmai.com"
           git config --local user.name "Joansy0404"
-          git commit -m "Updated EchoStream.m3u"
+          git commit -m "Updated PIXEL CLOUD.m3u"
 
       - name: Push changes if commit happened
         if: env.changes_detected == 'true'
