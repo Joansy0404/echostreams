@@ -119,14 +119,14 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDgtN
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=JyLlQOcmuWbRDA8nmB6GOQ&expires=1745708400&net=MjEyLjEwMi41MC4xMDk%3D
 #EXTINF:0 CUID="713" tvg-name="A1X Live Event 1" tvg-ID="dummy-1" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 1
 https://a1xs.vip/ppv1
-#EXTINF:0 CUID="714" tvg-name="A1X Live Event 2" tvg-ID="dummy-2" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 2
-https://a1xs.vip/ppv2
 #EXTINF:0 CUID="380730" tvg-name="07:00 AM None | AMA Supercross: Pittsburgh | 04/27/25" tvg-logo="https://i.imgur.com/ygt5ZA5.png" group-title="PPV (A1X, PPVLAND)",07:00 AM None | AMA Supercross: Pittsburgh | 04/27/25
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjQ4MTZhY2Q4NDZlLTg2N2ItZTZhNC1kZGY3LTk5NzU0NTJh/master.m3u8?md5=EGbucuK0h7wEKMyEpx1NZw&expires=1745722800&net=MTkzLjE5LjIwNi40MQ%3D%3D
-#EXTINF:0 CUID="715" tvg-name="A1X Live Event 3" tvg-ID="dummy-3" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 3
-https://a1xs.vip/ppv3
+#EXTINF:0 CUID="714" tvg-name="A1X Live Event 2" tvg-ID="dummy-2" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 2
+https://a1xs.vip/ppv2
 #EXTINF:0 CUID="380731" tvg-name="08:10 AM None | Atlanta Braves vs. Arizona Diamondbacks | 04/27/25" tvg-logo="https://i.imgur.com/JX7rKMH.png" group-title="PPV (A1X, PPVLAND)",08:10 AM None | Atlanta Braves vs. Arizona Diamondbacks | 04/27/25
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWVhYWY3YmY4OGUzLWM0NmItZWUzNC1hZGE1LTU2NDk5ZGIy/master.m3u8?md5=JU4o0-BLWfRmUEazE7fWJw&expires=1745723400&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="715" tvg-name="A1X Live Event 3" tvg-ID="dummy-3" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 3
+https://a1xs.vip/ppv3
 #EXTINF:0 CUID="716" tvg-name="A1X Live Event 4" tvg-ID="dummy-4" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 4
 https://a1xs.vip/ppv4
 #EXTINF:0 CUID="380732" tvg-name="08:10 AM None | Atlanta Braves vs. Arizona Diamondbacks | 04/27/25" tvg-logo="https://i.imgur.com/11o4lIb.png" group-title="PPV (A1X, PPVLAND)",08:10 AM None | Atlanta Braves vs. Arizona Diamondbacks | 04/27/25
@@ -299,6 +299,56 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtY
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=5rFw8X-dP7hCEh6iv7qXxw&expires=1745725200&net=MTk0LjIzMy4xMDAuMTc2
 #EXTINF:0 CUID="391255" tvg-name="06:00 AM None | UFC Fight Night: Machado Garry vs. Prates | 04/27/25" tvg-logo="https://i.imgur.com/xp1zqVu.jpeg" group-title="PPV (A1X, PPVLAND)",06:00 AM None | UFC Fight Night: Machado Garry vs. Prates | 04/27/25
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDgtNjM5NC0yZTZkLTk3NWI5Nzhh/master.m3u8?md5=EwEkVIY1J1nAN9TvaoBg4Q&expires=1745733600&net=MTk0LjIzMy4xMDAuMTc2
+#EXTINF:0 CUID="391261" tvg-name="04:10 AM None | Atlanta Braves vs. Arizona Diamondbacks | 04/28/25" tvg-logo="https://i.imgur.com/6jvoSxe.png" group-title="PPV (A1X, PPVLAND)",04:10 AM None | Atlanta Braves vs. Arizona Diamondbacks | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWVhYWY3YmY4OGUzLWM0NmItZWUzNC1hZGE1LTU2NDk5ZGIy/master.m3u8?md5=g6daXoW24okVQC-pV6SalQ&expires=1745795400&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391262" tvg-name="01:40 AM None | Baltimore Orioles vs. Detroit Tigers | 04/28/25" tvg-logo="https://i.imgur.com/oTONScn.png" group-title="PPV (A1X, PPVLAND)",01:40 AM None | Baltimore Orioles vs. Detroit Tigers | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=441aD4iY-QY9c3zmbd81ig&expires=1745786400&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391263" tvg-name="01:40 AM None | Boston Red Sox vs. Cleveland Guardians | 04/28/25" tvg-logo="https://i.imgur.com/nYLC5vJ.png" group-title="PPV (A1X, PPVLAND)",01:40 AM None | Boston Red Sox vs. Cleveland Guardians | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=441aD4iY-QY9c3zmbd81ig&expires=1745786400&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391264" tvg-name="03:30 AM None | Carolina Hurricanes vs. New Jersey Devils | 04/28/25" tvg-logo="https://i.imgur.com/RFlkiCe.png" group-title="PPV (A1X, PPVLAND)",03:30 AM None | Carolina Hurricanes vs. New Jersey Devils | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=qs8d9ZiQDTeFkTTsR4_9sw&expires=1745793000&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391265" tvg-name="04:05 AM None | Chicago White Sox vs. Athletics | 04/28/25" tvg-logo="https://i.imgur.com/4W75isP.png" group-title="PPV (A1X, PPVLAND)",04:05 AM None | Chicago White Sox vs. Athletics | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZjAyZWVhMjhkMmNhLWNkOWEtNzBmNC1lN2MwLWU5NWI3YjU3/master.m3u8?md5=jWJVXVU0oXqAD9EsUgejeg&expires=1745795100&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391266" tvg-name="03:10 AM None | Cincinnati Reds vs. Colorado Rockies | 04/28/25" tvg-logo="https://i.imgur.com/DEibJVg.png" group-title="PPV (A1X, PPVLAND)",03:10 AM None | Cincinnati Reds vs. Colorado Rockies | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=6rQJHwcXNS_dDOYPa9avnA&expires=1745791800&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391267" tvg-name="09:00 PM None | EPL: Bournemouth vs Manchester United | 04/27/25" tvg-logo="https://i.imgur.com/e3Ng3Qk.jpeg" group-title="PPV (A1X, PPVLAND)",09:00 PM None | EPL: Bournemouth vs Manchester United | 04/27/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZTBiNC1lYzJjLTcxNzM0YzM3/master.m3u8?md5=d6YvflorCO65hWikWwzSBg&expires=1745767800&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391268" tvg-name="11:30 PM None | EPL: Liverpool vs Tottenham Hotspur | 04/27/25" tvg-logo="https://i.imgur.com/IAZCdxL.jpeg" group-title="PPV (A1X, PPVLAND)",11:30 PM None | EPL: Liverpool vs Tottenham Hotspur | 04/27/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZTBiNC1lYzJjLTcxNzM0YzM3/master.m3u8?md5=D_yWaOVbdxdWI5lMI2sMdg&expires=1745776800&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391269" tvg-name="11:30 PM None | FA Cup: Nottingham Forest vs Manchester Shitty | 04/27/25" tvg-logo="https://i.imgur.com/eIBGQDe.jpeg" group-title="PPV (A1X, PPVLAND)",11:30 PM None | FA Cup: Nottingham Forest vs Manchester Shitty | 04/27/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Nzc0MmE3ZjMxNTMwLTNmYjktMzI3NC03NTkyLTMyNmM0YmI3/master.m3u8?md5=FSeuvV2X7kl8gDCS4QUjaA&expires=1745778600&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391270" tvg-name="02:10 AM None | Houston Astros vs. Kansas City Royals | 04/28/25" tvg-logo="https://i.imgur.com/slaGhI1.png" group-title="PPV (A1X, PPVLAND)",02:10 AM None | Houston Astros vs. Kansas City Royals | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=hJRP03mnj9q8Tb4IEDxm2w&expires=1745788200&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391271" tvg-name="08:00 AM None | LND Monthly | 05/18/25" tvg-logo="https://i.imgur.com/EtF4pVY.png" group-title="PPV (A1X, PPVLAND)",08:00 AM None | LND Monthly | 05/18/25
+https://vod.ppv.wtf/lnd/index.m3u8?md5=wZzixjOWKAyzysnaUVoFlA&expires=1747548000&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391272" tvg-name="01:40 AM None | Los Angeles Angels vs. Minnesota Twins | 04/28/25" tvg-logo="https://i.imgur.com/lhEMTgD.png" group-title="PPV (A1X, PPVLAND)",01:40 AM None | Los Angeles Angels vs. Minnesota Twins | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0/master.m3u8?md5=441aD4iY-QY9c3zmbd81ig&expires=1745786400&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391273" tvg-name="09:30 AM None | Los Angeles Kings vs. Edmonton Oilers | 04/28/25" tvg-logo="https://i.imgur.com/lwclbtD.png" group-title="PPV (A1X, PPVLAND)",09:30 AM None | Los Angeles Kings vs. Edmonton Oilers | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=Al7EEbegr0b6Yl_naNtOzA&expires=1745814600&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391274" tvg-name="04:10 AM None | Miami Marlins vs. Seattle Mariners | 04/28/25" tvg-logo="https://i.imgur.com/0rg0WCI.png" group-title="PPV (A1X, PPVLAND)",04:10 AM None | Miami Marlins vs. Seattle Mariners | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=g6daXoW24okVQC-pV6SalQ&expires=1745795400&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391275" tvg-name="02:15 AM None | Milwaukee Brewers vs. St. Louis Cardinals | 04/28/25" tvg-logo="https://i.imgur.com/S4JKZzx.png" group-title="PPV (A1X, PPVLAND)",02:15 AM None | Milwaukee Brewers vs. St. Louis Cardinals | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=EzsykW8Fr5_ALXvr25Hpwg&expires=1745788500&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391276" tvg-name="01:35 AM None | New York Mets vs. Washington Nationals | 04/28/25" tvg-logo="https://i.imgur.com/B5lXrjn.png" group-title="PPV (A1X, PPVLAND)",01:35 AM None | New York Mets vs. Washington Nationals | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDFhNjk4YjE5YzA3LTgyMmEtYmVjNC04N2RlLTIyYWI2MDlm/master.m3u8?md5=kHkAmBZd_d5ok_AISSuGWA&expires=1745786100&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391277" tvg-name="07:00 PM None | PDC: 2025 Austrian Darts Open Day Three | 04/27/25" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_6mh9frxi/width/640" group-title="PPV (A1X, PPVLAND)",07:00 PM None | PDC: 2025 Austrian Darts Open Day Three | 04/27/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZDk3ZDVjZjgzMTczLTNlN2EtOGZkNC01ZTNiLTYxYzc0Zjhi/master.m3u8?md5=eIhsDPsC3cEQeRbZST7n9Q&expires=1745798340&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391278" tvg-name="07:00 AM None | Philadelphia Phillies vs. Chicago Cubs | 04/28/25" tvg-logo="https://i.imgur.com/C1QlzW5.png" group-title="PPV (A1X, PPVLAND)",07:00 AM None | Philadelphia Phillies vs. Chicago Cubs | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmY3MTBkYWJlMmMyLTI4NmItMzdlNC1iNjQ2LWM1Nzc3ZTRl/master.m3u8?md5=JMflz7rGBWgiuvV_hT3KgA&expires=1745805600&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391279" tvg-name="04:10 AM None | Pittsburgh Pirates vs. Los Angeles Dodgers | 04/28/25" tvg-logo="https://i.imgur.com/48JzGVB.png" group-title="PPV (A1X, PPVLAND)",04:10 AM None | Pittsburgh Pirates vs. Los Angeles Dodgers | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=g6daXoW24okVQC-pV6SalQ&expires=1745795400&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391280" tvg-name="04:10 AM None | Tampa Bay Rays vs. San Diego Padres | 04/28/25" tvg-logo="https://i.imgur.com/x31Dm0d.png" group-title="PPV (A1X, PPVLAND)",04:10 AM None | Tampa Bay Rays vs. San Diego Padres | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=g6daXoW24okVQC-pV6SalQ&expires=1745795400&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391281" tvg-name="04:05 AM None | Texas Rangers vs. San Francisco Giants | 04/28/25" tvg-logo="https://i.imgur.com/P6iH2WQ.png" group-title="PPV (A1X, PPVLAND)",04:05 AM None | Texas Rangers vs. San Francisco Giants | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=jWJVXVU0oXqAD9EsUgejeg&expires=1745795100&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391282" tvg-name="01:35 AM None | Toronto Blue Jays vs. New York Yankees | 04/28/25" tvg-logo="https://i.imgur.com/XpqGn3f.png" group-title="PPV (A1X, PPVLAND)",01:35 AM None | Toronto Blue Jays vs. New York Yankees | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=kHkAmBZd_d5ok_AISSuGWA&expires=1745786100&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391283" tvg-name="05:05 AM None | Toronto Blue Jays vs. New York Yankees | 04/28/25" tvg-logo="https://i.imgur.com/fCgUjfK.png" group-title="PPV (A1X, PPVLAND)",05:05 AM None | Toronto Blue Jays vs. New York Yankees | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=wCd8GNMrvlqIsqny3OojAg&expires=1745798700&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391284" tvg-name="06:30 AM None | Washington Capitals vs. Montreal Canadiens | 04/28/25" tvg-logo="https://i.imgur.com/o8XlGKF.png" group-title="PPV (A1X, PPVLAND)",06:30 AM None | Washington Capitals vs. Montreal Canadiens | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=zRKauKjmDPDtU6c1mSMj6A&expires=1745803800&net=MTkzLjE5LjIwNi40MQ%3D%3D
+#EXTINF:0 CUID="391285" tvg-name="01:00 AM None | Winnipeg Jets vs. St. Louis Blues | 04/28/25" tvg-logo="https://i.imgur.com/kADG2Vv.png" group-title="PPV (A1X, PPVLAND)",01:00 AM None | Winnipeg Jets vs. St. Louis Blues | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=1zCvXVOBYXCDEkCNRtq-8A&expires=1745784000&net=MTkzLjE5LjIwNi40MQ%3D%3D
 #EXTINF:0 CUID="738" tvg-name="Astro Premier League" tvg-ID="AstroPremierLeague.my" tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="EPL   (A1X)",Astro Premier League
 https://a1xs.vip/1100030
 #EXTINF:0 CUID="739" tvg-name="Astro Premier League 2" tvg-ID="AstroPremierLeague2.my" tvg-logo="https://i.imgur.com/QtsG3ra.png" group-title="EPL   (A1X)",Astro Premier League 2
