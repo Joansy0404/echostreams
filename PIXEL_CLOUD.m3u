@@ -453,9 +453,9 @@ https://a1xs.vip/700036
 https://a1xs.vip/700037
 #EXTINF:0 CUID="884" tvg-chno="227" tvg-name="Sky Sport 8" tvg-ID="SKY.Sport.8.nz" tvg-logo="https://i.imgur.com/8YjqlRv.png" group-title="NZ Sports  (A1X)",Sky Sport 8
 https://a1xs.vip/700008
-#EXTINF:0 CUID="905" tvg-chno="228" tvg-name="Star Sports Select" tvg-ID="sportsstarsportsselect1.in" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="World Sports   (A1X)",Star Sports Select
+#EXTINF:0 CUID="905" tvg-chno="228" tvg-name="Star Sports Select" tvg-ID="Sportstars.HD.id" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="World Sports   (A1X)",Star Sports Select
 https://a1xs.vip/8000011
-#EXTINF:0 CUID="906" tvg-chno="229" tvg-name="Star Sports Select 2" tvg-ID="sportsistarsportsselect2.in" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="World Sports   (A1X)",Star Sports Select 2
+#EXTINF:0 CUID="906" tvg-chno="229" tvg-name="Star Sports Select 2" tvg-ID="Sportstars.2.HD.id" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="World Sports   (A1X)",Star Sports Select 2
 https://a1xs.vip/8000012
 #EXTINF:0 CUID="901" tvg-chno="230" tvg-name="SuperSport Action" tvg-ID="action.za" tvg-logo="https://i.imgur.com/6SnLfX4.png" group-title="World Sports   (A1X)",SuperSport Action
 https://a1xs.vip/8000009
@@ -1053,25 +1053,25 @@ https://windnew.newkso.ru/wind/premium823/mono.m3u8|Referer=https://xextreamplay
 https://windnew.newkso.ru/wind/premium824/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
 #EXTINF:0 CUID="1159" tvg-chno="527" tvg-name="FOX Sports 507 AU" tvg-ID="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-507.png" group-title="AUSTRALIA  ( DaddyliveHD )",FOX Sports 507 AU
 https://windnew.newkso.ru/wind/premium825/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="1430" tvg-chno="528" tvg-name="Sky Sport 1 NZ" tvg-ID="Sky.Sport.1.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-1-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 1 NZ
+#EXTINF:0 CUID="1430" tvg-chno="528" tvg-name="Sky Sport 1 NZ" tvg-ID="SKY.Sport.1.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-1-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 1 NZ
 https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="1431" tvg-chno="529" tvg-name="Sky Sport 2 NZ" tvg-ID="Sky.Sport.2.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-2-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 2 NZ
+#EXTINF:0 CUID="1431" tvg-chno="529" tvg-name="Sky Sport 2 NZ" tvg-ID="SKY.Sport.2.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-2-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 2 NZ
 https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="1433" tvg-chno="530" tvg-name="Sky Sport 3 NZ" tvg-ID="Sky.Sport.3.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-3-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 3 NZ
+#EXTINF:0 CUID="1433" tvg-chno="530" tvg-name="Sky Sport 3 NZ" tvg-ID="SKY.Sport.3.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-3-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 3 NZ
 https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="1434" tvg-chno="531" tvg-name="Sky Sport 4 NZ" tvg-ID="Sky.Sport.4.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-4-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 4 NZ
+#EXTINF:0 CUID="1434" tvg-chno="531" tvg-name="Sky Sport 4 NZ" tvg-ID="SKY.Sport.4.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-4-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 4 NZ
 https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="1435" tvg-chno="532" tvg-name="Sky Sport 5 NZ" tvg-ID="Sky.Sport.5.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-5-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 5 NZ
+#EXTINF:0 CUID="1435" tvg-chno="532" tvg-name="Sky Sport 5 NZ" tvg-ID="SKY.Sport.5.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-5-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 5 NZ
 https://dokko1new.newkso.ru/dokko1/premium592/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="1436" tvg-chno="533" tvg-name="Sky Sport 6 NZ" tvg-ID="Sky.Sport.6.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-6-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 6 NZ
+#EXTINF:0 CUID="1436" tvg-chno="533" tvg-name="Sky Sport 6 NZ" tvg-ID="SKY.Sport.6.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-6-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 6 NZ
 https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="1437" tvg-chno="534" tvg-name="Sky Sport 7 NZ" tvg-ID="Sky.Sport.7.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-7-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 7 NZ
+#EXTINF:0 CUID="1437" tvg-chno="534" tvg-name="Sky Sport 7 NZ" tvg-ID="SKY.Sport.7.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-7-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 7 NZ
 https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="1438" tvg-chno="535" tvg-name="Sky Sport 8 NZ" tvg-ID="Sky.Sport.8.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-8-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 8 NZ
+#EXTINF:0 CUID="1438" tvg-chno="535" tvg-name="Sky Sport 8 NZ" tvg-ID="SKY.Sport.1.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-8-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 8 NZ
 https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="1439" tvg-chno="536" tvg-name="Sky Sport 9 NZ" tvg-ID="Sky.Sport.9.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-9-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 9 NZ
+#EXTINF:0 CUID="1439" tvg-chno="536" tvg-name="Sky Sport 9 NZ" tvg-ID="SKY.Sport.9.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-9-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport 9 NZ
 https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
-#EXTINF:0 CUID="1448" tvg-chno="537" tvg-name="Sky Sport Select NZ" tvg-ID="Sky.Sport.Select.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-select-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport Select NZ
+#EXTINF:0 CUID="1448" tvg-chno="537" tvg-name="Sky Sport Select NZ" tvg-ID="SKY.Sport.Select.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-select-nz.png" group-title="NEW ZEALAND  ( DaddyliveHD )",Sky Sport Select NZ
 https://dokko1new.newkso.ru/dokko1/premium587/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
 #EXTINF:0 CUID="378703" tvg-chno="538" tvg-name="21 Jump Street" tvg-ID="CABB26000082J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250121T094036SQUARE.png" group-title="Canada (SamsungTVPlus)",21 Jump Street
 https://jmp2.uk/sam-CABB26000082J.m3u8
@@ -2943,11 +2943,11 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/303928
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/283053
 #EXTINF:0 CUID="312641" tvg-chno="1472" tvg-name="Sky Sports Main Events 50fps [vip]" tvg-ID="SkySpMainEv.uk" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK ➾ Sports (IPTVtree)",Sky Sports Main Events 50fps [vip]
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/303927
-#EXTINF:0 CUID="312642" tvg-chno="1473" tvg-name="Sky Sports Mix" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="UK ➾ Sports (IPTVtree)",Sky Sports Mix
+#EXTINF:0 CUID="312642" tvg-chno="1473" tvg-name="Sky Sports Mix" tvg-ID="SkySp.Mix.HD.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="UK ➾ Sports (IPTVtree)",Sky Sports Mix
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/261
-#EXTINF:0 CUID="312643" tvg-chno="1474" tvg-name="Sky Sports Mix [vip]" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK ➾ Sports (IPTVtree)",Sky Sports Mix [vip]
+#EXTINF:0 CUID="312643" tvg-chno="1474" tvg-name="Sky Sports Mix [vip]" tvg-ID="SkySp.Mix.HD.uk" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK ➾ Sports (IPTVtree)",Sky Sports Mix [vip]
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/303926
-#EXTINF:0 CUID="312644" tvg-chno="1475" tvg-name="Sky Sports News" tvg-ID="Sky.Sports.NFL.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png" group-title="UK ➾ Sports (IPTVtree)",Sky Sports News
+#EXTINF:0 CUID="312644" tvg-chno="1475" tvg-name="Sky Sports News" tvg-ID="SkySp.News.HD.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png" group-title="UK ➾ Sports (IPTVtree)",Sky Sports News
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/260
 #EXTINF:0 CUID="312645" tvg-chno="1476" tvg-name="Sky Sports News 50fps [vip]" tvg-ID="I1096.68347.schedulesdirect.org" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK ➾ Sports (IPTVtree)",Sky Sports News 50fps [vip]
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/303925
@@ -4023,7 +4023,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298225
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/286695
 #EXTINF:0 CUID="313267" tvg-chno="2012" tvg-name="ABC New York WABC TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/6bc280ee2279ce8bb01f39ed7f0e3860.jpg" group-title="USA ➾ News (IPTVtree)",ABC New York WABC TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/35010
-#EXTINF:0 CUID="313268" tvg-chno="2013" tvg-name="ABC News" tvg-ID="ABC.NEWS.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5f8c050e1efc1074fb6e4bb3cc10112a.png" group-title="USA ➾ News (IPTVtree)",ABC News
+#EXTINF:0 CUID="313268" tvg-chno="2013" tvg-name="ABC News" tvg-ID="ABC.News.ch" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5f8c050e1efc1074fb6e4bb3cc10112a.png" group-title="USA ➾ News (IPTVtree)",ABC News
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/2734
 #EXTINF:0 CUID="313269" tvg-chno="2014" tvg-name="ABC Oklahoma City Oklahoma KOCO TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/85bd3bbeb0fb792bcb7e2da4fe3c625a.png" group-title="USA ➾ News (IPTVtree)",ABC Oklahoma City Oklahoma KOCO TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301503
@@ -4089,13 +4089,13 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8457
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150689
 #EXTINF:0 CUID="313300" tvg-chno="2045" tvg-name="Albuquerque Santa Fe New Mexico KRQE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6866aa7c40157520b62a3ea75f7e9242.png" group-title="USA ➾ News (IPTVtree)",Albuquerque Santa Fe New Mexico KRQE
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150704
-#EXTINF:0 CUID="313301" tvg-chno="2046" tvg-name="BBC World News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/167d328c8bb5e3961236479b4170486c.svg" group-title="USA ➾ News (IPTVtree)",BBC World News
+#EXTINF:0 CUID="313301" tvg-chno="2046" tvg-name="BBC World News" tvg-ID="BBC.World.News.Dummy.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/167d328c8bb5e3961236479b4170486c.svg" group-title="USA ➾ News (IPTVtree)",BBC World News
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306114
-#EXTINF:0 CUID="313302" tvg-chno="2047" tvg-name="Black News Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/147df3a992a76a6cebc0e26f825aa7b5.jpeg" group-title="USA ➾ News (IPTVtree)",Black News Channel
+#EXTINF:0 CUID="313302" tvg-chno="2047" tvg-name="Black News Channel" tvg-ID="CTV.News.Channel.ca" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/147df3a992a76a6cebc0e26f825aa7b5.jpeg" group-title="USA ➾ News (IPTVtree)",Black News Channel
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/284042
 #EXTINF:0 CUID="313303" tvg-chno="2048" tvg-name="Bloomberg Global Financial News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/dba23cc45a1c98ca5f3c72089d5dd684.png" group-title="USA ➾ News (IPTVtree)",Bloomberg Global Financial News
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298941
-#EXTINF:0 CUID="313304" tvg-chno="2049" tvg-name="Bloomberg TV" tvg-ID="Bloomberg.TV.USA.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a4867ed7564efb55bd7f5af1fd61c88e.png" group-title="USA ➾ News (IPTVtree)",Bloomberg TV
+#EXTINF:0 CUID="313304" tvg-chno="2049" tvg-name="Bloomberg TV" tvg-ID="Bloomberg.TV.bg" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a4867ed7564efb55bd7f5af1fd61c88e.png" group-title="USA ➾ News (IPTVtree)",Bloomberg TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/2280
 #EXTINF:0 CUID="313305" tvg-chno="2050" tvg-name="C SPAN" tvg-ID="CSPAN3.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0294ca889a775960f3add420e4f44c3e.png" group-title="USA ➾ News (IPTVtree)",C SPAN
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14804
@@ -4103,7 +4103,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14804
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/2284
 #EXTINF:0 CUID="313307" tvg-chno="2052" tvg-name="C SPAN 3" tvg-ID="CSPAN3.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0399a88a386057dc08c120c53f53952e.png" group-title="USA ➾ News (IPTVtree)",C SPAN 3
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/2285
-#EXTINF:0 CUID="313308" tvg-chno="2053" tvg-name="CBN News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/4cec690688065ad2981632779288f01d.png" group-title="USA ➾ News (IPTVtree)",CBN News
+#EXTINF:0 CUID="313308" tvg-chno="2053" tvg-name="CBN News" tvg-ID="GB.News.ch" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/4cec690688065ad2981632779288f01d.png" group-title="USA ➾ News (IPTVtree)",CBN News
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147400
 #EXTINF:0 CUID="313309" tvg-chno="2054" tvg-name="CBS 29 Bakersfield California (KBAK)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA ➾ News (IPTVtree)",CBS 29 Bakersfield California (KBAK)
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306115
@@ -4397,15 +4397,15 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150686
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8606
 #EXTINF:0 CUID="313454" tvg-chno="2199" tvg-name="Chicago Illinois WGN9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/15d84a6f073e30f1edae25f810d5dac6.png" group-title="USA ➾ News (IPTVtree)",Chicago Illinois WGN9
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/2371
-#EXTINF:0 CUID="313455" tvg-chno="2200" tvg-name="CNBC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA ➾ News (IPTVtree)",CNBC
+#EXTINF:0 CUID="313455" tvg-chno="2200" tvg-name="CNBC" tvg-ID="CNBC.cy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA ➾ News (IPTVtree)",CNBC
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/2295
 #EXTINF:0 CUID="313456" tvg-chno="2201" tvg-name="CNBC 17 Victoria Texas KMOL TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/72bc83529c38bf2e0c8c993770c691f4.png" group-title="USA ➾ News (IPTVtree)",CNBC 17 Victoria Texas KMOL TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/200871
-#EXTINF:0 CUID="313457" tvg-chno="2202" tvg-name="CNBC World" tvg-ID="CNBC.World.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0e57a4bfec13fd8900f45bdac39cbe09.png" group-title="USA ➾ News (IPTVtree)",CNBC World
+#EXTINF:0 CUID="313457" tvg-chno="2202" tvg-name="CNBC World" tvg-ID="BBC.World.cy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0e57a4bfec13fd8900f45bdac39cbe09.png" group-title="USA ➾ News (IPTVtree)",CNBC World
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/6431
-#EXTINF:0 CUID="313458" tvg-chno="2203" tvg-name="CNN International" tvg-ID="Telefe.International.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/eefd6b8df840a06eb34f80c50f79d290.png" group-title="USA ➾ News (IPTVtree)",CNN International
+#EXTINF:0 CUID="313458" tvg-chno="2203" tvg-name="CNN International" tvg-ID="CNN.International.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/eefd6b8df840a06eb34f80c50f79d290.png" group-title="USA ➾ News (IPTVtree)",CNN International
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/753
-#EXTINF:0 CUID="313459" tvg-chno="2204" tvg-name="CNN USA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/117546bb55abcea2d811d1dd278d1fdf.png" group-title="USA ➾ News (IPTVtree)",CNN USA
+#EXTINF:0 CUID="313459" tvg-chno="2204" tvg-name="CNN USA" tvg-ID="CNN.ch" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/117546bb55abcea2d811d1dd278d1fdf.png" group-title="USA ➾ News (IPTVtree)",CNN USA
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/480
 #EXTINF:0 CUID="313460" tvg-chno="2205" tvg-name="Fox 33 Shreveport Louisiana KMSS TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/bf507795e95c39da04f806b970524821.png" group-title="USA ➾ News (IPTVtree)",Fox 33 Shreveport Louisiana KMSS TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150784
@@ -4431,7 +4431,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150801
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295374
 #EXTINF:0 CUID="313471" tvg-chno="2216" tvg-name="Fox Boston Massachusetts WFXT TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7a9a270dc6e9694ebac825a7d2dd4e0f.png" group-title="USA ➾ News (IPTVtree)",Fox Boston Massachusetts WFXT TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/41026
-#EXTINF:0 CUID="313472" tvg-chno="2217" tvg-name="Fox Business" tvg-ID="Fox.Business.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/84b2aff35b7533c1440d96ae23b2586d.png" group-title="USA ➾ News (IPTVtree)",Fox Business
+#EXTINF:0 CUID="313472" tvg-chno="2217" tvg-name="Fox Business" tvg-ID="BFM.Business.ch" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/84b2aff35b7533c1440d96ae23b2586d.png" group-title="USA ➾ News (IPTVtree)",Fox Business
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/2316
 #EXTINF:0 CUID="313473" tvg-chno="2218" tvg-name="Fox Caldwell Idaho KNIN TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8ea723dd6627cf00315cd5c93ff13fd9.png" group-title="USA ➾ News (IPTVtree)",Fox Caldwell Idaho KNIN TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150781
@@ -4461,7 +4461,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/200817
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295366
 #EXTINF:0 CUID="313486" tvg-chno="2231" tvg-name="Fox Denver Colorado KDVR TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/d9f31b7c8cb88df9381711acb8cecf27.png" group-title="USA ➾ News (IPTVtree)",Fox Denver Colorado KDVR TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8525
-#EXTINF:0 CUID="313487" tvg-chno="2232" tvg-name="Fox Deportes" tvg-ID="Fox.Deportes.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fb81f6d360b9559d67705424e80b7ec9.png" group-title="USA ➾ News (IPTVtree)",Fox Deportes
+#EXTINF:0 CUID="313487" tvg-chno="2232" tvg-name="Fox Deportes" tvg-ID="M+.Deportes.es" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fb81f6d360b9559d67705424e80b7ec9.png" group-title="USA ➾ News (IPTVtree)",Fox Deportes
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14820
 #EXTINF:0 CUID="313488" tvg-chno="2233" tvg-name="Fox Des Moines Iowa KDSM TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/71b554b83444db097ff1327df568f447.png" group-title="USA ➾ News (IPTVtree)",Fox Des Moines Iowa KDSM TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/200830
@@ -4505,7 +4505,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150780
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150778
 #EXTINF:0 CUID="313508" tvg-chno="2253" tvg-name="Fox Las Vegas Nevada KVVU TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5398ced164663d5542fac1fa79027147.png" group-title="USA ➾ News (IPTVtree)",Fox Las Vegas Nevada KVVU TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150788
-#EXTINF:0 CUID="313509" tvg-chno="2254" tvg-name="Fox Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a6d2f74e141f2cae996ad1ce2b2c4ff8.png" group-title="USA ➾ News (IPTVtree)",Fox Life
+#EXTINF:0 CUID="313509" tvg-chno="2254" tvg-name="Fox Life" tvg-ID="FoxLife.HD.cy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a6d2f74e141f2cae996ad1ce2b2c4ff8.png" group-title="USA ➾ News (IPTVtree)",Fox Life
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/76866
 #EXTINF:0 CUID="313510" tvg-chno="2255" tvg-name="Fox Lincoln Nebraska KFXL TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4cdcab63a4375e75d2fc88f9123430b1.png" group-title="USA ➾ News (IPTVtree)",Fox Lincoln Nebraska KFXL TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/200828
@@ -4535,9 +4535,9 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/198182
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8504
 #EXTINF:0 CUID="313523" tvg-chno="2268" tvg-name="Fox Newport Ohio WXIX TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cd8866047a841cd72e9c843248d71b5e.png" group-title="USA ➾ News (IPTVtree)",Fox Newport Ohio WXIX TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150771
-#EXTINF:0 CUID="313524" tvg-chno="2269" tvg-name="Fox News Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b823782b94f98698487bdf4b98c42b3b.png" group-title="USA ➾ News (IPTVtree)",Fox News Channel
+#EXTINF:0 CUID="313524" tvg-chno="2269" tvg-name="Fox News Channel" tvg-ID="FOXNewsChannel.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b823782b94f98698487bdf4b98c42b3b.png" group-title="USA ➾ News (IPTVtree)",Fox News Channel
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1611
-#EXTINF:0 CUID="313525" tvg-chno="2270" tvg-name="FOX News Now" tvg-ID="Fox.News.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/fe9a9ec062bc7dd521b5f371ad88adad.png" group-title="USA ➾ News (IPTVtree)",FOX News Now
+#EXTINF:0 CUID="313525" tvg-chno="2270" tvg-name="FOX News Now" tvg-ID="FOX.News.hr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/fe9a9ec062bc7dd521b5f371ad88adad.png" group-title="USA ➾ News (IPTVtree)",FOX News Now
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/294805
 #EXTINF:0 CUID="313526" tvg-chno="2271" tvg-name="Fox Ocala Florida WOGX TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/654c49d8385f2833fe41c04d7c10360c.png" group-title="USA ➾ News (IPTVtree)",Fox Ocala Florida WOGX TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8505
@@ -4595,7 +4595,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/200827
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/63456
 #EXTINF:0 CUID="313553" tvg-chno="2298" tvg-name="Fox Washington District of Columbia WTTG TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/e59c1afae9046e117449fc96f3313247.svg" group-title="USA ➾ News (IPTVtree)",Fox Washington District of Columbia WTTG TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295760
-#EXTINF:0 CUID="313554" tvg-chno="2299" tvg-name="Fox Weather" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="USA ➾ News (IPTVtree)",Fox Weather
+#EXTINF:0 CUID="313554" tvg-chno="2299" tvg-name="Fox Weather" tvg-ID="WEATHER.dummy.us" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="USA ➾ News (IPTVtree)",Fox Weather
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295671
 #EXTINF:0 CUID="313555" tvg-chno="2300" tvg-name="Fox West Palm Beach Florida WFLX TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b0bc8c61af15d247cea1814648f9ce18.png" group-title="USA ➾ News (IPTVtree)",Fox West Palm Beach Florida WFLX TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150752
@@ -4605,7 +4605,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295376
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150786
 #EXTINF:0 CUID="313558" tvg-chno="2303" tvg-name="Fox Yakima Washington KCYU LD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ad3f4191af6f7b9771b6d903d088f9d3.png" group-title="USA ➾ News (IPTVtree)",Fox Yakima Washington KCYU LD
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150825
-#EXTINF:0 CUID="313559" tvg-chno="2304" tvg-name="FoxNet" tvg-ID="Fox.News.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/3844c7638b2a5b06dbd0093d84f14619.jpeg" group-title="USA ➾ News (IPTVtree)",FoxNet
+#EXTINF:0 CUID="313559" tvg-chno="2304" tvg-name="FoxNet" tvg-ID="FOX.News.hr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/3844c7638b2a5b06dbd0093d84f14619.jpeg" group-title="USA ➾ News (IPTVtree)",FoxNet
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147591
 #EXTINF:0 CUID="313560" tvg-chno="2305" tvg-name="Free Speech TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de3e15e17df522dc06d06aa8ac205a8b.png" group-title="USA ➾ News (IPTVtree)",Free Speech TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150730
@@ -4615,7 +4615,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/6346
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/296764
 #EXTINF:0 CUID="313563" tvg-chno="2308" tvg-name="Los Angeles California KCAL TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/fd4d6b0aa8b512c1a0871775e0cdd8be.png" group-title="USA ➾ News (IPTVtree)",Los Angeles California KCAL TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295381
-#EXTINF:0 CUID="313564" tvg-chno="2309" tvg-name="MSNBC" tvg-ID="MSNBC.USA.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1279b30b8e9704c9f7b557d3bd19e8ee.png" group-title="USA ➾ News (IPTVtree)",MSNBC
+#EXTINF:0 CUID="313564" tvg-chno="2309" tvg-name="MSNBC" tvg-ID="MSNBC.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1279b30b8e9704c9f7b557d3bd19e8ee.png" group-title="USA ➾ News (IPTVtree)",MSNBC
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/406
 #EXTINF:0 CUID="313565" tvg-chno="2310" tvg-name="My Buffalo New York WNYO TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/4150f62e5f1f0787699595515f215e72.png" group-title="USA ➾ News (IPTVtree)",My Buffalo New York WNYO TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295353
@@ -4635,7 +4635,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295352
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295354
 #EXTINF:0 CUID="313573" tvg-chno="2318" tvg-name="Myrtle Beach South Carolina WMBF TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3af8c1ae3871d7181f6f249f8f072e60.png" group-title="USA ➾ News (IPTVtree)",Myrtle Beach South Carolina WMBF TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150975
-#EXTINF:0 CUID="313574" tvg-chno="2319" tvg-name="NBC 2 News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e3d296dfb2d0aab1bf46d958887fe98e.jpeg" group-title="USA ➾ News (IPTVtree)",NBC 2 News
+#EXTINF:0 CUID="313574" tvg-chno="2319" tvg-name="NBC 2 News" tvg-ID="2News.dk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e3d296dfb2d0aab1bf46d958887fe98e.jpeg" group-title="USA ➾ News (IPTVtree)",NBC 2 News
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163264
 #EXTINF:0 CUID="313575" tvg-chno="2320" tvg-name="NBC 25 Saginaw Michigan WEYI TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/173ceb733a58b68e52bb6d4b3da379d1.jpg" group-title="USA ➾ News (IPTVtree)",NBC 25 Saginaw Michigan WEYI TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150923
@@ -4929,7 +4929,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150957
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150850
 #EXTINF:0 CUID="313720" tvg-chno="2465" tvg-name="NBC Zanesville Ohio WHIZ TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fd62f484512bb904bab697836a1dcd9d.png" group-title="USA ➾ News (IPTVtree)",NBC Zanesville Ohio WHIZ TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150960
-#EXTINF:0 CUID="313721" tvg-chno="2466" tvg-name="NBCSN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c176a2ced7ac928504643cb2c5a63340.png" group-title="USA ➾ News (IPTVtree)",NBCSN
+#EXTINF:0 CUID="313721" tvg-chno="2466" tvg-name="NBCSN" tvg-ID="MSNBC.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c176a2ced7ac928504643cb2c5a63340.png" group-title="USA ➾ News (IPTVtree)",NBCSN
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/3370
 #EXTINF:0 CUID="313722" tvg-chno="2467" tvg-name="New England Cable News NECN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/2df1968d050941c56ddcf74f70a707ae.png" group-title="USA ➾ News (IPTVtree)",New England Cable News NECN
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/30956
@@ -4947,15 +4947,15 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150739
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/150741
 #EXTINF:0 CUID="313729" tvg-chno="2474" tvg-name="News 12 Westchester" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA ➾ News (IPTVtree)",News 12 Westchester
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163729
-#EXTINF:0 CUID="313730" tvg-chno="2475" tvg-name="Newsmax 2" tvg-ID="NewsMax.TV.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/dd33774c7a3ea71d27477df2dcb349c0.png" group-title="USA ➾ News (IPTVtree)",Newsmax 2
+#EXTINF:0 CUID="313730" tvg-chno="2475" tvg-name="Newsmax 2" tvg-ID="Newsmax.TV.distro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/dd33774c7a3ea71d27477df2dcb349c0.png" group-title="USA ➾ News (IPTVtree)",Newsmax 2
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301875
-#EXTINF:0 CUID="313731" tvg-chno="2476" tvg-name="Newsmax TV" tvg-ID="NewsMax.TV.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/964eea4752101c95456e432d59f8f067.png" group-title="USA ➾ News (IPTVtree)",Newsmax TV
+#EXTINF:0 CUID="313731" tvg-chno="2476" tvg-name="Newsmax TV" tvg-ID="Newsmax.TV.distro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/964eea4752101c95456e432d59f8f067.png" group-title="USA ➾ News (IPTVtree)",Newsmax TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163737
 #EXTINF:0 CUID="313732" tvg-chno="2477" tvg-name="NewsNation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7064a1b1dfcffb6b2188256f772dbce6.png" group-title="USA ➾ News (IPTVtree)",NewsNation
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/6296
 #EXTINF:0 CUID="313733" tvg-chno="2478" tvg-name="Newsnet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/d81b78bc2752e9c75032ecd8ba9b37cc.jpeg" group-title="USA ➾ News (IPTVtree)",Newsnet
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193458
-#EXTINF:0 CUID="313734" tvg-chno="2479" tvg-name="Newsy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/29106a904946af93fc6e8b2a312783db.png" group-title="USA ➾ News (IPTVtree)",Newsy
+#EXTINF:0 CUID="313734" tvg-chno="2479" tvg-name="Newsy" tvg-ID="NEWS.dummy.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/29106a904946af93fc6e8b2a312783db.png" group-title="USA ➾ News (IPTVtree)",Newsy
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163730
 #EXTINF:0 CUID="313735" tvg-chno="2480" tvg-name="Odessa Texas KWES TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/9af6afac48f48dac945e1c66f968fcd6.png" group-title="USA ➾ News (IPTVtree)",Odessa Texas KWES TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295407
@@ -4963,7 +4963,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295407
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295368
 #EXTINF:0 CUID="313737" tvg-chno="2482" tvg-name="One America News Network" tvg-ID="One.America.News.Network.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7e1ec3558fb25adcea2c9978d794fd45.png" group-title="USA ➾ News (IPTVtree)",One America News Network
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/196192
-#EXTINF:0 CUID="313738" tvg-chno="2483" tvg-name="Real Americas Voice" tvg-ID="Real.Americas.Voice.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/d30e5041e2184ca357e8fb95e8d62739.jpg" group-title="USA ➾ News (IPTVtree)",Real Americas Voice
+#EXTINF:0 CUID="313738" tvg-chno="2483" tvg-name="Real Americas Voice" tvg-ID="Real.America's.Voice.distro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/d30e5041e2184ca357e8fb95e8d62739.jpg" group-title="USA ➾ News (IPTVtree)",Real Americas Voice
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/284041
 #EXTINF:0 CUID="313739" tvg-chno="2484" tvg-name="Santa Fe New Mexico KCHF TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/48ed71a1e03c23abbe88cf41f3e5e4d9.png" group-title="USA ➾ News (IPTVtree)",Santa Fe New Mexico KCHF TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/166192
