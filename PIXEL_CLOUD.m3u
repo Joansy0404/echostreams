@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0 CUID="713" tvg-chno="1" tvg-name="A1X Live Event 1" tvg-ID="dummy-1" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 1
+https://a1xs.vip/ppv1
+#EXTINF:0 CUID="714" tvg-chno="2" tvg-name="A1X Live Event 2" tvg-ID="dummy-2" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 2
+https://a1xs.vip/ppv2
+#EXTINF:0 CUID="715" tvg-chno="3" tvg-name="A1X Live Event 3" tvg-ID="dummy-3" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 3
+https://a1xs.vip/ppv3
+#EXTINF:0 CUID="716" tvg-chno="4" tvg-name="A1X Live Event 4" tvg-ID="dummy-4" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 4
+https://a1xs.vip/ppv4
+#EXTINF:0 CUID="717" tvg-name="A1X Live Event 5" tvg-ID="dummy-5" tvg-logo="https://logo.iptveditor.com/live.png" group-title="PPV (A1X, PPVLAND)",A1X Live Event 5
+https://a1xs.vip/ppv5
 #EXTINF:0 CUID="738" tvg-chno="19" tvg-name="Astro Premier League" tvg-ID="AstroPremierLeague.my" tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="EPL   (A1X)",Astro Premier League
 https://a1xs.vip/1100030
 #EXTINF:0 CUID="739" tvg-chno="20" tvg-name="Astro Premier League 2" tvg-ID="AstroPremierLeague2.my" tvg-logo="https://i.imgur.com/QtsG3ra.png" group-title="EPL   (A1X)",Astro Premier League 2
