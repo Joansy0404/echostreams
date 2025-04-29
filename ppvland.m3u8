@@ -1,380 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CnphStu.png" group-title="24/7 STREAMS",12:00 PM PT | (North) Korean Central Television | 01/18/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnphStu.png" group-title="24/7 STREAMS",03:00 AM None | (North) Korean Central Television | 01/19/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://waw01-1gbe.fscdn.fun/nknews/index.m3u8?md5=AD3KFazgayM3qdMYADhUuA&expires=1737237600&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://waw01-1gbe.fscdn.fun/nknews/index.m3u8?md5=_Cl2X7Qr55Dhrprz-V4Gqw&expires=1737237600&net=ODkuMTYzLjE0NC4xNDM%3D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iQUQhgd.png" group-title="AMERICAN FOOTBALL",09:00 AM PT | 2025 NFL Draft: Rounds 4-7 | 04/26/25
+#EXTINF:-1 tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" group-title="24/7 STREAMS",01:00 PM None | 24/7 COWS | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGE5ZmM3ZGVmYWY0LTQwNjktZTg2NC04OWY3LTM5Y2I1Mjhk/master.m3u8?md5=zES7K7O6QXUUBxsKs0krRw&expires=1745708400&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://waw01-1gbe.fscdn.fun/cows/index.m3u8?md5=O4SiVXICOVwCN0MsqyV5dg&expires=1740772800&net=MTQxLjk1Ljg1LjE5OQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" group-title="24/7 STREAMS",10:00 PM PT | 24/7 COWS | 01/17/25
+#EXTINF:-1 tvg-logo="https://waw01-1gbe.fscdn.fun/southpark/preview.jpg" group-title="24/7 STREAMS",06:28 PM None | 24/7 South Park | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://waw01-1gbe.fscdn.fun/cows/index.m3u8?md5=Owi-IVXty8Pmwx14Z8vn4g&expires=1740772800&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=ycHUpa4nm33VAUSrKcLh2Q&expires=1737196080&net=ODkuMTYzLjE0NS45Nw%3D%3D
 
-#EXTINF:-1 tvg-logo="https://ppv.wtf/assets/img/11331c69617670a4233bbde9bc2c448e.jpg" group-title="24/7 STREAMS",12:00 PM PT | 24/7 S*y Sports Golf | 04/09/25
+#EXTINF:-1 tvg-logo="https://waw01-1gbe.fscdn.fun/thesimpsons/preview.jpg" group-title="24/7 STREAMS",06:28 PM None | 24/7 The Simpsons | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjI3ZTk2YjFiM2RkLTUzMzktMjExNC01OWVkLTczMzZiYTg5/master.m3u8?md5=7FNDueQaoFkFSmwyziMoeQ&expires=1744239600&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ycHUpa4nm33VAUSrKcLh2Q&expires=1737196080&net=NTcuMTI5LjUyLjExOA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://waw01-1gbe.fscdn.fun/southpark/preview.jpg" group-title="24/7 STREAMS",03:28 AM PT | 24/7 South Park | 01/18/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Is6XQ5.png" group-title="MLB",08:05 AM None | Athletics vs. Texas Rangers | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=3uQqlTl3LX5gH4z3B-RYeQ&expires=1737196080&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=wX17OF4vu-ZHyMNPwxj3Yg&expires=1745895900&net=NTcuMTI5LjUzLjE0Mw%3D%3D
 
-#EXTINF:-1 tvg-logo="https://waw01-1gbe.fscdn.fun/thesimpsons/preview.jpg" group-title="24/7 STREAMS",03:28 AM PT | 24/7 The Simpsons | 01/18/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fOgqlXt.png" group-title="MLB",08:40 AM None | Atlanta Braves vs. Colorado Rockies | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=3uQqlTl3LX5gH4z3B-RYeQ&expires=1737196080&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=lWZpUr4mCgISyCOrT_8nDw&expires=1745898000&net=NzguMzEuNjcuMTA0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x3OPAo3.jpeg" group-title="WRESTLING",05:00 PM PT | AEW: Saturday Night Collision | 04/26/25
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cle-mia/1280x720.png" group-title="BASKETBALL",07:30 AM None | Cavaliers at Heat | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=r3VpO2E0xNnaaYjRFr36_w&expires=1745722800&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NWM2MjUyODhlOGNmLTI2YjgtOTY3NC0xOTkzLTk2MzI5ZDBk/master.m3u8?md5=ZpzoG3HHC-AolmIr9Zs0gA&expires=1745892900&net=NTQuMzcuMjA2LjIyMA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ygt5ZA5.png" group-title="MOTORSPORTS",04:00 PM PT | AMA Supercross: Pittsburgh | 04/26/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7j8EI1G.png" group-title="ICE HOCKEY",09:30 AM None | Colorado Avalanche vs. Dallas Stars | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjQ4MTZhY2Q4NDZlLTg2N2ItZTZhNC1kZGY3LTk5NzU0NTJh/master.m3u8?md5=r3VpO2E0xNnaaYjRFr36_w&expires=1745722800&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=jKjQWkUta26SMu1v2oBL1w&expires=1745901000&net=ODkuMTYzLjE0NS45Nw%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ygt5ZA5.png" group-title="MOTORSPORTS",10:30 AM PT | AMA Supercross: Pittsburgh (Qualifying) | 04/26/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FNRejY.png" group-title="MLB",08:10 AM None | Detroit Tigers vs. Houston Astros | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjQ4MTZhY2Q4NDZlLTg2N2ItZTZhNC1kZGY3LTk5NzU0NTJh/master.m3u8?md5=cKrVAl1kmV04Ku25ligtPw&expires=1745703000&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=PCWiMSDCu_EKB_4QeEK6_g&expires=1745896200&net=NTQuMzcuMjA2LjIyMA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JX7rKMH.png" group-title="MLB",05:10 PM PT | Atlanta Braves vs. Arizona Diamondbacks | 04/26/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EtF4pVY.png" group-title="COMBAT SPORTS",08:00 AM None | LND Monthly | 05/18/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWVhYWY3YmY4OGUzLWM0NmItZWUzNC1hZGE1LTU2NDk5ZGIy/master.m3u8?md5=UeZbIp7P2CrMDD_VXWtMiw&expires=1745723400&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://vod.ppv.wtf/lnd/index.m3u8?md5=fXap9fYo6E6tf2KgarzRgw&expires=1747548000&net=ODkuMTYzLjE0NS4xNjM%3D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/11o4lIb.png" group-title="MLB",05:10 PM PT | Atlanta Braves vs. Arizona Diamondbacks | 04/26/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sed1Yi8.png" group-title="COMBAT SPORTS",08:00 AM None | MFN Weekly | 05/04/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWVhYWY3YmY4OGUzLWM0NmItZWUzNC1hZGE1LTU2NDk5ZGIy/master.m3u8?md5=UeZbIp7P2CrMDD_VXWtMiw&expires=1745723400&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://vod.ppv.wtf/mfn/index.m3u8?md5=Rh2Uvz0IEvYmPuaz4L1gow&expires=1746338400&net=NTcuMTI5LjM5LjY1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hVIY4qa.png" group-title="MLB",10:10 AM PT | Baltimore Orioles vs. Detroit Tigers | 04/26/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xirPXy0.png" group-title="MLB",10:10 AM None | Miami Marlins vs. Los Angeles Dodgers | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=TFFAw_Thr_FQgoQDsMd4-w&expires=1745698200&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=6aUh5SduTsZmq7aAJf1kjg&expires=1745903400&net=NTcuMTI5LjM5LjY1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/orcqwHV.png" group-title="MLB",10:10 AM PT | Baltimore Orioles vs. Detroit Tigers | 04/26/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/loTnW7h.png" group-title="MLB",06:10 AM None | Minnesota Twins vs. Cleveland Guardians | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=TFFAw_Thr_FQgoQDsMd4-w&expires=1745698200&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=7a1UyFQMahPB57VCFoEMSg&expires=1745889000&net=NTcuMTI5LjUyLjExOA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UId5Gr.png" group-title="MLB",03:10 PM PT | Baltimore Orioles vs. Detroit Tigers | 04/26/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fi69DHh.png" group-title="MLB",06:35 AM None | New York Yankees vs. Baltimore Orioles | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=OXqBR_8KaARNlguXPgfELA&expires=1745716200&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=YYE8WInpt31mI69ZptxGsQ&expires=1745890500&net=ODkuMTYzLjE0NC4xNDM%3D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fdxKSTV.png" group-title="MLB",03:10 PM PT | Baltimore Orioles vs. Detroit Tigers | 04/26/25
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/hou-gsw/1280x720.png" group-title="BASKETBALL",10:00 AM None | Rockets at Warriors | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=OXqBR_8KaARNlguXPgfELA&expires=1745716200&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTRiNGZkMDY4MmQxLWY3YzgtZGVhNC0xMTNkLTRkYTg4MGFh/master.m3u8?md5=cOeEsnkbdetiC2oUjwxSaQ&expires=1745901900&net=NzguMzEuNjcuMTA0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/drl2tWU.png" group-title="MLB",10:10 AM PT | Boston Red Sox vs. Cleveland Guardians | 04/26/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elCkhVF.png" group-title="MLB",06:40 AM None | St. Louis Cardinals vs. Cincinnati Reds | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=TFFAw_Thr_FQgoQDsMd4-w&expires=1745698200&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=bqGyhLB1qrptBE91O0uCPw&expires=1745890800&net=NTcuMTI5LjUyLjc2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rcb2EOi.png" group-title="MLB",10:10 AM PT | Boston Red Sox vs. Cleveland Guardians | 04/26/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NoY41q9.png" group-title="ICE HOCKEY",07:00 AM None | Tampa Bay Lightning vs. Florida Panthers | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=TFFAw_Thr_FQgoQDsMd4-w&expires=1745698200&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=ehVAipRpfMSKIvc_U-AemA&expires=1745892000&net=MTQxLjk1Ljg1LjE5OQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nHEjrMB.png" group-title="MLB",03:10 PM PT | Boston Red Sox vs. Cleveland Guardians | 04/26/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zmuUYCm.png" group-title="WRESTLING",08:00 AM None | WWE: Monday Night RAW | 04/29/25
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=OXqBR_8KaARNlguXPgfELA&expires=1745716200&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPZSE1r.png" group-title="MLB",03:10 PM PT | Boston Red Sox vs. Cleveland Guardians | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=OXqBR_8KaARNlguXPgfELA&expires=1745716200&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pHcYNVd.jpeg" group-title="COMBAT SPORTS",09:00 AM PT | Boxing: Eubank Jr. vs. Benn | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MDk5OTEzNWE5NmNlLTBlY2ItNmJlNC1hZWU3LTIyMjA5NTYx/master.m3u8?md5=cE5eUzd9zoo0tuDnJHoyVA&expires=1745712000&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W56g92A.jpeg" group-title="COMBAT SPORTS",09:00 AM PT | Cage Warriors 188 | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDgxNjBiYzE3ODgzLTNkOTgtNjg3NC0zZDZhLTE0MmE0NzAx/master.m3u8?md5=cE5eUzd9zoo0tuDnJHoyVA&expires=1745712000&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cle-mia/1280x720.png" group-title="BASKETBALL",10:00 AM PT | Cavaliers at Heat | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NWM2MjUyODhlOGNmLTI2YjgtOTY3NC0xOTkzLTk2MzI5ZDBk/master.m3u8?md5=6uANGoRkN6HW2Mv-i06wBA&expires=1745696700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bA45TdG.png" group-title="MLB",01:05 PM PT | Chicago White Sox vs. Athletics | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZjAyZWVhMjhkMmNhLWNkOWEtNzBmNC1lN2MwLWU5NWI3YjU3/master.m3u8?md5=BRLUB7d_SoGKhCa_j0j6yg&expires=1745708700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SsyI7a3.png" group-title="MLB",01:05 PM PT | Chicago White Sox vs. Athletics | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZjAyZWVhMjhkMmNhLWNkOWEtNzBmNC1lN2MwLWU5NWI3YjU3/master.m3u8?md5=BRLUB7d_SoGKhCa_j0j6yg&expires=1745708700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3GDKPnx.png" group-title="MLB",12:10 PM PT | Cincinnati Reds vs. Colorado Rockies | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=B3RkVOW9CplXlShkouWMyg&expires=1745705400&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eiajP91.png" group-title="MLB",12:10 PM PT | Cincinnati Reds vs. Colorado Rockies | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=B3RkVOW9CplXlShkouWMyg&expires=1745705400&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjFYuVO.jpeg" group-title="FOOTBALL",01:00 PM PT | Copa del Rey: Barcelona vs Real Madrid | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2JlYjE0NzhhNDMwLTEyMzgtNThiNC1lYTIzLTQ4NjZiYjc0/master.m3u8?md5=zES7K7O6QXUUBxsKs0krRw&expires=1745708400&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NOnzCoZ.png" group-title="ICE HOCKEY",06:30 PM PT | Dallas Stars vs. Colorado Avalanche | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=H_NPYiegV0Pj17U-GIWQFg&expires=1745728200&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tDpdzFV.jpeg" group-title="FOOTBALL",09:15 AM PT | FA Cup: Crystal Palace vs Aston Villa | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Nzc0MmE3ZjMxNTMwLTNmYjktMzI3NC03NTkyLTMyNmM0YmI3/master.m3u8?md5=1PIzgJzXii-QO5xOV4xPNg&expires=1745694900&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iDjTteX.png" group-title="MLB",04:10 PM PT | Houston Astros vs. Kansas City Royals | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=BKNOmyZQjWRuER7SiG8KkA&expires=1745719800&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fspfb9z.png" group-title="MLB",04:10 PM PT | Houston Astros vs. Kansas City Royals | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=BKNOmyZQjWRuER7SiG8KkA&expires=1745719800&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EtF4pVY.png" group-title="COMBAT SPORTS",05:00 PM PT | LND Monthly | 05/17/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://vod.ppv.wtf/lnd/index.m3u8?md5=TLn6FNm7kb7G3q5LmIyUOA&expires=1747548000&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o9xH5wP.png" group-title="MLB",11:10 AM PT | Los Angeles Angels vs. Minnesota Twins | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0/master.m3u8?md5=PA1dH_jtZG75IVlClD6Kvg&expires=1745701800&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HgcB6oj.png" group-title="MLB",11:10 AM PT | Los Angeles Angels vs. Minnesota Twins | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0/master.m3u8?md5=PA1dH_jtZG75IVlClD6Kvg&expires=1745701800&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sed1Yi8.png" group-title="COMBAT SPORTS",05:00 PM PT | MFN Weekly | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://vod.ppv.wtf/mfn/index.m3u8?md5=h3fjrvQCeINtws9-1bWwhg&expires=1745733600&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPJtfOo.png" group-title="MLB",06:40 PM PT | Miami Marlins vs. Seattle Mariners | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=T0k_6ev3D9WmXU_sem0hhA&expires=1745728800&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SSjr1Bc.png" group-title="MLB",06:40 PM PT | Miami Marlins vs. Seattle Mariners | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=T0k_6ev3D9WmXU_sem0hhA&expires=1745728800&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RsZb9He.png" group-title="MLB",11:15 AM PT | Milwaukee Brewers vs. St. Louis Cardinals | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=dhTbabUTM0jHqMiPJyLMVw&expires=1745702100&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lMOagzF.png" group-title="MLB",11:15 AM PT | Milwaukee Brewers vs. St. Louis Cardinals | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=dhTbabUTM0jHqMiPJyLMVw&expires=1745702100&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OarejfE.png" group-title="MLB",01:05 PM PT | New York Mets vs. Washington Nationals | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDFhNjk4YjE5YzA3LTgyMmEtYmVjNC04N2RlLTIyYWI2MDlm/master.m3u8?md5=BRLUB7d_SoGKhCa_j0j6yg&expires=1745708700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gtr3rgU.png" group-title="MLB",01:05 PM PT | New York Mets vs. Washington Nationals | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDFhNjk4YjE5YzA3LTgyMmEtYmVjNC04N2RlLTIyYWI2MDlm/master.m3u8?md5=BRLUB7d_SoGKhCa_j0j6yg&expires=1745708700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/den-lac/1280x720.png" group-title="BASKETBALL",03:00 PM PT | Nuggets at Clippers | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MWIwZTYwOWY0NTQ3LTMzNTktZTcxNC05ODJiLTY0NjkwOGFi/master.m3u8?md5=XKLQJuesrbKbEcej5dZ02Q&expires=1745714700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3tXbj5.jpeg" group-title="COMBAT SPORTS",08:30 AM PT | OKTAGON 70 (Czech) | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NmYzOWI1MmY5YzUzLWExNmEtMmQ5NC05YThiLTc4MmIzZjM3/master.m3u8?md5=2-OJdKjUJcr7UICQL7U04g&expires=1745710200&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3tXbj5.jpeg" group-title="COMBAT SPORTS",08:30 AM PT | OKTAGON 70 (German/Deutsch) | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YmEzZjg0ODY4NzFhLTYzNzktYjc0NC00MGEzLTFmNGU0NTMw/master.m3u8?md5=2-OJdKjUJcr7UICQL7U04g&expires=1745710200&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3tXbj5.jpeg" group-title="COMBAT SPORTS",08:30 AM PT | Oktagon 70 (English) | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGI5ZDU0ZmZiMzRlLThkNGEtYjcyNC02NDRhLTU0OTYxYzIx/master.m3u8?md5=2-OJdKjUJcr7UICQL7U04g&expires=1745710200&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_6mh9frxi/width/640" group-title="DARTS",04:00 AM PT | PDC: 2025 Austrian Darts Open Day Three | 04/27/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZDk3ZDVjZjgzMTczLTNlN2EtOGZkNC01ZTNiLTYxYzc0Zjhi/master.m3u8?md5=IBbqy4N3J257Pare5BXGxg&expires=1745798340&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_afql0yc5/width/640" group-title="DARTS",04:00 AM PT | PDC: 2025 Austrian Darts Open Day Two | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MDUxZjY3MDQxNDI1LWEyNTgtZTAyNC0zZDQzLTllZDk5ZTJk/master.m3u8?md5=HrDO_z_8cZbaf55iBFHe9w&expires=1745711940&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cM0ZUSc.png" group-title="MLB",01:05 PM PT | Philadelphia Phillies vs. Chicago Cubs | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmY3MTBkYWJlMmMyLTI4NmItMzdlNC1iNjQ2LWM1Nzc3ZTRl/master.m3u8?md5=BRLUB7d_SoGKhCa_j0j6yg&expires=1745708700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYAzv4n.png" group-title="MLB",01:05 PM PT | Philadelphia Phillies vs. Chicago Cubs | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmY3MTBkYWJlMmMyLTI4NmItMzdlNC1iNjQ2LWM1Nzc3ZTRl/master.m3u8?md5=BRLUB7d_SoGKhCa_j0j6yg&expires=1745708700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qhAOUgX.png" group-title="MLB",06:10 PM PT | Pittsburgh Pirates vs. Los Angeles Dodgers | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=8HkmiDTG_j8xFFf_mbr5Tg&expires=1745727000&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7cemuBP.png" group-title="MLB",06:10 PM PT | Pittsburgh Pirates vs. Los Angeles Dodgers | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=8HkmiDTG_j8xFFf_mbr5Tg&expires=1745727000&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/hou-gsw/1280x720.png" group-title="BASKETBALL",05:30 PM PT | Rockets at Warriors | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTRiNGZkMDY4MmQxLWY3YzgtZGVhNC0xMTNkLTRkYTg4MGFh/master.m3u8?md5=v9QM4ED-MGbhwl9I-4nlFQ&expires=1745723700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rvod1l8.png" group-title="ICE HOCKEY",10:00 AM PT | Tampa Bay Lightning vs. Florida Panthers | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=usZvLVE0vCMTTaz0Wc32HQ&expires=1745697600&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lq9O9A8.png" group-title="MLB",05:40 PM PT | Tampa Bay Rays vs. San Diego Padres | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=ej-zoWrc8McWiNDVXnlnzQ&expires=1745725200&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPJsrru.png" group-title="MLB",05:40 PM PT | Tampa Bay Rays vs. San Diego Padres | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=ej-zoWrc8McWiNDVXnlnzQ&expires=1745725200&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JQDFvuL.png" group-title="MLB",01:05 PM PT | Texas Rangers vs. San Francisco Giants | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=BRLUB7d_SoGKhCa_j0j6yg&expires=1745708700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HGxtasR.png" group-title="MLB",01:05 PM PT | Texas Rangers vs. San Francisco Giants | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=BRLUB7d_SoGKhCa_j0j6yg&expires=1745708700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/okc-mem/1280x720.png" group-title="BASKETBALL",12:30 PM PT | Thunder at Grizzlies | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1M2Q1MGEyZThiNWQwLThkMzktOGQyNC03NjdiLTE1NTQ2NmI3/master.m3u8?md5=Y8V3P-5a2q6i8Itct4krFQ&expires=1745705700&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14jznNc.png" group-title="MLB",10:05 AM PT | Toronto Blue Jays vs. New York Yankees | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=LUUjPQpqIj5f5BcmaMtpzA&expires=1745697900&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rV3Myrc.png" group-title="MLB",10:05 AM PT | Toronto Blue Jays vs. New York Yankees | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=LUUjPQpqIj5f5BcmaMtpzA&expires=1745697900&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hKKWVHt.png" group-title="ICE HOCKEY",04:00 PM PT | Toronto Maple Leafs vs. Ottawa Senators | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=F_xfCaemo5795tegyfcQMQ&expires=1745719200&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xp1zqVu.jpeg" group-title="COMBAT SPORTS",03:00 PM PT | UFC Fight Night: Machado Garry vs. Prates | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDgtNjM5NC0yZTZkLTk3NWI5Nzhh/master.m3u8?md5=h3fjrvQCeINtws9-1bWwhg&expires=1745733600&net=MTkzLjE5LjIwNi41Ng%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WyboMAO.png" group-title="ICE HOCKEY",01:00 PM PT | Vegas Golden Knights vs. Minnesota Wild | 04/26/25
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=zES7K7O6QXUUBxsKs0krRw&expires=1745708400&net=MTkzLjE5LjIwNi41Ng%3D%3D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=2AA2c2K9a2dIiQ0bnD_CIA&expires=1745894700&net=ODkuMTYzLjE0NS4xNjM%3D
 
