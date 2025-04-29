@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Download PPVland M3U8
-        run: wget https://iptv-scraper-re.vercel.app/ppvland?timezone=GB -O ppvland.m3u8
+        run: wget https://iptv-scraper-re.vercel.app/ppvland?timezone=gmt -O ppvland.m3u8
 
       - name: Convert M3U8 to M3U with Headers
         run: |
