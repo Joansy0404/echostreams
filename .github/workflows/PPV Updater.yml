@@ -2,8 +2,7 @@
 name: PPVland updater
 
 on:
-  schedule:
-    - cron: '* * * * *'
+  
   workflow_dispatch: {} # Enables manual triggering
 
 jobs:
