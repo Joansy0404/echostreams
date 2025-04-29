@@ -17,10 +17,12 @@ jobs:
       - name: Download PPVland M3U8
         run: wget https://iptv-scraper-re.vercel.app/ppvland?timezone=GB -O ppvland.m3u8
 
-      - name: Convert M3U8 to M3U
+      - name: Convert M3U8 to M3U with Header
         run: |
-          # Keep lines starting with #EXTINF or http (the stream URLs)
-          grep '^#EXTINF\|^http' ppvland.m3u8 > ppvland.m3u
+          # Start the M3U file with the EXTM3U header
+          echo '#EXTM3U' > ppvland.m3u
+          # Append lines starting with #EXTINF or http (the stream URLs)
+          grep '^#EXTINF\|^http' ppvland.m3u8 >> ppvland.m3u
 
       - name: Add M3U file to Git
         run: git add ppvland.m3u # Now adding the M3U file
@@ -50,4 +52,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-
