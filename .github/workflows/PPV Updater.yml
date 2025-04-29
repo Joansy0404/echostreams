@@ -14,14 +14,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: PPVland updater
+      - name: Download PPVland M3U8
         run: wget https://iptv-scraper-re.vercel.app/ppvland?timezone=GB -O ppvland.m3u8
 
-      - name: Add file to Git
-        run: git add ppvland.m3u8
+      - name: Convert M3U8 to M3U
+        run: |
+          # Keep lines starting with #EXTINF or http (the stream URLs)
+          grep '^#EXTINF\|^http' ppvland.m3u8 > ppvland.m3u
+
+      - name: Add M3U file to Git
+        run: git add ppvland.m3u # Now adding the M3U file
 
       - name: Check for changes before commit
         id: changes
+        # Check for changes in the M3U file
         run: |
           if git diff --cached --quiet; then
             echo "no changes"
@@ -35,7 +41,8 @@ jobs:
         run: |
           git config --local user.email "xxmartinxx1990@gmai.com"
           git config --local user.name "Joansy0404"
-          git commit -m "Updated PPVland.m3u8"
+          # Update commit message
+          git commit -m "Updated PPVland.m3u"
 
       - name: Push changes if commit happened
         if: env.changes_detected == 'true'
@@ -43,3 +50,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
+
