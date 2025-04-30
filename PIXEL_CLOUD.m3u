@@ -795,8 +795,6 @@ https://windnew.newkso.ru/wind/premium685/mono.m3u8|Referer=https://caq21harderv
 https://zekonew.newkso.ru/zeko/premium793/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 #EXTINF:0 CUID="401039" tvg-name="Showtime USA" tvg-ID="showtime.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-usa.png" group-title="UNITED STATES",Showtime USA
 https://windnew.newkso.ru/wind/premium333/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
-#EXTINF:0 CUID="401718" tvg-name="Showtime 2 USA (SHO2) USA" tvg-ID="showtime2.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-2-usa.png" group-title="UNITED STATES",Showtime 2 USA (SHO2) USA
-https://zekonew.newkso.ru/zeko/premium792/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 #EXTINF:0 CUID="401115" tvg-name="Smithsonian Channel" tvg-ID="Smithsonian.Channel.USA.HD.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/smithsonian-channel-us.png" group-title="UNITED STATES",Smithsonian Channel
 https://dokko1new.newkso.ru/dokko1/premium603/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 #EXTINF:0 CUID="401116" tvg-name="Space City Home Network" tvg-ID="Space.City.Home.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/space-city-home-network-us.png" group-title="UNITED STATES",Space City Home Network
@@ -873,6 +871,10 @@ https://zekonew.newkso.ru/zeko/premium598/mono.m3u8|Referer=https://caq21harderv
 https://zekonew.newkso.ru/zeko/premium763/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 #EXTINF:0 CUID="410765" tvg-name="Science Channel" tvg-ID="Science.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/science-channel.png" group-title="UNITED STATES",Science Channel
 https://nfsnew.newkso.ru/nfs/premium294/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTINF:0 CUID="411325" tvg-name="Monumental Sports Network" tvg-ID="Monumental.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/monumental-sports-network.png" group-title="UNITED STATES",Monumental Sports Network
+https://nfsnew.newkso.ru/nfs/premium924/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTINF:0 CUID="411425" tvg-name="Showtime 2 USA (SHO2) USA" tvg-ID="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-2-usa.png" group-title="UNITED STATES",Showtime 2 USA (SHO2) USA
+https://windnew.newkso.ru/wind/premium792/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 #EXTINF:0 CUID="400671" tvg-name="CTV 2 Canada" tvg-ID="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-2.png" group-title="CANADA ",CTV 2 Canada
 https://nfsnew.newkso.ru/nfs/premium838/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 #EXTINF:0 CUID="400672" tvg-name="CTV Canada" tvg-ID="CTV.(CFTO).Toronto,.ON.HD.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-ca.png" group-title="CANADA ",CTV Canada
@@ -5107,8 +5109,6 @@ https://jmp2.uk/sam-USAK3508716A.m3u8
 https://jmp2.uk/sam-USBA3000042O6.m3u8
 #EXTINF:0 CUID="291637" tvg-chno="899" tvg-name="Laff More" tvg-ID="US3700002P0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700002P0_20241112T000848SQUARE.png" group-title="United States SamsungTVPlus",Laff More
 https://jmp2.uk/sam-US3700002P0.m3u8
-#EXTINF:0 CUID="291642" tvg-chno="900" tvg-name="Lakeside Bonfire Vibes" tvg-ID="US14000136J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000136J_20241210T013910SQUARE.png" group-title="United States SamsungTVPlus",Lakeside Bonfire Vibes
-https://jmp2.uk/sam-US14000136J.m3u8
 #EXTINF:0 CUID="291645" tvg-chno="901" tvg-name="Las 3 Marías" tvg-ID="USBD17000172A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000172A_20241228T011516SQUARE.png" group-title="United States SamsungTVPlus",Las 3 Marías
 https://jmp2.uk/sam-USBD17000172A.m3u8
 #EXTINF:0 CUID="291647" tvg-chno="902" tvg-name="Lassie" tvg-ID="US1800010NE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800010NE_20240826T235541SQUARE.png" group-title="United States SamsungTVPlus",Lassie
@@ -5359,8 +5359,6 @@ https://jmp2.uk/sam-USAJ22000057N.m3u8
 https://jmp2.uk/sam-USAJ3504719A.m3u8
 #EXTINF:0 CUID="292189" tvg-chno="1025" tvg-name="Sony One Novelas" tvg-ID="USAJ3000002OC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20241119T232803SQUARE.png" group-title="United States SamsungTVPlus",Sony One Novelas
 https://jmp2.uk/sam-USAJ3000002OC.m3u8
-#EXTINF:0 CUID="292203" tvg-chno="1026" tvg-name="Soothing Vibes" tvg-ID="US2900009D4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900009D4_20241112T001746SQUARE.png" group-title="United States SamsungTVPlus",Soothing Vibes
-https://jmp2.uk/sam-US2900009D4.m3u8
 #EXTINF:0 CUID="292228" tvg-chno="1027" tvg-name="SportsGrid" tvg-ID="USBA300031OT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20250325T020250SQUARE.png" group-title="United States SamsungTVPlus",SportsGrid
 https://jmp2.uk/sam-USBA300031OT.m3u8
 #EXTINF:0 CUID="292230" tvg-chno="1028" tvg-name="Spring Vibes" tvg-ID="US1400010S0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400010S0_20250311T003447SQUARE.png" group-title="United States SamsungTVPlus",Spring Vibes
@@ -5557,8 +5555,6 @@ https://jmp2.uk/sam-USBB44000099N.m3u8
 https://jmp2.uk/sam-USBC2100011WI.m3u8
 #EXTINF:0 CUID="292575" tvg-chno="1124" tvg-name="WAPA+" tvg-ID="US41000060J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US41000060J_20250401T004920SQUARE.png" group-title="United States SamsungTVPlus",WAPA+
 https://jmp2.uk/sam-US41000060J.m3u8
-#EXTINF:0 CUID="292581" tvg-chno="1125" tvg-name="Waterfall Vibes" tvg-ID="US14000155Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000155Y_20241112T001906SQUARE.png" group-title="United States SamsungTVPlus",Waterfall Vibes
-https://jmp2.uk/sam-US14000155Y.m3u8
 #EXTINF:0 CUID="292583" tvg-chno="1126" tvg-name="Waypoint TV" tvg-ID="USBB440002055" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20240722T230849SQUARE.png" group-title="United States SamsungTVPlus",Waypoint TV
 https://jmp2.uk/sam-USBB440002055.m3u8
 #EXTINF:0 CUID="292585" tvg-chno="1127" tvg-name="WeatherNation" tvg-ID="USBC1500009LD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png" group-title="United States SamsungTVPlus",WeatherNation
@@ -5627,6 +5623,12 @@ https://jmp2.uk/sam-USBD3500027DS.m3u8
 https://jmp2.uk/sam-USBD1700016X9.m3u8
 #EXTINF:0 CUID="292698" tvg-chno="1159" tvg-name="ZooMoo" tvg-ID="USBC2400019EF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20240520T214904SQUARE.png" group-title="United States SamsungTVPlus",ZooMoo
 https://jmp2.uk/sam-USBC2400019EF.m3u8
+#EXTINF:0 CUID="412121" tvg-name="NASCAR Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700021SM_20250428T223448SQUARE.png" group-title="United States SamsungTVPlus",NASCAR Channel
+https://jmp2.uk/sam-US700021SM.m3u8
+#EXTINF:0 CUID="412381" tvg-name="Roku Sports Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500005Z1_20250428T223453SQUARE.png" group-title="United States SamsungTVPlus",Roku Sports Channel
+https://jmp2.uk/sam-US4500005Z1.m3u8
+#EXTINF:0 CUID="412457" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000135V_20250429T232807SQUARE.png" group-title="United States SamsungTVPlus",SMTOWN
+https://jmp2.uk/sam-US10000135V.m3u8
 #EXTINF:0 CUID="378703" tvg-chno="1160" tvg-name="21 Jump Street" tvg-ID="CABB26000082J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250121T094036SQUARE.png" group-title="Canada SamsungTVPlus",21 Jump Street
 https://jmp2.uk/sam-CABB26000082J.m3u8
 #EXTINF:0 CUID="378749" tvg-chno="1161" tvg-name="ALF" tvg-ID="CA41000052M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA41000052M_20250121T094848SQUARE.png" group-title="Canada SamsungTVPlus",ALF
@@ -5843,8 +5845,6 @@ https://jmp2.uk/sam-CA3900002PM.m3u8
 https://jmp2.uk/sam-CA2900011BJ.m3u8
 #EXTINF:0 CUID="379581" tvg-chno="1267" tvg-name="Kidoodle.TV" tvg-ID="CAAJ34000122Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ34000122Z_20250121T094348SQUARE.png" group-title="Canada SamsungTVPlus",Kidoodle.TV
 https://jmp2.uk/sam-CAAJ34000122Z.m3u8
-#EXTINF:0 CUID="379605" tvg-chno="1268" tvg-name="Lakeside Bonfire Vibes" tvg-ID="CA1400011ZD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400011ZD_20250318T021254SQUARE.png" group-title="Canada SamsungTVPlus",Lakeside Bonfire Vibes
-https://jmp2.uk/sam-CA1400011ZD.m3u8
 #EXTINF:0 CUID="379613" tvg-chno="1269" tvg-name="Law&Crime" tvg-ID="CAAJ3400002DI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400002DI_20250121T094356SQUARE.png" group-title="Canada SamsungTVPlus",Law&Crime
 https://jmp2.uk/sam-CAAJ3400002DI.m3u8
 #EXTINF:0 CUID="379620" tvg-chno="1270" tvg-name="LEGO Channel" tvg-ID="CABC230001363" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC230001363_20250121T095117SQUARE.png" group-title="Canada SamsungTVPlus",LEGO Channel
@@ -5933,8 +5933,6 @@ https://jmp2.uk/sam-CA1400015BB.m3u8
 https://jmp2.uk/sam-CABC2300012FY.m3u8
 #EXTINF:0 CUID="380071" tvg-chno="1312" tvg-name="RYZ Sports Network" tvg-ID="CA3900001GT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3900001GT_20250217T210505SQUARE.png" group-title="Canada SamsungTVPlus",RYZ Sports Network
 https://jmp2.uk/sam-CA3900001GT.m3u8
-#EXTINF:0 CUID="380166" tvg-chno="1313" tvg-name="Soothing Vibes" tvg-ID="CA2900010WE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900010WE_20250318T021312SQUARE.png" group-title="Canada SamsungTVPlus",Soothing Vibes
-https://jmp2.uk/sam-CA2900010WE.m3u8
 #EXTINF:0 CUID="380193" tvg-chno="1314" tvg-name="Spring Vibes" tvg-ID="CA14000121V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA14000121V_20250318T021316SQUARE.png" group-title="Canada SamsungTVPlus",Spring Vibes
 https://jmp2.uk/sam-CA14000121V.m3u8
 #EXTINF:0 CUID="380204" tvg-chno="1315" tvg-name="Stingray Classic Rock" tvg-ID="CABD1200036YT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200036YT_20250121T095231SQUARE.png" group-title="Canada SamsungTVPlus",Stingray Classic Rock
@@ -6043,8 +6041,6 @@ https://jmp2.uk/sam-CAAJ27000135F.m3u8
 https://jmp2.uk/sam-CABC52000165E.m3u8
 #EXTINF:0 CUID="380517" tvg-chno="1367" tvg-name="Vevo Pop" tvg-ID="CABC52000180Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20250318T021324SQUARE.png" group-title="Canada SamsungTVPlus",Vevo Pop
 https://jmp2.uk/sam-CABC52000180Z.m3u8
-#EXTINF:0 CUID="380544" tvg-chno="1368" tvg-name="Waterfall Vibes" tvg-ID="CA1400013XR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400013XR_20250318T021326SQUARE.png" group-title="Canada SamsungTVPlus",Waterfall Vibes
-https://jmp2.uk/sam-CA1400013XR.m3u8
 #EXTINF:0 CUID="380546" tvg-chno="1369" tvg-name="Waypoint TV" tvg-ID="CABB2500034Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500034Q4_20250121T095418SQUARE.png" group-title="Canada SamsungTVPlus",Waypoint TV
 https://jmp2.uk/sam-CABB2500034Q4.m3u8
 #EXTINF:0 CUID="380550" tvg-chno="1370" tvg-name="WeatherSpy" tvg-ID="CAAJ3400007TS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400007TS_20250121T094734SQUARE.png" group-title="Canada SamsungTVPlus",WeatherSpy
@@ -6083,3 +6079,7 @@ https://jmp2.uk/sam-CA1000001O6.m3u8
 https://jmp2.uk/sam-CA600002VE.m3u8
 #EXTINF:0 CUID="380661" tvg-chno="1387" tvg-name="ZooMoo" tvg-ID="CABD1700003AY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700003AY_20250121T095458SQUARE.png" group-title="Canada SamsungTVPlus",ZooMoo
 https://jmp2.uk/sam-CABD1700003AY.m3u8
+#EXTINF:0 CUID="412120" tvg-name="NASCAR Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA700002VS_20250428T223245SQUARE.png" group-title="Canada SamsungTVPlus",NASCAR Channel
+https://jmp2.uk/sam-CA700002VS.m3u8
+#EXTINF:0 CUID="412454" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1000003PR_20250428T223247SQUARE.png" group-title="Canada SamsungTVPlus",SMTOWN
+https://jmp2.uk/sam-CA1000003PR.m3u8
