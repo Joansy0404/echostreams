@@ -929,6 +929,8 @@ https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8|Referer=https://caq21harderv
 https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 #EXTINF:0 CUID="410560" tvg-name="FOX Sports 506 AU" tvg-ID="FoxSports506.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-506.png" group-title="AUSTRALIA ",FOX Sports 506 AU
 https://windnew.newkso.ru/wind/premium824/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTINF:0 CUID="412649" tvg-name="FOX Sports 502 AU" tvg-ID="FoxLeague.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-502.png" group-title="AUSTRALIA ",FOX Sports 502 AU
+https://zekonew.newkso.ru/zeko/premium820/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 #EXTINF:0 CUID="401076" tvg-name="Sky Sport 1 NZ" tvg-ID="skysport1.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-1-nz.png" group-title="NEW ZEALAND",Sky Sport 1 NZ
 https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 #EXTINF:0 CUID="401077" tvg-name="Sky Sport 2 NZ" tvg-ID="skysport2.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-2-nz.png" group-title="NEW ZEALAND",Sky Sport 2 NZ
@@ -1643,6 +1645,8 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/303924
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1114
 #EXTINF:0 CUID="376783" tvg-chno="1489" tvg-name="MavTV Europe" tvg-logo="https://logo.iptveditor.com/tveurope.png" group-title="UK ➾ Sports",MavTV Europe
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/294854
+#EXTINF:0 CUID="421490" tvg-name="Motorvision" group-title="UK ➾ Sports",Motorvision
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306983
 #EXTINF:0 CUID="312567" tvg-chno="1388" tvg-name="Baby TV" tvg-ID="babytv.uk" tvg-logo="https://logo.iptveditor.com/babytv.png" group-title="UK ➾ Kids",Baby TV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1129
 #EXTINF:0 CUID="312568" tvg-chno="1389" tvg-name="Blippi & Friends" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/3b2b7d14d0382b6225f2f2f827018bf9.png" group-title="UK ➾ Kids",Blippi & Friends
