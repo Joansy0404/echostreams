@@ -4719,6 +4719,8 @@ https://jmp2.uk/sam-GBBB3800005QO.m3u8
 https://jmp2.uk/sam-GB340000289.m3u8
 #EXTINF:0 CUID="292693" tvg-chno="702" tvg-name="Zee One" tvg-ID="GBBD1100013BJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100013BJ_20250304T015523SQUARE.png" group-title="Uk SamsungTVPlus",Zee One
 https://jmp2.uk/sam-GBBD1100013BJ.m3u8
+#EXTINF:0 CUID="422920" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20250429T155724SQUARE.png" group-title="Uk SamsungTVPlus",SMTOWN
+https://jmp2.uk/sam-GB1000001G0.m3u8
 #EXTINF:0 CUID="290734" tvg-chno="703" tvg-name="¿Qué Culpa Tiene Fatmagül?" tvg-ID="US270000298" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000298_20241119T020402SQUARE.png" group-title="United States SamsungTVPlus",¿Qué Culpa Tiene Fatmagül?
 https://jmp2.uk/sam-US270000298.m3u8
 #EXTINF:0 CUID="290740" tvg-chno="704" tvg-name="21 Jump Street" tvg-ID="USBB320000397" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20241105T024257SQUARE.png" group-title="United States SamsungTVPlus",21 Jump Street
