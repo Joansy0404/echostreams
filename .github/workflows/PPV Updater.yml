@@ -19,9 +19,9 @@ jobs:
       - name: Convert M3U8 to M3U with Headers
         run: |
           # Start the M3U file with the EXTM3U header
-          echo '#EXTM3U' > ppvland.m3u
+          echo '#EXTM3U' > daddylive.m3u
           # Append lines starting with #EXTINF, #EXTVLCOPT, or http
-          grep '^#EXTINF\|^#EXTVLCOPT\|^http' ppvland.m3u8 >> ppvland.m3u
+          grep '^#EXTINF\|^#EXTVLCOPT\|^http' daddylive.m3u8 >> daddylive.m3u
 
       - name: Add M3U file to Git
         run: git add daddylive.m3u # Now adding the M3U file
