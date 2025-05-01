@@ -26,7 +26,7 @@ jobs:
           grep '^#EXTINF\|^#EXTVLCOPT\|^http' daddylive.m3u8 >> daddylive.m3u
 
       - name: Add M3U file to Git
-        run: git add ppvland.m3u # Still adding ppvland.m3u
+        run: git add daddylive.m3u # Still adding ppvland.m3u
 
       - name: Check for changes before commit
         id: changes
