@@ -6391,139 +6391,139 @@ https://wowza1.leisertv.com/live/skyshowcasehd.stream/playlist.m3u8
 https://wowza5.leisertv.com/live/skymovieswitnesshd.stream/playlist
 #EXTINF:0 CUID="435420" tvg-chno="null" tvg-name="Sky News" tvg-logo="https://logo.iptveditor.com/skynews.png" group-title="° RAW UK",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:0 CUID="435846" tvg-chno="null" tvg-name="GB NEWS" group-title="° RAW UK",GB NEWS
+#EXTINF:0 CUID="435846" tvg-chno="null" tvg-name="GB NEWS" tvg-logo="https://logo.iptveditor.com/gbnews.png" group-title="° RAW UK",GB NEWS
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:0 CUID="435847" tvg-chno="null" tvg-name="NBC NEWS NOW" group-title="° RAW UK",NBC NEWS NOW
+#EXTINF:0 CUID="435847" tvg-chno="null" tvg-name="NBC NEWS NOW" tvg-logo="https://logo.iptveditor.com/nbcnewsnow.png" group-title="° RAW UK",NBC NEWS NOW
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&cli
-#EXTINF:0 CUID="435848" tvg-chno="null" tvg-name="BLAZE SD" group-title="° RAW UK",BLAZE SD
+#EXTINF:0 CUID="435848" tvg-chno="null" tvg-name="BLAZE SD" tvg-logo="https://logo.iptveditor.com/blaze.png" group-title="° RAW UK",BLAZE SD
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
-#EXTINF:0 CUID="435849" tvg-chno="null" tvg-name="NOW 70s" group-title="° RAW UK",NOW 70s
+#EXTINF:0 CUID="435849" tvg-chno="null" tvg-name="NOW 70s" tvg-logo="https://logo.iptveditor.com/now70s.png" group-title="° RAW UK",NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="435850" tvg-chno="null" tvg-name="NOW 80s" group-title="° RAW UK",NOW 80s
+#EXTINF:0 CUID="435850" tvg-chno="null" tvg-name="NOW 80s" tvg-logo="https://logo.iptveditor.com/now80s.png" group-title="° RAW UK",NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="435851" tvg-chno="null" tvg-name="NOW ROCK" group-title="° RAW UK",NOW ROCK
+#EXTINF:0 CUID="435851" tvg-chno="null" tvg-name="NOW ROCK" tvg-logo="https://logo.iptveditor.com/nowrock.png" group-title="° RAW UK",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="435852" tvg-chno="null" tvg-name="BBC ALBA" group-title="° RAW UK",BBC ALBA
+#EXTINF:0 CUID="435852" tvg-chno="null" tvg-name="BBC ALBA" tvg-logo="https://logo.iptveditor.com/bbcalba.png" group-title="° RAW UK",BBC ALBA
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
-#EXTINF:0 CUID="435853" tvg-chno="null" tvg-name="BBC ONE EAST MIDLANDS" group-title="° RAW UK",BBC ONE EAST MIDLANDS
+#EXTINF:0 CUID="435853" tvg-chno="null" tvg-name="BBC ONE EAST MIDLANDS" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="° RAW UK",BBC ONE EAST MIDLANDS
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
-#EXTINF:0 CUID="435854" tvg-chno="null" tvg-name="BBC ONE NORTHERN IRELAND" group-title="° RAW UK",BBC ONE NORTHERN IRELAND
+#EXTINF:0 CUID="435854" tvg-chno="null" tvg-name="BBC ONE NORTHERN IRELAND" tvg-logo="https://logo.iptveditor.com/bbconenorthern.png" group-title="° RAW UK",BBC ONE NORTHERN IRELAND
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
-#EXTINF:0 CUID="435855" tvg-chno="null" tvg-name="BBC ONE SCOTLAND SD" group-title="° RAW UK",BBC ONE SCOTLAND SD
+#EXTINF:0 CUID="435855" tvg-chno="null" tvg-name="BBC ONE SCOTLAND SD" tvg-logo="https://logo.iptveditor.com/bbconescotland.png" group-title="° RAW UK",BBC ONE SCOTLAND SD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8
-#EXTINF:0 CUID="435856" tvg-chno="null" tvg-name="BBC ONE SCOTLAND" group-title="° RAW UK",BBC ONE SCOTLAND
+#EXTINF:0 CUID="435856" tvg-chno="null" tvg-name="BBC ONE SCOTLAND" tvg-logo="https://logo.iptveditor.com/bbconescotland.png" group-title="° RAW UK",BBC ONE SCOTLAND
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd
-#EXTINF:0 CUID="435857" tvg-chno="null" tvg-name="BBC ONE SOUTH" group-title="° RAW UK",BBC ONE SOUTH
+#EXTINF:0 CUID="435857" tvg-chno="null" tvg-name="BBC ONE SOUTH" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="° RAW UK",BBC ONE SOUTH
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd
-#EXTINF:0 CUID="435858" tvg-chno="null" tvg-name="BBC ONE SOUTH EAST" group-title="° RAW UK",BBC ONE SOUTH EAST
+#EXTINF:0 CUID="435858" tvg-chno="null" tvg-name="BBC ONE SOUTH EAST" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="° RAW UK",BBC ONE SOUTH EAST
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd
-#EXTINF:0 CUID="435859" tvg-chno="null" tvg-name="BBC ONE SOUTH WEST" group-title="° RAW UK",BBC ONE SOUTH WEST
+#EXTINF:0 CUID="435859" tvg-chno="null" tvg-name="BBC ONE SOUTH WEST" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="° RAW UK",BBC ONE SOUTH WEST
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd
-#EXTINF:0 CUID="435860" tvg-chno="null" tvg-name="BBC ONE WALES" group-title="° RAW UK",BBC ONE WALES
+#EXTINF:0 CUID="435860" tvg-chno="null" tvg-name="BBC ONE WALES" tvg-logo="https://logo.iptveditor.com/bbconewales.png" group-title="° RAW UK",BBC ONE WALES
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
-#EXTINF:0 CUID="435861" tvg-chno="null" tvg-name="BBC ONE WEST" group-title="° RAW UK",BBC ONE WEST
+#EXTINF:0 CUID="435861" tvg-chno="null" tvg-name="BBC ONE WEST" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="° RAW UK",BBC ONE WEST
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd
-#EXTINF:0 CUID="435862" tvg-chno="null" tvg-name="BBC ONE WEST MIDLANDS" group-title="° RAW UK",BBC ONE WEST MIDLANDS
+#EXTINF:0 CUID="435862" tvg-chno="null" tvg-name="BBC ONE WEST MIDLANDS" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="° RAW UK",BBC ONE WEST MIDLANDS
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
-#EXTINF:0 CUID="435863" tvg-chno="null" tvg-name="BBC ONE YORKS" group-title="° RAW UK",BBC ONE YORKS
+#EXTINF:0 CUID="435863" tvg-chno="null" tvg-name="BBC ONE YORKS" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="° RAW UK",BBC ONE YORKS
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
-#EXTINF:0 CUID="435864" tvg-chno="null" tvg-name="BBC TWO" group-title="° RAW UK",BBC TWO
+#EXTINF:0 CUID="435864" tvg-chno="null" tvg-name="BBC TWO" tvg-logo="https://logo.iptveditor.com/bbctwo.png" group-title="° RAW UK",BBC TWO
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
-#EXTINF:0 CUID="435865" tvg-chno="null" tvg-name="BBC TWO NORTHERN IRELAND SD" group-title="° RAW UK",BBC TWO NORTHERN IRELAND SD
+#EXTINF:0 CUID="435865" tvg-chno="null" tvg-name="BBC TWO NORTHERN IRELAND SD" tvg-logo="https://logo.iptveditor.com/bbctwonorthern.png" group-title="° RAW UK",BBC TWO NORTHERN IRELAND SD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
-#EXTINF:0 CUID="435866" tvg-chno="null" tvg-name="BBC TWO NORTHERN IRELAND" group-title="° RAW UK",BBC TWO NORTHERN IRELAND
+#EXTINF:0 CUID="435866" tvg-chno="null" tvg-name="BBC TWO NORTHERN IRELAND" tvg-logo="https://logo.iptveditor.com/bbctwonorthern.png" group-title="° RAW UK",BBC TWO NORTHERN IRELAND
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
-#EXTINF:0 CUID="435867" tvg-chno="null" tvg-name="BBC TWO WALES" group-title="° RAW UK",BBC TWO WALES
+#EXTINF:0 CUID="435867" tvg-chno="null" tvg-name="BBC TWO WALES" tvg-logo="https://logo.iptveditor.com/bbctwowales.png" group-title="° RAW UK",BBC TWO WALES
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
-#EXTINF:0 CUID="435868" tvg-chno="null" tvg-name="BBC UHD 1" group-title="° RAW UK",BBC UHD 1
+#EXTINF:0 CUID="435868" tvg-chno="null" tvg-name="BBC UHD 1" tvg-logo="https://logo.iptveditor.com/bbc.png" group-title="° RAW UK",BBC UHD 1
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
-#EXTINF:0 CUID="435869" tvg-chno="null" tvg-name="BBC UHD 2" group-title="° RAW UK",BBC UHD 2
+#EXTINF:0 CUID="435869" tvg-chno="null" tvg-name="BBC UHD 2" tvg-logo="https://logo.iptveditor.com/bbc.png" group-title="° RAW UK",BBC UHD 2
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
-#EXTINF:0 CUID="435870" tvg-chno="null" tvg-name="BBC UHD 3" group-title="° RAW UK",BBC UHD 3
+#EXTINF:0 CUID="435870" tvg-chno="null" tvg-name="BBC UHD 3" tvg-logo="https://logo.iptveditor.com/bbc.png" group-title="° RAW UK",BBC UHD 3
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
-#EXTINF:0 CUID="435871" tvg-chno="null" tvg-name="BBC UHD 4" group-title="° RAW UK",BBC UHD 4
+#EXTINF:0 CUID="435871" tvg-chno="null" tvg-name="BBC UHD 4" tvg-logo="https://logo.iptveditor.com/bbc.png" group-title="° RAW UK",BBC UHD 4
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
-#EXTINF:0 CUID="435872" tvg-chno="null" tvg-name="BBC UHD 5" group-title="° RAW UK",BBC UHD 5
+#EXTINF:0 CUID="435872" tvg-chno="null" tvg-name="BBC UHD 5" tvg-logo="https://logo.iptveditor.com/bbc.png" group-title="° RAW UK",BBC UHD 5
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
-#EXTINF:0 CUID="435873" tvg-chno="null" tvg-name="PBS AMERICA" group-title="° RAW UK",PBS AMERICA
+#EXTINF:0 CUID="435873" tvg-chno="null" tvg-name="PBS AMERICA" tvg-logo="https://logo.iptveditor.com/pbsamerica.png" group-title="° RAW UK",PBS AMERICA
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="435874" tvg-chno="null" tvg-name="BBC FOUR SD" group-title="° RAW UK",BBC FOUR SD
+#EXTINF:0 CUID="435874" tvg-chno="null" tvg-name="BBC FOUR SD" tvg-logo="https://logo.iptveditor.com/bbcfour.png" group-title="° RAW UK",BBC FOUR SD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
-#EXTINF:0 CUID="435875" tvg-chno="null" tvg-name="BBC PARLIAMENT" group-title="° RAW UK",BBC PARLIAMENT
+#EXTINF:0 CUID="435875" tvg-chno="null" tvg-name="BBC PARLIAMENT" tvg-logo="https://logo.iptveditor.com/bbcparliament.png" group-title="° RAW UK",BBC PARLIAMENT
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
-#EXTINF:0 CUID="435876" tvg-chno="null" tvg-name="BBC RED BUTTON 1" group-title="° RAW UK",BBC RED BUTTON 1
+#EXTINF:0 CUID="435876" tvg-chno="null" tvg-name="BBC RED BUTTON 1" tvg-logo="https://logo.iptveditor.com/bbcredbutton.png" group-title="° RAW UK",BBC RED BUTTON 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
-#EXTINF:0 CUID="435877" tvg-chno="null" tvg-name="BBC RED BUTTON 2" group-title="° RAW UK",BBC RED BUTTON 2
+#EXTINF:0 CUID="435877" tvg-chno="null" tvg-name="BBC RED BUTTON 2" tvg-logo="https://logo.iptveditor.com/bbcredbutton.png" group-title="° RAW UK",BBC RED BUTTON 2
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_hd_abr_v1.mpd
 #EXTINF:0 CUID="435878" tvg-chno="null" tvg-name="POP" group-title="° RAW UK",POP
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
-#EXTINF:0 CUID="435879" tvg-chno="null" tvg-name="S4C" group-title="° RAW UK",S4C
+#EXTINF:0 CUID="435879" tvg-chno="null" tvg-name="S4C" tvg-logo="https://logo.iptveditor.com/s4c.png" group-title="° RAW UK",S4C
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:0 CUID="435880" tvg-chno="null" tvg-name="STV" group-title="° RAW UK",STV
+#EXTINF:0 CUID="435880" tvg-chno="null" tvg-name="STV" tvg-logo="https://logo.iptveditor.com/stv.png" group-title="° RAW UK",STV
 https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
 #EXTINF:0 CUID="435881" tvg-chno="null" tvg-name="STV+1" group-title="° RAW UK",STV+1
 https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stvplusone-gla-subs.m3u8
-#EXTINF:0 CUID="435882" tvg-chno="null" tvg-name="TALK" group-title="° RAW UK",TALK
+#EXTINF:0 CUID="435882" tvg-chno="null" tvg-name="TALK" tvg-logo="https://logo.iptveditor.com/talktv.png" group-title="° RAW UK",TALK
 https://amg00738-newsuk-amg00738c1-lg-gb-3426.playouts.now.amagi.tv/playlist/amg00738-newscorpukandirelandlimited-talktv-lggb/playlist.m3u8
-#EXTINF:0 CUID="435883" tvg-chno="null" tvg-name="TBN UK" group-title="° RAW UK",TBN UK
+#EXTINF:0 CUID="435883" tvg-chno="null" tvg-name="TBN UK" tvg-logo="https://logo.iptveditor.com/tbn.png" group-title="° RAW UK",TBN UK
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
-#EXTINF:0 CUID="435884" tvg-chno="null" tvg-name="Beano TV" group-title="° RAW UK",Beano TV
+#EXTINF:0 CUID="435884" tvg-chno="null" tvg-name="Beano TV" tvg-logo="https://logo.iptveditor.com/beanotv.png" group-title="° RAW UK",Beano TV
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 CUID="435885" tvg-chno="null" tvg-name="Bloomberg TV Europe" group-title="° RAW UK",Bloomberg TV Europe
+#EXTINF:0 CUID="435885" tvg-chno="null" tvg-name="Bloomberg TV Europe" tvg-logo="https://logo.iptveditor.com/bloombergeuropetv.png" group-title="° RAW UK",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:0 CUID="435886" tvg-chno="null" tvg-name="HobbyMaker" group-title="° RAW UK",HobbyMaker
+#EXTINF:0 CUID="435886" tvg-chno="null" tvg-name="HobbyMaker" tvg-logo="https://logo.iptveditor.com/hobbymaker.png" group-title="° RAW UK",HobbyMaker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:0 CUID="435887" tvg-chno="null" tvg-name="CBBC" group-title="° RAW UK",CBBC
+#EXTINF:0 CUID="435887" tvg-chno="null" tvg-name="CBBC" tvg-logo="https://logo.iptveditor.com/bbccbbc.png" group-title="° RAW UK",CBBC
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 #EXTINF:0 CUID="435888" tvg-chno="null" tvg-name="POP Up" group-title="° RAW UK",POP Up
 https://jmp2.uk/sam-GB25000016G.m3u8
-#EXTINF:0 CUID="435889" tvg-chno="null" tvg-name="tiny POP" group-title="° RAW UK",tiny POP
+#EXTINF:0 CUID="435889" tvg-chno="null" tvg-name="tiny POP" tvg-logo="https://logo.iptveditor.com/tinypop.png" group-title="° RAW UK",tiny POP
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:0 CUID="435890" tvg-chno="null" tvg-name="YAAAS!" group-title="° RAW UK",YAAAS!
 https://jmp2.uk/sam-GB340000289.m3u8
-#EXTINF:0 CUID="435891" tvg-chno="null" tvg-name="discover film" group-title="° RAW UK",discover film
+#EXTINF:0 CUID="435891" tvg-chno="null" tvg-name="discover film" tvg-logo="https://logo.iptveditor.com/discoverfilm.png" group-title="° RAW UK",discover film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 CUID="435892" tvg-chno="null" tvg-name="FILM STREAM" group-title="° RAW UK",FILM STREAM
+#EXTINF:0 CUID="435892" tvg-chno="null" tvg-name="FILM STREAM" tvg-logo="https://logo.iptveditor.com/filmstream.png" group-title="° RAW UK",FILM STREAM
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 CUID="435893" tvg-chno="null" tvg-name="GREAT! movies" group-title="° RAW UK",GREAT! movies
+#EXTINF:0 CUID="435893" tvg-chno="null" tvg-name="GREAT! movies" tvg-logo="https://logo.iptveditor.com/greatmovies.png" group-title="° RAW UK",GREAT! movies
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:0 CUID="435894" tvg-chno="null" tvg-name="GREAT! mystery" group-title="° RAW UK",GREAT! mystery
 https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
-#EXTINF:0 CUID="435895" tvg-chno="null" tvg-name="GREAT! romance" group-title="° RAW UK",GREAT! romance
+#EXTINF:0 CUID="435895" tvg-chno="null" tvg-name="GREAT! romance" tvg-logo="https://logo.iptveditor.com/greatromance.png" group-title="° RAW UK",GREAT! romance
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:0 CUID="435896" tvg-chno="null" tvg-name="Rakuten TV - Top Movies" group-title="° RAW UK",Rakuten TV - Top Movies
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/mast
-#EXTINF:0 CUID="435897" tvg-chno="null" tvg-name="Pluto TV Romance" group-title="° RAW UK",Pluto TV Romance
+#EXTINF:0 CUID="435897" tvg-chno="null" tvg-name="Pluto TV Romance" tvg-logo="https://logo.iptveditor.com/plutotvromance.png" group-title="° RAW UK",Pluto TV Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=
-#EXTINF:0 CUID="435898" tvg-chno="null" tvg-name="EDGE Sport" group-title="° RAW UK",EDGE Sport
+#EXTINF:0 CUID="435898" tvg-chno="null" tvg-name="EDGE Sport" tvg-logo="https://logo.iptveditor.com/edgesport.png" group-title="° RAW UK",EDGE Sport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 CUID="435899" tvg-chno="null" tvg-name="FIFA+" group-title="° RAW UK",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:0 CUID="435900" tvg-chno="null" tvg-name="MUTV" group-title="° RAW UK",MUTV
+#EXTINF:0 CUID="435900" tvg-chno="null" tvg-name="MUTV" tvg-logo="https://logo.iptveditor.com/mutv.png" group-title="° RAW UK",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:0 CUID="435901" tvg-chno="null" tvg-name="Pluto TV Sports" group-title="° RAW UK",Pluto TV Sports
+#EXTINF:0 CUID="435901" tvg-chno="null" tvg-name="Pluto TV Sports" tvg-logo="https://logo.iptveditor.com/plutotvsports.png" group-title="° RAW UK",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=
-#EXTINF:0 CUID="435902" tvg-chno="null" tvg-name="talkSPORT" group-title="° RAW UK",talkSPORT
+#EXTINF:0 CUID="435902" tvg-chno="null" tvg-name="talkSPORT" tvg-logo="https://logo.iptveditor.com/talksport.png" group-title="° RAW UK",talkSPORT
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:0 CUID="435903" tvg-chno="null" tvg-name="GEMS TV" group-title="° RAW UK",GEMS TV
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:0 CUID="435904" tvg-chno="null" tvg-name="JewelleryMaker" group-title="° RAW UK",JewelleryMaker
+#EXTINF:0 CUID="435904" tvg-chno="null" tvg-name="JewelleryMaker" tvg-logo="https://logo.iptveditor.com/jewellerymaker.png" group-title="° RAW UK",JewelleryMaker
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-#EXTINF:0 CUID="435905" tvg-chno="null" tvg-name="QVC" group-title="° RAW UK",QVC
+#EXTINF:0 CUID="435905" tvg-chno="null" tvg-name="QVC" tvg-logo="https://logo.iptveditor.com/qvc.png" group-title="° RAW UK",QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTINF:0 CUID="435906" tvg-chno="null" tvg-name="QVC BEAUTY" group-title="° RAW UK",QVC BEAUTY
+#EXTINF:0 CUID="435906" tvg-chno="null" tvg-name="QVC BEAUTY" tvg-logo="https://logo.iptveditor.com/qvcbeauty.png" group-title="° RAW UK",QVC BEAUTY
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
-#EXTINF:0 CUID="435907" tvg-chno="null" tvg-name="QVC EXTRA" group-title="° RAW UK",QVC EXTRA
+#EXTINF:0 CUID="435907" tvg-chno="null" tvg-name="QVC EXTRA" tvg-logo="https://logo.iptveditor.com/qvcextra.png" group-title="° RAW UK",QVC EXTRA
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-#EXTINF:0 CUID="435908" tvg-chno="null" tvg-name="QVC STYLE" group-title="° RAW UK",QVC STYLE
+#EXTINF:0 CUID="435908" tvg-chno="null" tvg-name="QVC STYLE" tvg-logo="https://logo.iptveditor.com/qvcstyle.png" group-title="° RAW UK",QVC STYLE
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:0 CUID="435909" tvg-chno="null" tvg-name="tjc" group-title="° RAW UK",tjc
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:0 CUID="435910" tvg-chno="null" tvg-name="Top Gear" group-title="° RAW UK",Top Gear
+#EXTINF:0 CUID="435910" tvg-chno="null" tvg-name="Top Gear" tvg-logo="https://logo.iptveditor.com/topgear.png" group-title="° RAW UK",Top Gear
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c109735dc1660008a4a2dc/master.m3u8?appName=web&appVersion=unknown&clie
-#EXTINF:0 CUID="435911" tvg-chno="null" tvg-name="BBC RED BUTTON 3" group-title="° RAW UK",BBC RED BUTTON 3
+#EXTINF:0 CUID="435911" tvg-chno="null" tvg-name="BBC RED BUTTON 3" tvg-logo="https://logo.iptveditor.com/bbcredbutton.png" group-title="° RAW UK",BBC RED BUTTON 3
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_hd_abr_v1.mpd
-#EXTINF:0 CUID="435912" tvg-chno="null" tvg-name="BBC RED BUTTON 4" group-title="° RAW UK",BBC RED BUTTON 4
+#EXTINF:0 CUID="435912" tvg-chno="null" tvg-name="BBC RED BUTTON 4" tvg-logo="https://logo.iptveditor.com/bbcredbutton.png" group-title="° RAW UK",BBC RED BUTTON 4
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_hd_abr_v1.mpd
 #EXTINF:0 CUID="435913" tvg-chno="null" tvg-name="BBC RED BUTTON 5" group-title="° RAW UK",BBC RED BUTTON 5
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_hd_abr_v1.mpd
@@ -6531,3 +6531,47 @@ https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_str
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_hd_abr_v1.mpd
 #EXTINF:0 CUID="435915" tvg-chno="null" tvg-name="BBC RED BUTTON 7" group-title="° RAW UK",BBC RED BUTTON 7
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435916" tvg-chno="null" tvg-name="BBC RED BUTTON 8" group-title="° RAW UK",BBC RED BUTTON 8
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435917" tvg-chno="null" tvg-name="BBC RED BUTTON 9" group-title="° RAW UK",BBC RED BUTTON 9
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435918" tvg-chno="null" tvg-name="BBC RED BUTTON 10" group-title="° RAW UK",BBC RED BUTTON 10
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435919" tvg-chno="null" tvg-name="BBC RED BUTTON 11" group-title="° RAW UK",BBC RED BUTTON 11
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435920" tvg-chno="null" tvg-name="BBC RED BUTTON 12" group-title="° RAW UK",BBC RED BUTTON 12
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435921" tvg-chno="null" tvg-name="BBC RED BUTTON 13" group-title="° RAW UK",BBC RED BUTTON 13
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435922" tvg-chno="null" tvg-name="BBC RED BUTTON 14" group-title="° RAW UK",BBC RED BUTTON 14
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435923" tvg-chno="null" tvg-name="BBC RED BUTTON 15" group-title="° RAW UK",BBC RED BUTTON 15
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435924" tvg-chno="null" tvg-name="BBC RED BUTTON 16" group-title="° RAW UK",BBC RED BUTTON 16
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435925" tvg-chno="null" tvg-name="BBC RED BUTTON 17" group-title="° RAW UK",BBC RED BUTTON 17
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435926" tvg-chno="null" tvg-name="BBC RED BUTTON 18" group-title="° RAW UK",BBC RED BUTTON 18
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435927" tvg-chno="null" tvg-name="BBC RED BUTTON 19" group-title="° RAW UK",BBC RED BUTTON 19
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435928" tvg-chno="null" tvg-name="BBC RED BUTTON 20" group-title="° RAW UK",BBC RED BUTTON 20
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435929" tvg-chno="null" tvg-name="BBC RED BUTTON 21" group-title="° RAW UK",BBC RED BUTTON 21
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435930" tvg-chno="null" tvg-name="BBC RED BUTTON 22" group-title="° RAW UK",BBC RED BUTTON 22
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435931" tvg-chno="null" tvg-name="BBC RED BUTTON 23" group-title="° RAW UK",BBC RED BUTTON 23
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435932" tvg-chno="null" tvg-name="BBC RED BUTTON 24" group-title="° RAW UK",BBC RED BUTTON 24
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_hd_abr_v1.mpd
+#EXTINF:0 CUID="435933" tvg-chno="null" tvg-name="BBC ONE LONDON" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="° RAW UK",BBC ONE LONDON
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
+#EXTINF:0 CUID="435934" tvg-chno="null" tvg-name="BBC THREE" tvg-logo="https://logo.iptveditor.com/bbcthree.png" group-title="° RAW UK",BBC THREE
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.mpd
+#EXTINF:0 CUID="435935" tvg-chno="null" tvg-name="BBC FOUR" tvg-logo="https://logo.iptveditor.com/bbcfour.png" group-title="° RAW UK",BBC FOUR
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.mpd
+#EXTINF:0 CUID="435936" tvg-chno="null" tvg-name="BBC SCOTLAND" tvg-logo="https://logo.iptveditor.com/bbcscotland.png" group-title="° RAW UK",BBC SCOTLAND
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.mpd
+#EXTINF:0 CUID="435937" tvg-chno="null" tvg-name="BBC NEWS" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="° RAW UK",BBC NEWS
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
