@@ -1,5 +1,5 @@
 # This is a basic workflow to help you get started with Actions
-name: PPVland updater # Note: Workflow name still says PPVland, but URL is changed
+name: daddylive updater # 
 
 on:
   schedule:
@@ -16,14 +16,14 @@ jobs:
 
       - name: Download Daddylive M3U8 # Updated step name
         # Changed the URL here to the one you provided
-        run: wget https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/daddylive-channels-tivimate.m3u8 -O ppvland.m3u8
+        run: wget https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/daddylive-channels-tivimate.m3u8 -O daddylive.m3u8
 
       - name: Convert M3U8 to M3U with Headers
         run: |
           # Start the M3U file with the EXTM3U header
-          echo '#EXTM3U' > ppvland.m3u
+          echo '#EXTM3U' > daddylive.m3u
           # Append lines starting with #EXTINF, #EXTVLCOPT, or http
-          grep '^#EXTINF\|^#EXTVLCOPT\|^http' ppvland.m3u8 >> ppvland.m3u
+          grep '^#EXTINF\|^#EXTVLCOPT\|^http' daddylive.m3u8 >> daddylive.m3u
 
       - name: Add M3U file to Git
         run: git add ppvland.m3u # Still adding ppvland.m3u
