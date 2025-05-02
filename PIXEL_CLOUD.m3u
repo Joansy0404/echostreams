@@ -1,4 +1,382 @@
 #EXTM3U
+#EXTINF:0 CUID="466960" tvg-name="Arena Sport 3 Serbia" tvg-ID="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="° A1X UK",Arena Sport 3 Serbia
+https://a1xs.vip/2000015
+#EXTINF:0 CUID="466961" tvg-name="Arena Sport 4 Croatia" tvg-ID="SkySp.F1.uk" tvg-logo="https://i.ibb.co/swp9ncv/Sky-f1-uhd.png" group-title="° A1X UK",Arena Sport 4 Croatia
+https://a1xs.vip/2000016
+#EXTINF:0 CUID="466962" tvg-name="Arena Sport 4 Serbia" tvg-ID="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="° A1X UK",Arena Sport 4 Serbia
+https://a1xs.vip/2000031
+#EXTINF:0 CUID="466963" tvg-name="Arte DE" tvg-ID="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="° A1X UK",Arte DE
+https://a1xs.vip/2000001
+#EXTINF:0 CUID="466964" tvg-name="Astro Cricket" tvg-ID="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="° A1X UK",Astro Cricket
+https://a1xs.vip/2000002
+#EXTINF:0 CUID="466965" tvg-name="Astro SuperSport 1" tvg-ID="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="° A1X UK",Astro SuperSport 1
+https://a1xs.vip/2000003
+#EXTINF:0 CUID="466966" tvg-name="Astro SuperSport 2" tvg-ID="SkySp.News.HD.uk" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="° A1X UK",Astro SuperSport 2
+https://a1xs.vip/2000004
+#EXTINF:0 CUID="466967" tvg-name="Astro SuperSport 3" tvg-ID="SkySp.F1.HD.uk" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="° A1X UK",Astro SuperSport 3
+https://a1xs.vip/2000005
+#EXTINF:0 CUID="466968" tvg-name="Astro SuperSport 4" tvg-ID="SkySpCricket.HD.uk" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="° A1X UK",Astro SuperSport 4
+https://a1xs.vip/2000006
+#EXTINF:0 CUID="466969" tvg-name="Azteca 7 MX" tvg-ID="SkySp.Mix.HD.uk" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="° A1X UK",Azteca 7 MX
+https://a1xs.vip/2000008
+#EXTINF:0 CUID="466970" tvg-name="BBC 1 DE" tvg-ID="SkySp.Golf.HD.uk" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="° A1X UK",BBC 1 DE
+https://a1xs.vip/2000009
+#EXTINF:0 CUID="466971" tvg-name="CINEMAX - Eastern Feed SD" tvg-ID="SkySp.Racing.HD.uk" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="° A1X UK",CINEMAX - Eastern Feed SD
+https://a1xs.vip/2000010
+#EXTINF:0 CUID="466972" tvg-name="BBC Four UK" tvg-ID="SkySp.ActionHD.uk" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="° A1X UK",BBC Four UK
+https://a1xs.vip/2000011
+#EXTINF:0 CUID="466973" tvg-name="CINEMAX MOREMAX Eastern SD" tvg-ID="SkySp+HD.uk" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="° A1X UK",CINEMAX MOREMAX Eastern SD
+https://a1xs.vip/2000012
+#EXTINF:0 CUID="466974" tvg-name="BBC One UK" tvg-ID="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="° A1X UK",BBC One UK
+https://a1xs.vip/2000013
+#EXTINF:0 CUID="466975" tvg-name="BBC Three UK" tvg-ID="TNT.Sports.1.HD.uk" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="° A1X UK",BBC Three UK
+https://a1xs.vip/2000021
+#EXTINF:0 CUID="466976" tvg-name="BBC Two UK" tvg-ID="TNT.Sports.2.HD.uk" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="° A1X UK",BBC Two UK
+https://a1xs.vip/2000022
+#EXTINF:0 CUID="466977" tvg-name="CNBC USA SD" tvg-ID="TNT.Sports.3.HD.uk" tvg-logo="https://i.imgur.com/z1d9M65.png" group-title="° A1X UK",CNBC USA SD
+https://a1xs.vip/2000023
+#EXTINF:0 CUID="466978" tvg-name="CNN US HD" tvg-ID="TNT.Sports.4.HD.uk" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="° A1X UK",CNN US HD
+https://a1xs.vip/2000024
+#EXTINF:0 CUID="466979" tvg-name="BNT 1 Bulgaria" tvg-ID="BBC.NEWS.HD.uk" tvg-logo="https://i.imgur.com/wZcplCT.png" group-title="° A1X UK",BNT 1 Bulgaria
+https://a1xs.vip/1000015
+#EXTINF:0 CUID="466980" tvg-name="BNT 2 Bulgaria" tvg-ID="CNN.uk" tvg-logo="https://i.imgur.com/iXbtNPJ.png" group-title="° A1X UK",BNT 2 Bulgaria
+https://a1xs.vip/1000016
+#EXTINF:0 CUID="466981" tvg-name="BNT 3 Bulgaria" tvg-ID="BBC.One.Lon.HD.uk" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="° A1X UK",BNT 3 Bulgaria
+https://a1xs.vip/1000001
+#EXTINF:0 CUID="466982" tvg-name="Bandsports Brazil" tvg-ID="BBC.Two.HD.uk" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="° A1X UK",Bandsports Brazil
+https://a1xs.vip/1000002
+#EXTINF:0 CUID="466983" tvg-name="Barca TV Spain" tvg-ID="BBC.Three.HD.uk" tvg-logo="https://i.ibb.co/n8t4rCh/BBC-Three.png" group-title="° A1X UK",Barca TV Spain
+https://a1xs.vip/1000003
+#EXTINF:0 CUID="466984" tvg-name="CW (WUCW) (KFMB-TV2) San Diego HD" tvg-ID="ITV1.HD.uk" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="° A1X UK",CW (WUCW) (KFMB-TV2) San Diego HD
+https://a1xs.vip/1000011
+#EXTINF:0 CUID="466985" tvg-name="BeIN Sports HD Qatar" tvg-ID="ITV2.HD.uk" tvg-logo="https://i.ibb.co/Yc66t7f/ITV2.png" group-title="° A1X UK",BeIN Sports HD Qatar
+https://a1xs.vip/1000012
+#EXTINF:0 CUID="466986" tvg-name="Benfica TV PT" tvg-ID="ITV3.HD.uk" tvg-logo="https://i.ibb.co/fHbyKrt/ITV3.png" group-title="° A1X UK",Benfica TV PT
+https://a1xs.vip/1000013
+#EXTINF:0 CUID="466987" tvg-name="Chicago Sports Network SD" tvg-ID="ITV4.HD.uk" tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="° A1X UK",Chicago Sports Network SD
+https://a1xs.vip/1000014
+#EXTINF:0 CUID="466988" tvg-name="Crime + Investigation USA HD HD" tvg-ID="Channel.4.HD.uk" tvg-logo="https://i.ibb.co/v3WBCFV/Channel-4.png" group-title="° A1X UK",Crime + Investigation USA HD HD
+https://a1xs.vip/1000031
+#EXTINF:0 CUID="466989" tvg-name="C More Football Sweden" tvg-ID="Channel.5.HD.uk" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="° A1X UK",C More Football Sweden
+https://a1xs.vip/1000030
+#EXTINF:0 CUID="466990" tvg-name="C More Series Sweden" tvg-ID="E4.HD.uk" tvg-logo="https://i.imgur.com/ium8n7E.png" group-title="° A1X UK",C More Series Sweden
+https://a1xs.vip/1000032
+#EXTINF:0 CUID="466991" tvg-name="DISCOVERY FAMILY CHANNEL SD" tvg-ID="More4.HD.uk" tvg-logo="https://i.imgur.com/cUMgPAZ.png" group-title="° A1X UK",DISCOVERY FAMILY CHANNEL SD
+https://a1xs.vip/1000034
+#EXTINF:0 CUID="466992" tvg-name="CANAL+ MotoGP France" tvg-ID="4seven.ukk" tvg-logo="https://i.imgur.com/DtUIn7I.png" group-title="° A1X UK",CANAL+ MotoGP France
+https://a1xs.vip/1000036
+#EXTINF:0 CUID="466993" tvg-name="CANAL+ SPORT 5 Poland" tvg-ID="Film4.HD.uk" tvg-logo="https://i.imgur.com/OjiHaqa.png" group-title="° A1X UK",CANAL+ SPORT 5 Poland
+https://a1xs.vip/1000035
+#EXTINF:0 CUID="466994" tvg-name="CANAL9 Denmark" tvg-ID="MTV.HD.uk" tvg-logo="https://i.imgur.com/CeKvKIu.png" group-title="° A1X UK",CANAL9 Denmark
+https://a1xs.vip/1000037
+#EXTINF:0 CUID="466995" tvg-name="DISNEY CHANNEL - Eastern Feed SD" tvg-ID="Discovery.HD.uk" tvg-logo="https://i.imgur.com/1eM0KX8.png" group-title="° A1X UK",DISNEY CHANNEL - Eastern Feed SD
+https://a1xs.vip/1000033
+#EXTINF:0 CUID="466996" tvg-name="Destination America HD" tvg-ID="Sky.Atlantic.HD.uk" tvg-logo="https://pixvid.org/images/2025/02/10/sky-atlantic.png" group-title="° A1X UK",Destination America HD
+https://a1xs.vip/210001
+#EXTINF:0 CUID="466997" tvg-name="Destination America SD" tvg-ID="Sky.Cinema.Hits.HD.uk" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-hits.png" group-title="° A1X UK",Destination America SD
+https://a1xs.vip/210002
+#EXTINF:0 CUID="466998" tvg-name="Discovery Channel (US) - Eastern Feed HD" tvg-ID="Sky.Premiere.uk" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-premiere.png" group-title="° A1X UK",Discovery Channel (US) - Eastern Feed HD
+https://a1xs.vip/210003
+#EXTINF:0 CUID="466999" tvg-name="Discovery Channel (US) - Eastern Feed SD" tvg-ID="Sky.Cinema.Select.uk" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-select.png" group-title="° A1X UK",Discovery Channel (US) - Eastern Feed SD
+https://a1xs.vip/210004
+#EXTINF:0 CUID="467000" tvg-name="CMTV Portugal" tvg-ID="Sky.Action.uk" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-action.png" group-title="° A1X UK",CMTV Portugal
+https://a1xs.vip/210006
+#EXTINF:0 CUID="467001" tvg-name="Discovery Science SD" tvg-ID="Sky.Family.HD.uk" tvg-logo="https://pixvid.org/images/2025/02/11/sky-family.png" group-title="° A1X UK",Discovery Science SD
+https://a1xs.vip/210007
+#EXTINF:0 CUID="467002" tvg-name="Disney JR USA - East HD" tvg-ID="Sky.Comedy.Cinema.uk" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-comedy.png" group-title="° A1X UK",Disney JR USA - East HD
+https://a1xs.vip/210005
+#EXTINF:0 CUID="467003" tvg-name="Disney JR USA - East SD" tvg-ID="Cartoon.Netwrk.uk" tvg-logo="https://pixvid.org/images/2025/02/27/cartoon-network.png" group-title="° A1X UK",Disney JR USA - East SD
+https://a1xs.vip/1000050
+#EXTINF:0 CUID="467004" tvg-name="CTV 2 Canada" tvg-ID="NickelodeonHD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/Nickelodeon.png" group-title="° A1X UK",CTV 2 Canada
+https://a1xs.vip/1000051
+#EXTINF:0 CUID="467005" tvg-name="CTV Canada" tvg-ID="Nick.Jr..HD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/Nick_Jr.png" group-title="° A1X UK",CTV Canada
+https://a1xs.vip/1000052
+#EXTINF:0 CUID="467006" tvg-name="E! Entertainment Television USA - Eastern Feed HD" tvg-ID="Nicktoons.uk" tvg-logo="https://i.imgur.com/X3eFHe6.png" group-title="° A1X UK",E! Entertainment Television USA - Eastern Feed HD
+https://a1xs.vip/100054
+#EXTINF:0 CUID="467007" tvg-name="E! Entertainment Television USA - Eastern Feed SD" tvg-ID="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="° A1X US",E! Entertainment Television USA - Eastern Feed SD
+https://a1xs.vip/4000080
+#EXTINF:0 CUID="467008" tvg-name="Canal 11 Portugal" tvg-ID="MSG.(Madison.Square.Gardens).us" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="° A1X US",Canal 11 Portugal
+https://a1xs.vip/4000001
+#EXTINF:0 CUID="467009" tvg-name="Canal+ Family Poland" tvg-ID="MSG.Plus.us" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="° A1X US",Canal+ Family Poland
+https://a1xs.vip/4000002
+#EXTINF:0 CUID="467010" tvg-name="Canal+ Foot France" tvg-ID="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="° A1X US",Canal+ Foot France
+https://a1xs.vip/4000004
+#EXTINF:0 CUID="467011" tvg-name="Canal+ Formula 1" tvg-ID="SNY:.SportsNet.New.York.(Comcast).us" tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png" group-title="° A1X US",Canal+ Formula 1
+https://a1xs.vip/40000045
+#EXTINF:0 CUID="467012" tvg-name="Canal+ France" tvg-ID="Spectrum.SportsNet.us" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="° A1X US",Canal+ France
+https://a1xs.vip/4000006
+#EXTINF:0 CUID="467013" tvg-name="Canal+ Premium Poland" tvg-ID="CBS.Sports.Network.USA.us" tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" group-title="° A1X US",Canal+ Premium Poland
+https://a1xs.vip/4000008
+#EXTINF:0 CUID="467014" tvg-name="Canal+ Seriale Poland" tvg-ID="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://pixvid.org/images/2025/02/06/golazo.png" group-title="° A1X US",Canal+ Seriale Poland
+https://a1xs.vip/4000009
+#EXTINF:0 CUID="467015" tvg-name="Canal+ Sport 2 Poland" tvg-ID="plex.tv.CBS.Sports.HQ.plex" tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" group-title="° A1X US",Canal+ Sport 2 Poland
+https://a1xs.vip/4000007
+#EXTINF:0 CUID="467016" tvg-name="Canal+ Sport France" tvg-ID="ESPN.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="° A1X US",Canal+ Sport France
+https://a1xs.vip/40000011
+#EXTINF:0 CUID="467017" tvg-name="Canal+ Sport Poland" tvg-ID="ESPN2.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-2.png" group-title="° A1X US",Canal+ Sport Poland
+https://a1xs.vip/40000012
+#EXTINF:0 CUID="467018" tvg-name="Canal+ Sport360" tvg-ID="ESPN.U.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-u.png" group-title="° A1X US",Canal+ Sport360
+https://a1xs.vip/40000013
+#EXTINF:0 CUID="467019" tvg-name="FOOD NETWORK USA - Eastern Feed SD" tvg-ID="ESPN.News.us" tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" group-title="° A1X US",FOOD NETWORK USA - Eastern Feed SD
+https://a1xs.vip/40000014
+#EXTINF:0 CUID="467020" tvg-name="Channel 11 Israel" tvg-ID="SEC.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="° A1X US",Channel 11 Israel
+https://a1xs.vip/40000015
+#EXTINF:0 CUID="467021" tvg-name="Channel 12 Israel" tvg-ID="ACC.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" group-title="° A1X US",Channel 12 Israel
+https://a1xs.vip/40000016
+#EXTINF:0 CUID="467022" tvg-name="Channel 13 Israel" tvg-ID="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="° A1X US",Channel 13 Israel
+https://a1xs.vip/40000021
+#EXTINF:0 CUID="467023" tvg-name="Channel 14 Israel" tvg-ID="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="° A1X US",Channel 14 Israel
+https://a1xs.vip/40000022
+#EXTINF:0 CUID="467024" tvg-name="Channel 4 UK" tvg-ID="MLB.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/mlb-nw.png" group-title="° A1X US",Channel 4 UK
+https://a1xs.vip/40000030
+#EXTINF:0 CUID="467025" tvg-name="Channel 5 UK" tvg-ID="NBA.TV.USA.us" tvg-logo="https://pixvid.org/images/2025/01/25/nba-tv.png" group-title="° A1X US",Channel 5 UK
+https://a1xs.vip/40000031
+#EXTINF:0 CUID="467026" tvg-name="FX Networks East Coast HD" tvg-ID="NFL.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-nw.png" group-title="° A1X US",FX Networks East Coast HD
+https://a1xs.vip/40000032
+#EXTINF:0 CUID="467027" tvg-name="FX Networks East Coast SD" tvg-ID="NFL.RedZone.us" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-rz.png" group-title="° A1X US",FX Networks East Coast SD
+https://a1xs.vip/40000033
+#EXTINF:0 CUID="467028" tvg-name="Combate Brazil" tvg-ID="NHL.Network.USA.us" tvg-logo="https://pixvid.org/images/2025/01/25/nhl-nw.png" group-title="° A1X US",Combate Brazil
+https://a1xs.vip/40000034
+#EXTINF:0 CUID="467029" tvg-name="FXX USA - Eastern SD" tvg-ID="Marquee.Sports.Network.us" tvg-logo="https://pixvid.org/images/2025/02/06/marquee-sn.png" group-title="° A1X US",FXX USA - Eastern SD
+https://a1xs.vip/4000010
+#EXTINF:0 CUID="467030" tvg-name="FYI USA - Eastern HD" tvg-ID="Big.Ten.Network.us" tvg-logo="https://pixvid.org/images/2025/02/12/big-ten.png" group-title="° A1X US",FYI USA - Eastern HD
+https://a1xs.vip/40000047
+#EXTINF:0 CUID="467031" tvg-name="FYI USA - Eastern SD" tvg-ID="Altitude.Sports.-.Denver.us" tvg-logo="https://pixvid.org/images/2025/02/20/altitude-sports.png" group-title="° A1X US",FYI USA - Eastern SD
+https://a1xs.vip/40000048
+#EXTINF:0 CUID="467032" tvg-name="Cosmote Sport 1 HD" tvg-ID="FanDuel.TV.us" tvg-logo="https://pixvid.org/images/2025/02/07/fanduel_tv.png" group-title="° A1X US",Cosmote Sport 1 HD
+https://a1xs.vip/40000046
+#EXTINF:0 CUID="467033" tvg-name="Cosmote Sport 2 HD" tvg-ID="FanDuel.Sports.Network.North.us" tvg-logo="https://pixvid.org/images/2025/02/13/FanDuel_North.png" group-title="° A1X US",Cosmote Sport 2 HD
+https://a1xs.vip/4000057
+#EXTINF:0 CUID="467034" tvg-name="Cosmote Sport 3 HD" tvg-ID="FanDuel.Sports.Network.Florida.us" tvg-logo="https://pixvid.org/images/2025/02/08/FanDuel_Florida.png" group-title="° A1X US",Cosmote Sport 3 HD
+https://a1xs.vip/4000050
+#EXTINF:0 CUID="467035" tvg-name="Cosmote Sport 4 HD" tvg-ID="Fanduel.Sports.Sun.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Sun.png" group-title="° A1X US",Cosmote Sport 4 HD
+https://a1xs.vip/4000051
+#EXTINF:0 CUID="467036" tvg-name="Cosmote Sport 5 HD" tvg-ID="FanDuel.Sports.Network.West.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_West.png" group-title="° A1X US",Cosmote Sport 5 HD
+https://a1xs.vip/4000052
+#EXTINF:0 CUID="467037" tvg-name="Cosmote Sport 6 HD" tvg-ID="FanDuel.Sports.Network.South.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_South.png" group-title="° A1X US",Cosmote Sport 6 HD
+https://a1xs.vip/4000053
+#EXTINF:0 CUID="467038" tvg-name="Cosmote Sport 7 HD" tvg-ID="FanDuel.Sports.Network.Midwest.St..Louis.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Midwest.png" group-title="° A1X US",Cosmote Sport 7 HD
+https://a1xs.vip/4000054
+#EXTINF:0 CUID="467039" tvg-name="Cosmote Sport 8 HD" tvg-ID="FanDuel.Sports.Network.Great.Lakes.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_GLakes.png" group-title="° A1X US",Cosmote Sport 8 HD
+https://a1xs.vip/4000055
+#EXTINF:0 CUID="467040" tvg-name="Cosmote Sport 9 HD" tvg-ID="FanDuel.Sports.Network.Wisconsin.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel-Wisconsin.png" group-title="° A1X US",Cosmote Sport 9 HD
+https://a1xs.vip/4000056
+#EXTINF:0 CUID="467041" tvg-name="FanDuel SN North SD" tvg-ID="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-logo="https://pixvid.org/images/2025/02/04/willow.png" group-title="° A1X US",FanDuel SN North SD
+https://a1xs.vip/40000042
+#EXTINF:0 CUID="467042" tvg-name="FanDuel SN Ohio HD" tvg-ID="Willow.Xtra.us" tvg-logo="https://pixvid.org/images/2025/02/04/willow-xtra.png" group-title="° A1X US",FanDuel SN Ohio HD
+https://a1xs.vip/40000043
+#EXTINF:0 CUID="467043" tvg-name="Cuatro Spain" tvg-ID="The.Tennis.Channel.us" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="° A1X US",Cuatro Spain
+https://a1xs.vip/40000040
+#EXTINF:0 CUID="467044" tvg-name="Cytavision Sports 1 Cyprus" tvg-ID="The.Tennis.Channel.us" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="° A1X US",Cytavision Sports 1 Cyprus
+https://a1xs.vip/40000041
+#EXTINF:0 CUID="467045" tvg-name="Cytavision Sports 3 Cyprus" tvg-ID="Golf.Channel.USA.us" tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" group-title="° A1X US",Cytavision Sports 3 Cyprus
+https://a1xs.vip/40000060
+#EXTINF:0 CUID="467046" tvg-name="Cytavision Sports 4 Cyprus" tvg-ID="Chicago.Sports.Network.us" tvg-logo="https://i.imgur.com/wJvwsKH.png" group-title="° A1X US",Cytavision Sports 4 Cyprus
+https://a1xs.vip/4000049
+#EXTINF:0 CUID="467047" tvg-name="Cytavision Sports 5 Cyprus" tvg-ID="NBC.Sports.Bay.Area.us" tvg-logo="https://i.imgur.com/lxdcjBQ.png" group-title="° A1X US",Cytavision Sports 5 Cyprus
+https://a1xs.vip/400050
+#EXTINF:0 CUID="467048" tvg-name="Cytavision Sports 6 Cyprus" tvg-ID="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://i.imgur.com/ClsPpm6.png" group-title="° A1X US",Cytavision Sports 6 Cyprus
+https://a1xs.vip/400051
+#EXTINF:0 CUID="467072" tvg-name="Fox News HD" tvg-ID="TSN1.ca" tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="° A1X INT",Fox News HD
+https://a1xs.vip/6000001
+#EXTINF:0 CUID="467073" tvg-name="Fox News SD" tvg-ID="TSN2.ca" tvg-logo="https://i.imgur.com/iTSoxQW.png" group-title="° A1X INT",Fox News SD
+https://a1xs.vip/6000002
+#EXTINF:0 CUID="467074" tvg-name="Fox Sports 1 HD" tvg-ID="TSN3.ca" tvg-logo="https://i.imgur.com/dPMY5Kc.png" group-title="° A1X INT",Fox Sports 1 HD
+https://a1xs.vip/6000003
+#EXTINF:0 CUID="467075" tvg-name="Discovery Velocity CA" tvg-ID="TSN4.ca" tvg-logo="https://i.imgur.com/9EInDNq.png" group-title="° A1X INT",Discovery Velocity CA
+https://a1xs.vip/6000004
+#EXTINF:0 CUID="467076" tvg-name="Fox Sports 2 HD" tvg-ID="TSN5.ca" tvg-logo="https://i.imgur.com/houBcHX.png" group-title="° A1X INT",Fox Sports 2 HD
+https://a1xs.vip/6000005
+#EXTINF:0 CUID="467077" tvg-name="Fox Sports 2 SD" tvg-ID="Sportsnet.(Ontario).ca" group-title="° A1X INT",Fox Sports 2 SD
+https://a1xs.vip/6000011
+#EXTINF:0 CUID="467078" tvg-name="Freeform - East Feed HD" tvg-ID="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/SxBnZN0.png" group-title="° A1X INT",Freeform - East Feed HD
+https://a1xs.vip/6000012
+#EXTINF:0 CUID="467079" tvg-name="Dubai Racing 1 UAE" tvg-ID="Sportsnet.World.ca" tvg-logo="https://i.imgur.com/EJy8K7F.png" group-title="° A1X INT",Dubai Racing 1 UAE
+https://a1xs.vip/6000013
+#EXTINF:0 CUID="467080" tvg-name="Dubai Sports 1 UAE" tvg-ID="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/8YNVKqC.png" group-title="° A1X INT",Dubai Sports 1 UAE
+https://a1xs.vip/6000014
+#EXTINF:0 CUID="467086" tvg-name="ESPN 1 NL" tvg-ID="FoxCricket.au" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="° A1X INT",ESPN 1 NL
+https://a1xs.vip/700001
+#EXTINF:0 CUID="467087" tvg-name="ESPN 2 NL" tvg-ID="FoxLeague.au" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="° A1X INT",ESPN 2 NL
+https://a1xs.vip/700002
+#EXTINF:0 CUID="467088" tvg-name="ESPN Brazil" tvg-ID="FoxSports503.au" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="° A1X INT",ESPN Brazil
+https://a1xs.vip/700003
+#EXTINF:0 CUID="467089" tvg-name="HBO 2 - Eastern Feed SD" tvg-ID="FoxFooty.au" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="° A1X INT",HBO 2 - Eastern Feed SD
+https://a1xs.vip/700004
+#EXTINF:0 CUID="467090" tvg-name="ESPN Extra Argentina" tvg-ID="FoxSports505.au" tvg-logo="https://i.imgur.com/angJkah.png" group-title="° A1X INT",ESPN Extra Argentina
+https://a1xs.vip/700005
+#EXTINF:0 CUID="467091" tvg-name="ESPN Premium Argentina" tvg-ID="FoxSports506.au" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="° A1X INT",ESPN Premium Argentina
+https://a1xs.vip/700006
+#EXTINF:0 CUID="467092" tvg-name="ESPN SUR" tvg-ID="FoxSportsMore.au" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="° A1X INT",ESPN SUR
+https://a1xs.vip/700007
+#EXTINF:0 CUID="467093" tvg-name="HBO Family - Eastern Feed SD" tvg-ID="Optus.Sport.1.au" tvg-logo="https://pixvid.org/images/2025/02/25/Optus_Sport.png" group-title="° A1X INT",HBO Family - Eastern Feed SD
+https://a1xs.vip/700010
+#EXTINF:0 CUID="467094" tvg-name="ESPN2 Brazil" tvg-ID="Optus.Sport.2.au" tvg-logo="https://pixvid.org/images/2025/02/25/Optus_Sport.png" group-title="° A1X INT",ESPN2 Brazil
+https://a1xs.vip/700011
+#EXTINF:0 CUID="467095" tvg-name="ESPN2 SUR" tvg-ID="SKY.Sport.1.nz" tvg-logo="https://i.imgur.com/NRK8Uc6.png" group-title="° A1X INT",ESPN2 SUR
+https://a1xs.vip/700031
+#EXTINF:0 CUID="467096" tvg-name="HBO Zone HD - East HD" tvg-ID="SKY.Sport.2.nz" tvg-logo="https://i.imgur.com/IEDwF39.png" group-title="° A1X INT",HBO Zone HD - East HD
+https://a1xs.vip/700032
+#EXTINF:0 CUID="467097" tvg-name="ESPN3 Brazil" tvg-ID="SKY.Sport.3.nz" tvg-logo="https://i.imgur.com/gTeEX4f.png" group-title="° A1X INT",ESPN3 Brazil
+https://a1xs.vip/700033
+#EXTINF:0 CUID="467098" tvg-name="ESPN4 Brazil" tvg-ID="SKY.Sport.4.nz" tvg-logo="https://i.imgur.com/ogjOWQV.png" group-title="° A1X INT",ESPN4 Brazil
+https://a1xs.vip/700034
+#EXTINF:0 CUID="467099" tvg-name="HGTV USA - Eastern Feed SD" tvg-ID="SKY.Sport.5.nz" tvg-logo="https://i.imgur.com/zIRnRJM.png" group-title="° A1X INT",HGTV USA - Eastern Feed SD
+https://a1xs.vip/700035
+#EXTINF:0 CUID="467100" tvg-name="HLN HD" tvg-ID="SKY.Sport.6.nz" tvg-logo="https://i.imgur.com/o0Icbjt.png" group-title="° A1X INT",HLN HD
+https://a1xs.vip/700036
+#EXTINF:0 CUID="467101" tvg-name="Eleven Sports 1 Poland" tvg-ID="SKY.Sport.7.nz" tvg-logo="https://i.imgur.com/AznJTOJ.png" group-title="° A1X INT",Eleven Sports 1 Poland
+https://a1xs.vip/700037
+#EXTINF:0 CUID="467102" tvg-name="Eleven Sports 1 Portugal" tvg-ID="SKY.Sport.8.nz" tvg-logo="https://i.imgur.com/ZlADOPM.png" group-title="° A1X INT",Eleven Sports 1 Portugal
+https://a1xs.vip/700008
+#EXTINF:0 CUID="467103" tvg-name="Eleven Sports 2 Poland" tvg-ID="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/2PGUHlW.png" group-title="° A1X INT",Eleven Sports 2 Poland
+https://a1xs.vip/8000021
+#EXTINF:0 CUID="467104" tvg-name="Eleven Sports 2 Portugal" tvg-ID="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/mLYkn9p.png" group-title="° A1X INT",Eleven Sports 2 Portugal
+https://a1xs.vip/8000022
+#EXTINF:0 CUID="467105" tvg-name="Eleven Sports 3 Poland" tvg-ID="sportdigital.de" tvg-logo="https://i.imgur.com/8KiZkJF.png" group-title="° A1X INT",Eleven Sports 3 Poland
+https://a1xs.vip/120001
+#EXTINF:0 CUID="467106" tvg-name="Eleven Sports 3 Portugal" tvg-ID="Sky.Sport.Bundesliga.de" tvg-logo="https://i.imgur.com/EhInbSW.png" group-title="° A1X INT",Eleven Sports 3 Portugal
+https://a1xs.vip/120002
+#EXTINF:0 CUID="467107" tvg-name="Eleven Sports 4 Portugal" tvg-ID="Sky.Sport.Top.Event.de" tvg-logo="https://i.imgur.com/0iFbfLa.png" group-title="° A1X INT",Eleven Sports 4 Portugal
+https://a1xs.vip/120003
+#EXTINF:0 CUID="467108" tvg-name="Eleven Sports 5 Portugal" tvg-ID="SuperSport.1.al" tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="° A1X INT",Eleven Sports 5 Portugal
+https://a1xs.vip/130001
+#EXTINF:0 CUID="467109" tvg-name="EuroSport 1 Italy" tvg-ID="SuperSport.2.al" tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="° A1X INT",EuroSport 1 Italy
+https://a1xs.vip/130002
+#EXTINF:0 CUID="467110" tvg-name="EuroSport 1 Poland" tvg-ID="SuperSport.2.al" tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="° A1X INT",EuroSport 1 Poland
+https://a1xs.vip/130003
+#EXTINF:0 CUID="467111" tvg-name="EuroSport 1 Spain" tvg-ID="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="° A1X INT",EuroSport 1 Spain
+https://a1xs.vip/140001
+#EXTINF:0 CUID="467112" tvg-name="EuroSport 1 UK" tvg-ID="Ziggo.Sport.2.nl" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="° A1X INT",EuroSport 1 UK
+https://a1xs.vip/140002
+#EXTINF:0 CUID="467113" tvg-name="EuroSport 2 Italy" tvg-ID="Ziggo.Sport.3.nl" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="° A1X INT",EuroSport 2 Italy
+https://a1xs.vip/140003
+#EXTINF:0 CUID="467114" tvg-name="EuroSport 2 Poland" tvg-ID="Ziggo.Sport.4.nl" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="° A1X INT",EuroSport 2 Poland
+https://a1xs.vip/140004
+#EXTINF:0 CUID="467115" tvg-name="EuroSport 2 Spain" tvg-ID="EPL.za" tvg-logo="https://i.postimg.cc/GtqPXD4q/SSPL.png" group-title="° A1X INT",EuroSport 2 Spain
+https://a1xs.vip/8000001
+#EXTINF:0 CUID="467116" tvg-name="EuroSport 2 UK" tvg-ID="FOOTBALL.za" tvg-logo="https://pixvid.org/images/2025/01/23/SSFB.png" group-title="° A1X INT",EuroSport 2 UK
+https://a1xs.vip/8000004
+#EXTINF:0 CUID="467117" tvg-name="Eurosport 1 France" tvg-ID="LA.LIGA.za" tvg-logo="https://pixvid.org/images/2025/01/23/SSLlg.png" group-title="° A1X INT",Eurosport 1 France
+https://a1xs.vip/8000005
+#EXTINF:0 CUID="467118" tvg-name="Eurosport 2 Bulgaria" tvg-ID="PSL.za" tvg-logo="https://devcdn.24.co.za/files/supersport/202.png" group-title="° A1X INT",Eurosport 2 Bulgaria
+https://a1xs.vip/8000006
+#EXTINF:0 CUID="467119" tvg-name="Eurosport 2 France" tvg-ID="TENNIS.za" tvg-logo="https://pixvid.org/images/2025/01/23/supersport-tennis.png" group-title="° A1X INT",Eurosport 2 France
+https://a1xs.vip/8000007
+#EXTINF:0 CUID="467120" tvg-name="Lifetime Network US - Eastern Feed HD" tvg-ID="GRANDSTAND.za" tvg-logo="https://pixvid.org/images/2025/01/22/SSgrandstand.png" group-title="° A1X INT",Lifetime Network US - Eastern Feed HD
+https://a1xs.vip/8000002
+#EXTINF:0 CUID="467121" tvg-name="Lifetime Network US - Eastern Feed SD" tvg-ID="BLITZ.za" tvg-logo="https://pixvid.org/images/2025/02/02/SSblizt.png" group-title="° A1X INT",Lifetime Network US - Eastern Feed SD
+https://a1xs.vip/8000003
+#EXTINF:0 CUID="467122" tvg-name="MLB Network HD" tvg-ID="MAXIMO.1.za" tvg-logo="https://pixvid.org/images/2025/02/02/241.png" group-title="° A1X INT",MLB Network HD
+https://a1xs.vip/8000008
+#EXTINF:0 CUID="467123" tvg-name="FOX Sports 503 AU" tvg-ID="ACTION.za" tvg-logo="https://pixvid.org/images/2025/02/02/SSAction.png" group-title="° A1X INT",FOX Sports 503 AU
+https://a1xs.vip/8000009
+#EXTINF:0 CUID="467124" tvg-name="FOX Sports 504 AU" tvg-ID="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="° A1X INT",FOX Sports 504 AU
+https://a1xs.vip/8000010
+#EXTINF:0 CUID="467125" tvg-name="FOX Sports 505 AU" tvg-ID="CRICKET.za" tvg-logo="https://pixvid.org/images/2025/02/05/SScricket.png" group-title="° A1X INT",FOX Sports 505 AU
+https://a1xs.vip/8000013
+#EXTINF:0 CUID="467126" tvg-name="FOX Sports 506 AU" tvg-ID="RUGBY.za" tvg-logo="https://pixvid.org/images/2025/02/07/SSrugby.png" group-title="° A1X INT",FOX Sports 506 AU
+https://a1xs.vip/8000014
+#EXTINF:0 CUID="467127" tvg-name="FOX Sports 507 AU" tvg-ID="STAR.SPORTS.SELECT.1.HD.in" tvg-logo="https://i.imgur.com/VFyADIN.png" group-title="° A1X INT",FOX Sports 507 AU
+https://a1xs.vip/8000011
+#EXTINF:0 CUID="467128" tvg-name="MSNBC USA HD" tvg-ID="STAR.SPORTS.SELECT.2.HD.in" tvg-logo="https://i.imgur.com/6u2iOjA.png" group-title="° A1X INT",MSNBC USA HD
+https://a1xs.vip/8000012
+#EXTINF:0 CUID="466926" tvg-name="#Vamos Spain" tvg-ID="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="° A1X PPV",#Vamos Spain
+https://a1xs.vip/ppv1
+#EXTINF:0 CUID="466927" tvg-name="20 Mediaset Italy" tvg-ID="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="° A1X PPV",20 Mediaset Italy
+https://a1xs.vip/ppv2
+#EXTINF:0 CUID="466928" tvg-name="3sat DE" tvg-ID="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="° A1X PPV",3sat DE
+https://a1xs.vip/ppv3
+#EXTINF:0 CUID="466929" tvg-name="5 USA" tvg-ID="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="° A1X PPV",5 USA
+https://a1xs.vip/ppv4
+#EXTINF:0 CUID="466930" tvg-name="6'eren Denmark" tvg-ID="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="° A1X PPV",6'eren Denmark
+https://a1xs.vip/ppv5
+#EXTINF:0 CUID="467302" tvg-name="Premier Sports Ireland 1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/premier-sports-ireland-1.png" group-title="° DDYL UK",Premier Sports Ireland 1
+https://ddy6new.newkso.ru/ddy6/premium771/mono.m3u8
+#EXTINF:0 CUID="467303" tvg-name="Premier Sports Ireland 2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/premier-sports-ireland-2.png" group-title="° DDYL UK",Premier Sports Ireland 2
+https://zekonew.newkso.ru/zeko/premium799/mono.m3u8
+#EXTINF:0 CUID="467313" tvg-name="RTE 1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ert-1.png" group-title="° DDYL UK",RTE 1
+https://zekonew.newkso.ru/zeko/premium364/mono.m3u8
+#EXTINF:0 CUID="467314" tvg-name="RTE 2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rte-2-uk.png" group-title="° DDYL UK",RTE 2
+https://zekonew.newkso.ru/zeko/premium365/mono.m3u8
+#EXTINF:0 CUID="467320" tvg-name="Racing Tv UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/racing-tv-uk.png" group-title="° DDYL UK",Racing Tv UK
+https://zekonew.newkso.ru/zeko/premium555/mono.m3u8
+#EXTINF:0 CUID="467330" tvg-name="S4C UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/s4c-uk.png" group-title="° DDYL UK",S4C UK
+https://dokko1new.newkso.ru/dokko1/premium670/mono.m3u8
+#EXTINF:0 CUID="467350" tvg-name="Sky Arts UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-arts-uk.png" group-title="° DDYL UK",Sky Arts UK
+https://windnew.newkso.ru/wind/premium683/mono.m3u8
+#EXTINF:0 CUID="467351" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-atlantic-uk.png" group-title="° DDYL UK",Sky Atlantic
+https://ddy6new.newkso.ru/ddy6/premium362/mono.m3u8
+#EXTINF:0 CUID="467360" tvg-name="Sky Cinema Action UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-action-uk.png" group-title="° DDYL UK",Sky Cinema Action UK
+https://windnew.newkso.ru/wind/premium677/mono.m3u8
+#EXTINF:0 CUID="467361" tvg-name="Sky Cinema Animation UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-animation-uk.png" group-title="° DDYL UK",Sky Cinema Animation UK
+https://windnew.newkso.ru/wind/premium675/mono.m3u8
+#EXTINF:0 CUID="467364" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-comedy-uk.png" group-title="° DDYL UK",Sky Cinema Comedy UK
+https://windnew.newkso.ru/wind/premium678/mono.m3u8
+#EXTINF:0 CUID="467366" tvg-name="Sky Cinema Drama UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-drama-uk.png" group-title="° DDYL UK",Sky Cinema Drama UK
+https://windnew.newkso.ru/wind/premium680/mono.m3u8
+#EXTINF:0 CUID="467369" tvg-name="Sky Cinema Family UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-family-uk.png" group-title="° DDYL UK",Sky Cinema Family UK
+https://windnew.newkso.ru/wind/premium676/mono.m3u8
+#EXTINF:0 CUID="467370" tvg-name="Sky Cinema Greats UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-greats-uk.png" group-title="° DDYL UK",Sky Cinema Greats UK
+https://windnew.newkso.ru/wind/premium674/mono.m3u8
+#EXTINF:0 CUID="467371" tvg-name="Sky Cinema Hits UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-hits-uk.png" group-title="° DDYL UK",Sky Cinema Hits UK
+https://windnew.newkso.ru/wind/premium673/mono.m3u8
+#EXTINF:0 CUID="467372" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-premiere-uk.png" group-title="° DDYL UK",Sky Cinema Premiere UK
+https://windnew.newkso.ru/wind/premium671/mono.m3u8
+#EXTINF:0 CUID="467374" tvg-name="Sky Cinema Sci-Fi Horror UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-sci-fi-horror-uk.png" group-title="° DDYL UK",Sky Cinema Sci-Fi Horror UK
+https://ddy6new.newkso.ru/ddy6/premium681/mono.m3u8
+#EXTINF:0 CUID="467375" tvg-name="Sky Cinema Select UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-select-uk.png" group-title="° DDYL UK",Sky Cinema Select UK
+https://windnew.newkso.ru/wind/premium672/mono.m3u8
+#EXTINF:0 CUID="467377" tvg-name="Sky Cinema Thriller UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-thriller-uk.png" group-title="° DDYL UK",Sky Cinema Thriller UK
+https://windnew.newkso.ru/wind/premium679/mono.m3u8
+#EXTINF:0 CUID="467380" tvg-name="Sky Comedy UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-comedy-uk.png" group-title="° DDYL UK",Sky Comedy UK
+https://windnew.newkso.ru/wind/premium684/mono.m3u8
+#EXTINF:0 CUID="467381" tvg-name="Sky Crime" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-crime-uk.png" group-title="° DDYL UK",Sky Crime
+https://windnew.newkso.ru/wind/premium685/mono.m3u8
+#EXTINF:0 CUID="467382" tvg-name="Sky History" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-history-uk.png" group-title="° DDYL UK",Sky History
+https://windnew.newkso.ru/wind/premium686/mono.m3u8
+#EXTINF:0 CUID="467384" tvg-name="Sky Showcase UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-showcase-uk.png" group-title="° DDYL UK",Sky Showcase UK
+https://windnew.newkso.ru/wind/premium682/mono.m3u8
+#EXTINF:0 CUID="467407" tvg-name="Sky Sports Action UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-action-uk.png" group-title="° DDYL UK",Sky Sports Action UK
+https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8
+#EXTINF:0 CUID="467408" tvg-name="Sky Sports Arena UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-arena-uk.png" group-title="° DDYL UK",Sky Sports Arena UK
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:0 CUID="467409" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-cricket-uk.png" group-title="° DDYL UK",Sky Sports Cricket
+https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8
+#EXTINF:0 CUID="467411" tvg-name="Sky Sports F1 UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="° DDYL UK",Sky Sports F1 UK
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+#EXTINF:0 CUID="467412" tvg-name="Sky Sports Football UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-football-uk.png" group-title="° DDYL UK",Sky Sports Football UK
+https://zekonew.newkso.ru/zeko/premium35/mono.m3u8
+#EXTINF:0 CUID="467414" tvg-name="Sky Sports Golf UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-golf-uk.png" group-title="° DDYL UK",Sky Sports Golf UK
+https://windnew.newkso.ru/wind/premium70/mono.m3u8
+#EXTINF:0 CUID="467415" tvg-name="Sky Sports MIX UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-mix-uk.png" group-title="° DDYL UK",Sky Sports MIX UK
+https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8
+#EXTINF:0 CUID="467416" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-main-event-uk.png" group-title="° DDYL UK",Sky Sports Main Event
+https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
+#EXTINF:0 CUID="467417" tvg-name="Sky Sports News UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-news-uk.png" group-title="° DDYL UK",Sky Sports News UK
+https://windnew.newkso.ru/wind/premium366/mono.m3u8
+#EXTINF:0 CUID="467418" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-premier-league-uk.png" group-title="° DDYL UK",Sky Sports Premier League
+https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
+#EXTINF:0 CUID="467419" tvg-name="Sky Sports Racing UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-racing-uk.png" group-title="° DDYL UK",Sky Sports Racing UK
+https://windnew.newkso.ru/wind/premium554/mono.m3u8
+#EXTINF:0 CUID="467421" tvg-name="Sky Sports Tennis UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-tennis-uk.png" group-title="° DDYL UK",Sky Sports Tennis UK
+https://windnew.newkso.ru/wind/premium46/mono.m3u8
+#EXTINF:0 CUID="467423" tvg-name="Sky Witness HD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-witness-uk.png" group-title="° DDYL UK",Sky Witness HD
+https://ddy6new.newkso.ru/ddy6/premium361/mono.m3u8
+#EXTINF:0 CUID="467487" tvg-name="TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="° DDYL UK",TNT Sports 1 UK
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+#EXTINF:0 CUID="467488" tvg-name="TNT Sports 2 UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="° DDYL UK",TNT Sports 2 UK
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
+#EXTINF:0 CUID="467489" tvg-name="TNT Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="° DDYL UK",TNT Sports 3 UK
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
+#EXTINF:0 CUID="467490" tvg-name="TNT Sports 4 UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="° DDYL UK",TNT Sports 4 UK
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
+#EXTINF:0 CUID="467554" tvg-name="Viaplay Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-sports-1-uk.png" group-title="° DDYL UK",Viaplay Sports 1 UK
+https://windnew.newkso.ru/wind/premium451/mono.m3u8
+#EXTINF:0 CUID="467555" tvg-name="Viaplay Sports 2 UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-sports-2-uk.png" group-title="° DDYL UK",Viaplay Sports 2 UK
+https://windnew.newkso.ru/wind/premium550/mono.m3u8
+#EXTINF:0 CUID="467556" tvg-name="Viaplay Xtra UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-xtra-uk.png" group-title="° DDYL UK",Viaplay Xtra UK
+https://zekonew.newkso.ru/zeko/premium597/mono.m3u8
 #EXTINF:0 CUID="452878" tvg-name="Hub Premier 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="° IPTV TREE UK",Hub Premier 1
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/305270
 #EXTINF:0 CUID="452879" tvg-name="Hub Premier 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="° IPTV TREE UK",Hub Premier 2
@@ -1409,6 +1787,364 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/198375
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/299192
 #EXTINF:0 CUID="454387" tvg-name="z! comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="° IPTV TREE US",z! comedy
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/302374
+#EXTINF:0 CUID="467049" tvg-name="Cytavision Sports 7 Cyprus" tvg-logo="https://i.imgur.com/cv546ko.png" group-title="° TVPass",Cytavision Sports 7 Cyprus
+https://tvpass.org/live/fanduel-sports-network-west/sd/
+#EXTINF:0 CUID="467050" tvg-name="DAZN 1 Bar DE" tvg-logo="https://i.imgur.com/Ku0ibaF.png" group-title="° TVPass",DAZN 1 Bar DE
+https://tvpass.org/live/fanduel-sports-network-wisconsin/hd/
+#EXTINF:0 CUID="467051" tvg-name="DAZN 1 Spain" tvg-logo="https://i.imgur.com/Ku0ibaF.png" group-title="° TVPass",DAZN 1 Spain
+https://tvpass.org/live/fanduel-sports-network-wisconsin/sd/
+#EXTINF:0 CUID="467052" tvg-name="DAZN 2 Bar DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",DAZN 2 Bar DE
+https://tvpass.org/live/fanduel-sports-network-san-diego/hd/
+#EXTINF:0 CUID="467053" tvg-name="DAZN 2 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",DAZN 2 Spain
+https://tvpass.org/live/fanduel-sports-network-san-diego/sd/
+#EXTINF:0 CUID="467054" tvg-name="DAZN 3 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",DAZN 3 Spain
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd/
+#EXTINF:0 CUID="467055" tvg-name="DAZN 4 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",DAZN 4 Spain
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd/
+#EXTINF:0 CUID="467056" tvg-name="DAZN F1 ES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",DAZN F1 ES
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd/
+#EXTINF:0 CUID="467057" tvg-name="DAZN LaLiga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",DAZN LaLiga
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd/
+#EXTINF:0 CUID="467058" tvg-name="DAZN LaLiga 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",DAZN LaLiga 2
+https://tvpass.org/live/fanduel-sports-southeast-georgia/hd/
+#EXTINF:0 CUID="467059" tvg-name="DR1 Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",DR1 Denmark
+https://tvpass.org/live/fanduel-sports-southeast-georgia/sd/
+#EXTINF:0 CUID="467060" tvg-name="DR2 Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",DR2 Denmark
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd/
+#EXTINF:0 CUID="467061" tvg-name="Dave" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",Dave
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd/
+#EXTINF:0 CUID="467062" tvg-name="Fanduel Sports Southeast South Carolina HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",Fanduel Sports Southeast South Carolina HD
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd/
+#EXTINF:0 CUID="467063" tvg-name="Diema Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",Diema Bulgaria
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd/
+#EXTINF:0 CUID="467064" tvg-name="Diema Family Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",Diema Family Bulgaria
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd/
+#EXTINF:0 CUID="467065" tvg-name="Diema Sport 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",Diema Sport 2 Bulgaria
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd/
+#EXTINF:0 CUID="467066" tvg-name="Diema Sport 3 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",Diema Sport 3 Bulgaria
+https://tvpass.org/live/fanduel-sports-sun/hd/
+#EXTINF:0 CUID="467067" tvg-name="Diema Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",Diema Sport Bulgaria
+https://tvpass.org/live/fanduel-sports-sun/sd/
+#EXTINF:0 CUID="467068" tvg-name="Digi Sport 1 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",Digi Sport 1 Romania
+https://tvpass.org/live/fanduel-sports-tennessee-east/hd/
+#EXTINF:0 CUID="467069" tvg-name="Digi Sport 2 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="° TVPass",Digi Sport 2 Romania
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd/
+#EXTINF:0 CUID="467070" tvg-name="Digi Sport 3 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="° TVPass",Digi Sport 3 Romania
+https://tvpass.org/live/FoxBusiness/hd/
+#EXTINF:0 CUID="467071" tvg-name="Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="° TVPass",Digi Sport 4 Romania
+https://tvpass.org/live/FoxBusiness/sd/
+#EXTINF:0 CUID="467081" tvg-name="Dubai Sports 2 UAE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="° TVPass",Dubai Sports 2 UAE
+https://tvpass.org/live/FuseEast/sd/
+#EXTINF:0 CUID="467082" tvg-name="Dubai Sports 3 UAE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="° TVPass",Dubai Sports 3 UAE
+https://tvpass.org/live/game-show-network-east/hd/
+#EXTINF:0 CUID="467083" tvg-name="GAME SHOW NETWORK East SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="° TVPass",GAME SHOW NETWORK East SD
+https://tvpass.org/live/game-show-network-east/sd/
+#EXTINF:0 CUID="467084" tvg-name="E4 Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="° TVPass",E4 Channel
+https://tvpass.org/live/GolfChannel/hd/
+#EXTINF:0 CUID="467085" tvg-name="ERT 1 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="° TVPass",ERT 1 Greece
+https://tvpass.org/live/GolfChannel/sd/
+#EXTINF:0 CUID="467129" tvg-name="MSNBC USA SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="° TVPass",MSNBC USA SD
+https://tvpass.org/live/MSNBC/sd/
+#EXTINF:0 CUID="467130" tvg-name="MTV 2 East HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="° TVPass",MTV 2 East HD
+https://tvpass.org/live/MTVEast/hd/
+#EXTINF:0 CUID="467131" tvg-name="MTV 2 East SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="° TVPass",MTV 2 East SD
+https://tvpass.org/live/MTVEast/sd/
+#EXTINF:0 CUID="467132" tvg-name="MTV USA - Eastern Feed HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="° TVPass",MTV USA - Eastern Feed HD
+https://tvpass.org/live/mtv-2-east/hd/
+#EXTINF:0 CUID="467133" tvg-name="MTV USA - Eastern Feed SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="° TVPass",MTV USA - Eastern Feed SD
+https://tvpass.org/live/mtv-2-east/sd/
+#EXTINF:0 CUID="467134" tvg-name="Marquee Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" group-title="° TVPass",Marquee Sports Network HD
+https://tvpass.org/live/marquee-sports-network/hd/
+#EXTINF:0 CUID="467135" tvg-name="Marquee Sports Network SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" group-title="° TVPass",Marquee Sports Network SD
+https://tvpass.org/live/marquee-sports-network/sd/
+#EXTINF:0 CUID="467136" tvg-name="MeTV Toons (WJLP2) New Jersey HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="° TVPass",MeTV Toons (WJLP2) New Jersey HD
+https://tvpass.org/live/metv-toons/hd/
+#EXTINF:0 CUID="467137" tvg-name="MeTV Toons (WJLP2) New Jersey SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="° TVPass",MeTV Toons (WJLP2) New Jersey SD
+https://tvpass.org/live/metv-toons/sd/
+#EXTINF:0 CUID="467138" tvg-name="MeTV Wjlp New Jersey New York HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png" group-title="° TVPass",MeTV Wjlp New Jersey New York HD
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd/
+#EXTINF:0 CUID="467139" tvg-name="MeTV Wjlp New Jersey New York SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png" group-title="° TVPass",MeTV Wjlp New Jersey New York SD
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd/
+#EXTINF:0 CUID="467140" tvg-name="Midatlantic Sports Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="° TVPass",Midatlantic Sports Network HD
+https://tvpass.org/live/midatlantic-sports-network/hd/
+#EXTINF:0 CUID="467141" tvg-name="Midatlantic Sports Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="° TVPass",Midatlantic Sports Network SD
+https://tvpass.org/live/midatlantic-sports-network/sd/
+#EXTINF:0 CUID="467142" tvg-name="Monumental Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png" group-title="° TVPass",Monumental Sports Network HD
+https://tvpass.org/live/monumental-sports-network/hd/
+#EXTINF:0 CUID="467143" tvg-name="Monumental Sports Network SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png" group-title="° TVPass",Monumental Sports Network SD
+https://tvpass.org/live/monumental-sports-network/sd/
+#EXTINF:0 CUID="467144" tvg-name="Motor Trend HD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="° TVPass",Motor Trend HD HD
+https://tvpass.org/live/Motortrend/hd/
+#EXTINF:0 CUID="467145" tvg-name="Motor Trend HD SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="° TVPass",Motor Trend HD SD
+https://tvpass.org/live/Motortrend/sd/
+#EXTINF:0 CUID="467146" tvg-name="MovieMax (Max 6) - East HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="° TVPass",MovieMax (Max 6) - East HD
+https://tvpass.org/live/MovieMaxEast/hd/
+#EXTINF:0 CUID="467147" tvg-name="MovieMax (Max 6) - East SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="° TVPass",MovieMax (Max 6) - East SD
+https://tvpass.org/live/MovieMaxEast/sd/
+#EXTINF:0 CUID="467148" tvg-name="Fashion TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="° TVPass",Fashion TV
+https://tvpass.org/live/NBATV/hd/
+#EXTINF:0 CUID="467149" tvg-name="NBA TV USA SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="° TVPass",NBA TV USA SD
+https://tvpass.org/live/NBATV/sd/
+#EXTINF:0 CUID="467150" tvg-name="Film4 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="° TVPass",Film4 UK
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd/
+#EXTINF:0 CUID="467151" tvg-name="FilmBox Premium Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="° TVPass",FilmBox Premium Poland
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd/
+#EXTINF:0 CUID="467152" tvg-name="NBC (WNBC) New York, NY HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="° TVPass",NBC (WNBC) New York, NY HD
+https://tvpass.org/live/WNBCDT1/hd/
+#EXTINF:0 CUID="467153" tvg-name="Fox Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="° TVPass",Fox Cricket
+https://tvpass.org/live/WNBCDT1/sd/
+#EXTINF:0 CUID="467154" tvg-name="NBC Sports Bay Area HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="° TVPass",NBC Sports Bay Area HD
+https://tvpass.org/live/nbc-sports-bay-area/hd/
+#EXTINF:0 CUID="467155" tvg-name="NBC Sports Bay Area SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="° TVPass",NBC Sports Bay Area SD
+https://tvpass.org/live/nbc-sports-bay-area/sd/
+#EXTINF:0 CUID="467156" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="° TVPass",Fox Sports 2 Argentina
+https://tvpass.org/live/nbc-sports-boston/hd/
+#EXTINF:0 CUID="467157" tvg-name="NBC Sports Boston SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="° TVPass",NBC Sports Boston SD
+https://tvpass.org/live/nbc-sports-boston/sd/
+#EXTINF:0 CUID="467158" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="° TVPass",Fox Sports 3 Argentina
+https://tvpass.org/live/nbc-sports-california/hd/
+#EXTINF:0 CUID="467159" tvg-name="Fox Sports Argentina" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="° TVPass",Fox Sports Argentina
+https://tvpass.org/live/nbc-sports-california/sd/
+#EXTINF:0 CUID="467160" tvg-name="Fox Sports Premium MX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="° TVPass",Fox Sports Premium MX
+https://tvpass.org/live/nbc-sports-philadelphia/hd/
+#EXTINF:0 CUID="467161" tvg-name="NBC Sports Philadelphia SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="° TVPass",NBC Sports Philadelphia SD
+https://tvpass.org/live/nbc-sports-philadelphia/sd/
+#EXTINF:0 CUID="467162" tvg-name="NFL Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="° TVPass",NFL Network HD
+https://tvpass.org/live/NFLNetwork/hd/
+#EXTINF:0 CUID="467163" tvg-name="GOL PLAY Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="° TVPass",GOL PLAY Spain
+https://tvpass.org/live/NFLNetwork/sd/
+#EXTINF:0 CUID="467164" tvg-name="NFL RedZone HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="° TVPass",NFL RedZone HD
+https://tvpass.org/live/NFLRedZone/hd/
+#EXTINF:0 CUID="467165" tvg-name="NFL RedZone SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="° TVPass",NFL RedZone SD
+https://tvpass.org/live/NFLRedZone/sd/
+#EXTINF:0 CUID="467166" tvg-name="NHL Network USA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="° TVPass",NHL Network USA HD
+https://tvpass.org/live/NHLNetwork/hd/
+#EXTINF:0 CUID="467167" tvg-name="NHL Network USA SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="° TVPass",NHL Network USA SD
+https://tvpass.org/live/NHLNetwork/sd/
+#EXTINF:0 CUID="467168" tvg-name="Global CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="° TVPass",Global CA
+https://tvpass.org/live/NickJrEast/hd/
+#EXTINF:0 CUID="467169" tvg-name="Globo RIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="° TVPass",Globo RIO
+https://tvpass.org/live/NickJrEast/sd/
+#EXTINF:0 CUID="467170" tvg-name="Globo SP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="° TVPass",Globo SP
+https://tvpass.org/live/NationalGeographicEast/hd/
+#EXTINF:0 CUID="467171" tvg-name="Gold UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="° TVPass",Gold UK
+https://tvpass.org/live/NationalGeographicEast/sd/
+#EXTINF:0 CUID="467172" tvg-name="National Geographic Wild HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="° TVPass",National Geographic Wild HD
+https://tvpass.org/live/NationalGeographicWildEast/hd/
+#EXTINF:0 CUID="467173" tvg-name="National Geographic Wild SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="° TVPass",National Geographic Wild SD
+https://tvpass.org/live/NationalGeographicWildEast/sd/
+#EXTINF:0 CUID="467174" tvg-name="New England Sports Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png" group-title="° TVPass",New England Sports Network HD
+https://tvpass.org/live/new-england-sports-network/hd/
+#EXTINF:0 CUID="467175" tvg-name="New England Sports Network SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png" group-title="° TVPass",New England Sports Network SD
+https://tvpass.org/live/new-england-sports-network/sd/
+#EXTINF:0 CUID="467176" tvg-name="Newsmax TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" group-title="° TVPass",Newsmax TV HD
+https://tvpass.org/live/NewsmaxTV/hd/
+#EXTINF:0 CUID="467177" tvg-name="HBO Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" group-title="° TVPass",HBO Poland
+https://tvpass.org/live/NewsmaxTV/sd/
+#EXTINF:0 CUID="467178" tvg-name="Nickelodeon USA - East Feed HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="° TVPass",Nickelodeon USA - East Feed HD
+https://tvpass.org/live/NickelodeonEast/hd/
+#EXTINF:0 CUID="467179" tvg-name="Nickelodeon USA - East Feed SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="° TVPass",Nickelodeon USA - East Feed SD
+https://tvpass.org/live/NickelodeonEast/sd/
+#EXTINF:0 CUID="467180" tvg-name="Nicktoons - East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="° TVPass",Nicktoons - East HD
+https://tvpass.org/live/NicktoonsEast/hd/
+#EXTINF:0 CUID="467181" tvg-name="Nicktoons - East SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="° TVPass",Nicktoons - East SD
+https://tvpass.org/live/NicktoonsEast/sd/
+#EXTINF:0 CUID="467182" tvg-name="Oprah Winfrey Network USA Eastern HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="° TVPass",Oprah Winfrey Network USA Eastern HD
+https://tvpass.org/live/OWNEast/hd/
+#EXTINF:0 CUID="467183" tvg-name="HOT3 Israel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="° TVPass",HOT3 Israel
+https://tvpass.org/live/OWNEast/sd/
+#EXTINF:0 CUID="467184" tvg-name="HR Fernsehen DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="° TVPass",HR Fernsehen DE
+https://tvpass.org/live/OutdoorChannel/hd/
+#EXTINF:0 CUID="467185" tvg-name="Outdoor Channel US SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="° TVPass",Outdoor Channel US SD
+https://tvpass.org/live/OutdoorChannel/sd/
+#EXTINF:0 CUID="467186" tvg-name="Oxygen - Eastern Feed HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="° TVPass",Oxygen - Eastern Feed HD
+https://tvpass.org/live/OxygenEast/hd/
+#EXTINF:0 CUID="467187" tvg-name="Oxygen - Eastern Feed SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="° TVPass",Oxygen - Eastern Feed SD
+https://tvpass.org/live/OxygenEast/sd/
+#EXTINF:0 CUID="467188" tvg-name="PBS (WNET) New York, NY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="° TVPass",PBS (WNET) New York, NY HD
+https://tvpass.org/live/WNET/hd/
+#EXTINF:0 CUID="467189" tvg-name="PBS (WNET) New York, NY SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="° TVPass",PBS (WNET) New York, NY SD
+https://tvpass.org/live/WNET/sd/
+#EXTINF:0 CUID="467190" tvg-name="ITV 1 UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="° TVPass",ITV 1 UK
+https://tvpass.org/live/Reelz/hd/
+#EXTINF:0 CUID="467191" tvg-name="ITV 2 UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="° TVPass",ITV 2 UK
+https://tvpass.org/live/Reelz/sd/
+#EXTINF:0 CUID="467192" tvg-name="ITV 3 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="° TVPass",ITV 3 UK
+https://tvpass.org/live/SECN/hd/
+#EXTINF:0 CUID="467193" tvg-name="ITV 4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="° TVPass",ITV 4 UK
+https://tvpass.org/live/SECN/sd/
+#EXTINF:0 CUID="467194" tvg-name="SNY Sportsnet New York Comcast HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="° TVPass",SNY Sportsnet New York Comcast HD
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd/
+#EXTINF:0 CUID="467195" tvg-name="Italia 1 Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="° TVPass",Italia 1 Italy
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd/
+#EXTINF:0 CUID="467196" tvg-name="Kanal 4 Denmark" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="° TVPass",Kanal 4 Denmark
+https://tvpass.org/live/SyfyEast/hd/
+#EXTINF:0 CUID="467197" tvg-name="Kanal 5 Denmark" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="° TVPass",Kanal 5 Denmark
+https://tvpass.org/live/SyfyEast/sd/
+#EXTINF:0 CUID="467198" tvg-name="LALIGA TV Hypermotion" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="° TVPass",LALIGA TV Hypermotion
+https://tvpass.org/live/ShowtimeEast/hd/
+#EXTINF:0 CUID="467199" tvg-name="La Sexta Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="° TVPass",La Sexta Spain
+https://tvpass.org/live/ShowtimeEast/sd/
+#EXTINF:0 CUID="467200" tvg-name="La7 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="° TVPass",La7 Italy
+https://tvpass.org/live/Showtime2East/hd/
+#EXTINF:0 CUID="467201" tvg-name="LaLiga SmartBank TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="° TVPass",LaLiga SmartBank TV
+https://tvpass.org/live/Showtime2East/sd/
+#EXTINF:0 CUID="467202" tvg-name="LaLigaTV UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" group-title="° TVPass",LaLigaTV UK
+https://tvpass.org/live/space-city-home-network/hd/
+#EXTINF:0 CUID="467203" tvg-name="Space City Home Network SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" group-title="° TVPass",Space City Home Network SD
+https://tvpass.org/live/space-city-home-network/sd/
+#EXTINF:0 CUID="467204" tvg-name="Spectrum Sportsnet HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="° TVPass",Spectrum Sportsnet HD
+https://tvpass.org/live/spectrum-sportsnet/hd/
+#EXTINF:0 CUID="467205" tvg-name="Spectrum Sportsnet LA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png" group-title="° TVPass",Spectrum Sportsnet LA HD
+https://tvpass.org/live/spectrum-sportsnet-la/hd/
+#EXTINF:0 CUID="467206" tvg-name="Liverpool TV (LFC TV)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png" group-title="° TVPass",Liverpool TV (LFC TV)
+https://tvpass.org/live/spectrum-sportsnet-la/sd/
+#EXTINF:0 CUID="467207" tvg-name="M6 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="° TVPass",M6 France
+https://tvpass.org/live/spectrum-sportsnet/sd/
+#EXTINF:0 CUID="467208" tvg-name="SportsNet Pittsburgh HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png" group-title="° TVPass",SportsNet Pittsburgh HD
+https://tvpass.org/live/sportsnet-pittsburgh/hd/
+#EXTINF:0 CUID="467209" tvg-name="SportsNet Pittsburgh SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png" group-title="° TVPass",SportsNet Pittsburgh SD
+https://tvpass.org/live/sportsnet-pittsburgh/sd/
+#EXTINF:0 CUID="467210" tvg-name="MDR DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="° TVPass",MDR DE
+https://tvpass.org/live/sportsnet-east/hd/
+#EXTINF:0 CUID="467211" tvg-name="Sportsnet (East) SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="° TVPass",Sportsnet (East) SD
+https://tvpass.org/live/sportsnet-east/sd/
+#EXTINF:0 CUID="467212" tvg-name="Sportsnet 360 HD" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="° TVPass",Sportsnet 360 HD
+https://tvpass.org/live/sportsnet-360/hd/
+#EXTINF:0 CUID="467213" tvg-name="Sportsnet 360 SD" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="° TVPass",Sportsnet 360 SD
+https://tvpass.org/live/sportsnet-360/sd/
+#EXTINF:0 CUID="467214" tvg-name="Sportsnet One HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" group-title="° TVPass",Sportsnet One HD
+https://tvpass.org/live/sportsnet-one/hd/
+#EXTINF:0 CUID="467215" tvg-name="Sportsnet One SD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" group-title="° TVPass",Sportsnet One SD
+https://tvpass.org/live/sportsnet-one/sd/
+#EXTINF:0 CUID="467216" tvg-name="MTV Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="° TVPass",MTV Denmark
+https://tvpass.org/live/sportsnet-ontario/hd/
+#EXTINF:0 CUID="467217" tvg-name="MTV UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="° TVPass",MTV UK
+https://tvpass.org/live/sportsnet-ontario/sd/
+#EXTINF:0 CUID="467218" tvg-name="Sportsnet Pacific HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="° TVPass",Sportsnet Pacific HD
+https://tvpass.org/live/sportsnet-pacific/hd/
+#EXTINF:0 CUID="467219" tvg-name="MUTV UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="° TVPass",MUTV UK
+https://tvpass.org/live/sportsnet-pacific/sd/
+#EXTINF:0 CUID="467220" tvg-name="Sportsnet West HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="° TVPass",Sportsnet West HD
+https://tvpass.org/live/sportsnet-west/hd/
+#EXTINF:0 CUID="467221" tvg-name="Sportsnet West SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="° TVPass",Sportsnet West SD
+https://tvpass.org/live/sportsnet-west/sd/
+#EXTINF:0 CUID="467222" tvg-name="Starz - Eastern HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="° TVPass",Starz - Eastern HD
+https://tvpass.org/live/StarzEast/hd/
+#EXTINF:0 CUID="467223" tvg-name="Match Boets Russia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="° TVPass",Match Boets Russia
+https://tvpass.org/live/StarzEast/sd/
+#EXTINF:0 CUID="467224" tvg-name="Match Football 1 Russia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="° TVPass",Match Football 1 Russia
+https://tvpass.org/live/SundanceTVEast/hd/
+#EXTINF:0 CUID="467225" tvg-name="Match Football 2 Russia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="° TVPass",Match Football 2 Russia
+https://tvpass.org/live/SundanceTVEast/sd/
+#EXTINF:0 CUID="467226" tvg-name="Match Football 3 Russia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="° TVPass",Match Football 3 Russia
+https://tvpass.org/live/TBSEast/hd/
+#EXTINF:0 CUID="467227" tvg-name="Match Premier Russia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="° TVPass",Match Premier Russia
+https://tvpass.org/live/TBSEast/sd/
+#EXTINF:0 CUID="467228" tvg-name="Match TV Russia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="° TVPass",Match TV Russia
+https://tvpass.org/live/TLCEast/hd/
+#EXTINF:0 CUID="467229" tvg-name="Max Sport 1 Bulgaria" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="° TVPass",Max Sport 1 Bulgaria
+https://tvpass.org/live/TLCEast/sd/
+#EXTINF:0 CUID="467230" tvg-name="Max Sport 1 Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="° TVPass",Max Sport 1 Croatia
+https://tvpass.org/live/TheMovieChannelEast/hd/
+#EXTINF:0 CUID="467231" tvg-name="Max Sport 2 Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="° TVPass",Max Sport 2 Bulgaria
+https://tvpass.org/live/TheMovieChannelEast/sd/
+#EXTINF:0 CUID="467232" tvg-name="Max Sport 2 Croatia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="° TVPass",Max Sport 2 Croatia
+https://tvpass.org/live/TNTEast/hd/
+#EXTINF:0 CUID="467233" tvg-name="Max Sport 3 Bulgaria" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="° TVPass",Max Sport 3 Bulgaria
+https://tvpass.org/live/TNTEast/sd/
+#EXTINF:0 CUID="467234" tvg-name="Max Sport 4 Bulgaria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="° TVPass",Max Sport 4 Bulgaria
+https://tvpass.org/live/tsn1/hd/
+#EXTINF:0 CUID="467235" tvg-name="TSN 1 SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="° TVPass",TSN 1 SD
+https://tvpass.org/live/tsn1/sd/
+#EXTINF:0 CUID="467236" tvg-name="Motowizja Poland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="° TVPass",Motowizja Poland
+https://tvpass.org/live/tsn2/hd/
+#EXTINF:0 CUID="467237" tvg-name="Movistar Deportes 2 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="° TVPass",Movistar Deportes 2 Spain
+https://tvpass.org/live/tsn2/sd/
+#EXTINF:0 CUID="467238" tvg-name="Movistar Deportes 3 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="° TVPass",Movistar Deportes 3 Spain
+https://tvpass.org/live/tsn3/hd/
+#EXTINF:0 CUID="467239" tvg-name="Movistar Deportes 4 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="° TVPass",Movistar Deportes 4 Spain
+https://tvpass.org/live/tsn3/sd/
+#EXTINF:0 CUID="467240" tvg-name="Movistar Deportes Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="° TVPass",Movistar Deportes Spain
+https://tvpass.org/live/tsn4/hd/
+#EXTINF:0 CUID="467241" tvg-name="Movistar Golf Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="° TVPass",Movistar Golf Spain
+https://tvpass.org/live/tsn4/sd/
+#EXTINF:0 CUID="467242" tvg-name="Movistar Laliga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="° TVPass",Movistar Laliga
+https://tvpass.org/live/tsn5/hd/
+#EXTINF:0 CUID="467243" tvg-name="Movistar Liga de Campeones" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="° TVPass",Movistar Liga de Campeones
+https://tvpass.org/live/tsn5/sd/
+#EXTINF:0 CUID="467244" tvg-name="Movistar Plus+ (#0 Spain)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png" group-title="° TVPass",Movistar Plus+ (#0 Spain)
+https://tvpass.org/live/tv-land-eastern/hd/
+#EXTINF:0 CUID="467245" tvg-name="Movistar Supercopa de Espa�a" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png" group-title="° TVPass",Movistar Supercopa de Espa�a
+https://tvpass.org/live/tv-land-eastern/sd/
+#EXTINF:0 CUID="467246" tvg-name="Mundotoro TV Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="° TVPass",Mundotoro TV Spain
+https://tvpass.org/live/TVOne/hd/
+#EXTINF:0 CUID="467247" tvg-name="TV ONE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="° TVPass",TV ONE SD
+https://tvpass.org/live/TVOne/sd/
+#EXTINF:0 CUID="467248" tvg-name="TeenNick - Eastern HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="° TVPass",TeenNick - Eastern HD
+https://tvpass.org/live/TeenNickEast/hd/
+#EXTINF:0 CUID="467249" tvg-name="TeenNick - Eastern SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="° TVPass",TeenNick - Eastern SD
+https://tvpass.org/live/TeenNickEast/sd/
+#EXTINF:0 CUID="467250" tvg-name="Telemundo - Eastern Feed HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="° TVPass",Telemundo - Eastern Feed HD
+https://tvpass.org/live/TelemundoEast/hd/
+#EXTINF:0 CUID="467251" tvg-name="Telemundo - Eastern Feed SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="° TVPass",Telemundo - Eastern Feed SD
+https://tvpass.org/live/TelemundoEast/sd/
+#EXTINF:0 CUID="467252" tvg-name="The Cooking Channel HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="° TVPass",The Cooking Channel HD
+https://tvpass.org/live/CookingChannel/hd/
+#EXTINF:0 CUID="467253" tvg-name="The Cooking Channel SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="° TVPass",The Cooking Channel SD
+https://tvpass.org/live/CookingChannel/sd/
+#EXTINF:0 CUID="467254" tvg-name="The Tennis Channel HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="° TVPass",The Tennis Channel HD
+https://tvpass.org/live/TennisChannel/hd/
+#EXTINF:0 CUID="467255" tvg-name="The Tennis Channel SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="° TVPass",The Tennis Channel SD
+https://tvpass.org/live/TennisChannel/sd/
+#EXTINF:0 CUID="467256" tvg-name="NDR DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="° TVPass",NDR DE
+https://tvpass.org/live/TheWeatherChannel/hd/
+#EXTINF:0 CUID="467257" tvg-name="The Weather Channel SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="° TVPass",The Weather Channel SD
+https://tvpass.org/live/TheWeatherChannel/sd/
+#EXTINF:0 CUID="467258" tvg-name="Travel Channel US - East HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="° TVPass",Travel Channel US - East HD
+https://tvpass.org/live/TravelChannelEast/hd/
+#EXTINF:0 CUID="467259" tvg-name="Travel Channel US - East SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="° TVPass",Travel Channel US - East SD
+https://tvpass.org/live/TravelChannelEast/sd/
+#EXTINF:0 CUID="467260" tvg-name="Turner Classic Movies USA HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="° TVPass",Turner Classic Movies USA HD
+https://tvpass.org/live/TCMEast/hd/
+#EXTINF:0 CUID="467261" tvg-name="Turner Classic Movies USA SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="° TVPass",Turner Classic Movies USA SD
+https://tvpass.org/live/TCMEast/sd/
+#EXTINF:0 CUID="467262" tvg-name="USA Network - East Feed HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="° TVPass",USA Network - East Feed HD
+https://tvpass.org/live/USANetworkEast/hd/
+#EXTINF:0 CUID="467263" tvg-name="USA Network - East Feed SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="° TVPass",USA Network - East Feed SD
+https://tvpass.org/live/USANetworkEast/sd/
+#EXTINF:0 CUID="467264" tvg-name="Universal Kids HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png" group-title="° TVPass",Universal Kids HD
+https://tvpass.org/live/UniversalKidsEast/hd/
+#EXTINF:0 CUID="467265" tvg-name="Universal Kids SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png" group-title="° TVPass",Universal Kids SD
+https://tvpass.org/live/UniversalKidsEast/sd/
+#EXTINF:0 CUID="467266" tvg-name="Univision - Eastern Feed HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" group-title="° TVPass",Univision - Eastern Feed HD
+https://tvpass.org/live/UnivisionEast/hd/
+#EXTINF:0 CUID="467267" tvg-name="Univision - Eastern Feed SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" group-title="° TVPass",Univision - Eastern Feed SD
+https://tvpass.org/live/UnivisionEast/sd/
+#EXTINF:0 CUID="467268" tvg-name="Noovo CA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="° TVPass",Noovo CA
+https://tvpass.org/live/VH1East/hd/
+#EXTINF:0 CUID="467269" tvg-name="Nova Sport Bulgaria" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="° TVPass",Nova Sport Bulgaria
+https://tvpass.org/live/VH1East/sd/
+#EXTINF:0 CUID="467270" tvg-name="Nova Sport Serbia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="° TVPass",Nova Sport Serbia
+https://tvpass.org/live/VICETV/hd/
+#EXTINF:0 CUID="467271" tvg-name="Nova Sports 1 Greece" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="° TVPass",Nova Sports 1 Greece
+https://tvpass.org/live/VICETV/sd/
+#EXTINF:0 CUID="467272" tvg-name="Nova Sports 2 Greece" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="° TVPass",Nova Sports 2 Greece
+https://tvpass.org/live/WeTVEast/hd/
+#EXTINF:0 CUID="467273" tvg-name="Nova Sports 3 Greece" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="° TVPass",Nova Sports 3 Greece
+https://tvpass.org/live/WeTVEast/sd/
+#EXTINF:0 CUID="467274" tvg-name="Nova Sports 4 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cw/cw-11-wpix-us.png" group-title="° TVPass",Nova Sports 4 Greece
+https://tvpass.org/live/WPIX/hd/
+#EXTINF:0 CUID="467275" tvg-name="Nova Sports 5 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cw/cw-11-wpix-us.png" group-title="° TVPass",Nova Sports 5 Greece
+https://tvpass.org/live/WPIX/sd/
+#EXTINF:0 CUID="467276" tvg-name="Nova Sports 6 Greece" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="° TVPass",Nova Sports 6 Greece
+https://tvpass.org/live/yes-network/hd/
+#EXTINF:0 CUID="467277" tvg-name="Nova Sports News Greece" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="° TVPass",Nova Sports News Greece
+https://tvpass.org/live/yes-network/sd/
+#EXTINF:0 CUID="467278" tvg-name="Nova Sports Premier League Greece" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="° TVPass",Nova Sports Premier League Greece
+https://tvpass.org/live/truTVEast/hd/
+#EXTINF:0 CUID="467279" tvg-name="Nova Sports Prime Greece" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="° TVPass",Nova Sports Prime Greece
+https://tvpass.org/live/truTVEast/sd/
 #EXTINF:0 CUID="457680" tvg-name="Top Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="° SamsungTVPlus UK",Top Movies - Rakuten TV
 https://jmp2.uk/sam-GB2600018PD.m3u8
 #EXTINF:0 CUID="457694" tvg-name="Trace UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20250107T030813SQUARE.png" group-title="° SamsungTVPlus UK",Trace UK
@@ -1417,6 +2153,64 @@ https://jmp2.uk/sam-GBBD19000026B.m3u8
 https://jmp2.uk/sam-USBC2400027NG.m3u8
 #EXTINF:0 CUID="457688" tvg-name="Torque" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20250325T015326SQUARE.png" group-title="° SamsungTVPlus US",Torque
 https://jmp2.uk/sam-USBB5200027Z5.m3u8
+#EXTINF:0 CUID="466931" tvg-name="A Sport PK" tvg-ID="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K",A Sport PK
+https://a1xs.vip/2000015
+#EXTINF:0 CUID="466932" tvg-name="ACC NETWORK HD" tvg-ID="SkySp.F1.uk" tvg-logo="https://i.ibb.co/swp9ncv/Sky-f1-uhd.png" group-title="UHD | 4K",ACC NETWORK HD
+https://a1xs.vip/2000016
+#EXTINF:0 CUID="466933" tvg-name="ACC NETWORK SD" tvg-ID="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UHD | 4K",ACC NETWORK SD
+https://a1xs.vip/2000031
+#EXTINF:0 CUID="466934" tvg-name="AMC - Eastern Feed HD" tvg-ID="Astro.Sports.UHD.my" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png group-title=" group-title="UHD | 4K",AMC - Eastern Feed HD
+https://a1xs.vip/9000001
+#EXTINF:0 CUID="466935" tvg-name="AMC - Eastern Feed SD" tvg-ID="Now.Sports.4K.1.hk" tvg-logo="https://i.imgur.com/mj9zJUc.png" group-title="UHD | 4K",AMC - Eastern Feed SD
+https://a1xs.vip/9000011
+#EXTINF:0 CUID="466936" tvg-name="Altitude Sports Denver HD" tvg-ID="Hub.Premier.2.sg" tvg-logo="https://pixvid.org/images/2025/01/21/Hub-Premier-2-UHD.png" group-title="UHD | 4K",Altitude Sports Denver HD
+https://a1xs.vip/9000012
+#EXTINF:0 CUID="466937" tvg-name="AXN Movies Portugal" tvg-ID="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/Q2qDLpV.png" group-title="UHD | 4K",AXN Movies Portugal
+https://a1xs.vip/9000013
+#EXTINF:0 CUID="466938" tvg-name="American Heroes Channel HD" tvg-ID="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="UHD | 4K",American Heroes Channel HD
+https://a1xs.vip/4000080
+#EXTINF:0 CUID="466939" tvg-name="Abu Dhabi Sports 1 Premium" tvg-ID="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="UHD | 4K",Abu Dhabi Sports 1 Premium
+https://a1xs.vip/14001
+#EXTINF:0 CUID="466940" tvg-name="Abu Dhabi Sports 1 UAE" tvg-ID="DE:.Fashion.TV.de" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="UHD | 4K",Abu Dhabi Sports 1 UAE
+https://a1xs.vip/ftv4kuhd
+#EXTINF:0 CUID="466941" tvg-name="Abu Dhabi Sports 2 Premium" tvg-ID="Bloomberg.TV.USA.us" tvg-logo="https://i.ibb.co/L61zPzP/Bloomberg-tv.png" group-title="UHD | 4K",Abu Dhabi Sports 2 Premium
+https://a1xs.vip/blombuhd
+#EXTINF:0 CUID="466942" tvg-name="Abu Dhabi Sports 2 UAE" tvg-ID="Love.Nature.ca" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="UHD | 4K",Abu Dhabi Sports 2 UAE
+https://a1xs.vip/lovent4k
+#EXTINF:0 CUID="466943" tvg-name="BBC AMERICA - East SD" tvg-ID="travelxp.4K.de" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="UHD | 4K",BBC AMERICA - East SD
+https://a1xs.vip/travelxpuhd
+#EXTINF:0 CUID="466944" tvg-name="Alkass Four" tvg-ID="HOME.4K.pl" tvg-logo="https://i.ibb.co/kg6GPds2/Home4k.webp" group-title="UHD | 4K",Alkass Four
+https://a1xs.vip/home4k
+#EXTINF:0 CUID="466945" tvg-name="Alkass One" tvg-ID="Museum.4k.ro" tvg-logo="https://i.imgur.com/a55LkwU.png" group-title="UHD | 4K",Alkass One
+https://a1xs.vip/msem4k
+#EXTINF:0 CUID="466946" tvg-name="Alkass Three" tvg-ID="Loupe4k" tvg-logo="https://i.ibb.co/RP5Kv3k/loupe.png" group-title="UHD | 4K",Alkass Three
+https://a1xs.vip/loupe4k
+#EXTINF:0 CUID="466947" tvg-name="Alkass Two" tvg-ID="MyZen.4K.ro" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="UHD | 4K",Alkass Two
+https://a1xs.vip/myzen4k
+#EXTINF:0 CUID="466948" tvg-name="BET HER HD" tvg-ID="IRIBUHD" tvg-logo="https://i.postimg.cc/3w9YtJKn/IRIB-UHD.png" group-title="UHD | 4K",BET HER HD
+https://a1xs.vip/iribuhd
+#EXTINF:0 CUID="466949" tvg-name="BET HER SD" tvg-ID="Now.Sports.Premier.League.1.hk" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="EPL",BET HER SD
+https://a1xs.vip/1100001
+#EXTINF:0 CUID="466950" tvg-name="Antena 3 Spain" tvg-ID="Now.Sports.Premier.League.2.hk" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="EPL",Antena 3 Spain
+https://a1xs.vip/1100002
+#EXTINF:0 CUID="466951" tvg-name="Arena Sport 1 BiH" tvg-ID="Astro.Premier.League.my" tvg-logo="https://pixvid.org/images/2025/01/23/Astro_PL.webp" group-title="EPL",Arena Sport 1 BiH
+https://a1xs.vip/1100030
+#EXTINF:0 CUID="466952" tvg-name="Arena Sport 1 Croatia" tvg-ID="Astro.Premier.League.2.my" tvg-logo="https://pixvid.org/images/2025/02/18/Astro_Premier_League_2.webp" group-title="EPL",Arena Sport 1 Croatia
+https://a1xs.vip/1100031
+#EXTINF:0 CUID="466953" tvg-name="Arena Sport 1 Premium" tvg-ID="SKY.Sport.8.nz" tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp" group-title="EPL",Arena Sport 1 Premium
+https://a1xs.vip/700008
+#EXTINF:0 CUID="466954" tvg-name="Arena Sport 1 Serbia" tvg-ID="SKY.Sport.8.nz" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_League.png" group-title="EPL",Arena Sport 1 Serbia
+https://a1xs.vip/1100021
+#EXTINF:0 CUID="466955" tvg-name="Arena Sport 2 Croatia" tvg-ID="USA.Network.-.East.Feed.us" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="EPL",Arena Sport 2 Croatia
+https://a1xs.vip/1100020
+#EXTINF:0 CUID="466956" tvg-name="Arena Sport 2 Premium" tvg-ID="Hub.Premier.1.sg" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="EPL",Arena Sport 2 Premium
+https://a1xs.vip/1100041
+#EXTINF:0 CUID="466957" tvg-name="Arena Sport 2 Serbia" tvg-ID="Hub.Premier.2.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="EPL",Arena Sport 2 Serbia
+https://a1xs.vip/1100042
+#EXTINF:0 CUID="466958" tvg-name="Arena Sport 3 Croatia" tvg-ID="Hub.Premier.3.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="EPL",Arena Sport 3 Croatia
+https://a1xs.vip/1100043
+#EXTINF:0 CUID="466959" tvg-name="Arena Sport 3 Premium" tvg-ID="Hub.Premier.4.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="EPL",Arena Sport 3 Premium
+https://a1xs.vip/1100044
 #EXTINF:0 CUID="455953" tvg-name="¡Hola! Play" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dc5dcc0dc734c63ab0460eaa9d177467.png" group-title="IPTV TREE others",¡Hola! Play
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/18183
 #EXTINF:0 CUID="455954" tvg-name="¿Qué Culpa Tiene Fatmagül?" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/760e1366daa96ee520d6d9c64781a7af.jpeg" group-title="IPTV TREE others",¿Qué Culpa Tiene Fatmagül?
