@@ -419,6 +419,8 @@ https://windnew.newkso.ru/wind/premium41/mono.m3u8
 https://windnew.newkso.ru/wind/premium42/mono.m3u8
 #EXTINF:0 CUID="480119" tvg-name="Sky Crime" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-crime-uk.png" group-title="° DDYL UK",Sky Crime
 https://windnew.newkso.ru/wind/premium685/mono.m3u8
+#EXTINF:0 CUID="481626" tvg-name="Sky Cinema Action UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-action-uk.png" group-title="° DDYL UK",Sky Cinema Action UK
+https://windnew.newkso.ru/wind/premium677/mono.m3u8
 #EXTINF:0 CUID="452878" tvg-name="Hub Premier 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="° IPTV TREE UK",Hub Premier 1
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/305270
 #EXTINF:0 CUID="452879" tvg-name="Hub Premier 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="° IPTV TREE UK",Hub Premier 2
