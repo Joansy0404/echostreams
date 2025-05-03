@@ -377,6 +377,32 @@ https://windnew.newkso.ru/wind/premium451/mono.m3u8
 https://windnew.newkso.ru/wind/premium550/mono.m3u8
 #EXTINF:0 CUID="486469" tvg-name="Focus TV" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-xtra-uk.png" group-title="° DDYL UK",Focus TV
 https://zekonew.newkso.ru/zeko/premium597/mono.m3u8
+#EXTINF:0 CUID="494105" tvg-name="BBC Drama" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dave.png" group-title="° DDYL UK",BBC Drama
+https://dokko1new.newkso.ru/dokko1/premium348/mono.m3u8
+#EXTINF:0 CUID="494128" tvg-name="beIN Sports XTRA ñ" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/e4-channel.png" group-title="° DDYL UK",beIN Sports XTRA ñ
+https://ddy6new.newkso.ru/ddy6/premium363/mono.m3u8
+#EXTINF:0 CUID="494178" tvg-name="Brefcinema" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fashion-tv.png" group-title="° DDYL UK",Brefcinema
+https://ddy6new.newkso.ru/ddy6/premium744/mono.m3u8
+#EXTINF:0 CUID="494180" tvg-name="Bring It!" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/film-4-uk.png" group-title="° DDYL UK",Bring It!
+https://windnew.newkso.ru/wind/premium688/mono.m3u8
+#EXTINF:0 CUID="494201" tvg-name="Cars" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/gold-uk.png" group-title="° DDYL UK",Cars
+https://ddy6new.newkso.ru/ddy6/premium687/mono.m3u8
+#EXTINF:0 CUID="494220" tvg-name="CBC News Saskatchewan" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-1-uk.png" group-title="° DDYL UK",CBC News Saskatchewan
+https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8
+#EXTINF:0 CUID="494221" tvg-name="CBC News Toronto" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-2-uk.png" group-title="° DDYL UK",CBC News Toronto
+https://zekonew.newkso.ru/zeko/premium351/mono.m3u8
+#EXTINF:0 CUID="494222" tvg-name="CBC News Windsor" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-3-uk.png" group-title="° DDYL UK",CBC News Windsor
+https://zekonew.newkso.ru/zeko/premium352/mono.m3u8
+#EXTINF:0 CUID="494223" tvg-name="CBS News 24/7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-4-uk.png" group-title="° DDYL UK",CBS News 24/7
+https://ddy6new.newkso.ru/ddy6/premium353/mono.m3u8
+#EXTINF:0 CUID="494232" tvg-name="Cheaters" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laligatv-uk.png" group-title="° DDYL UK",Cheaters
+https://windnew.newkso.ru/wind/premium276/mono.m3u8
+#EXTINF:0 CUID="494236" tvg-name="Chefclub TV [FR]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/liverpool-tv.png" group-title="° DDYL UK",Chefclub TV [FR]
+https://ddy6new.newkso.ru/ddy6/premium826/mono.m3u8
+#EXTINF:0 CUID="494246" tvg-name="CineAliens" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mtv.png" group-title="° DDYL UK",CineAliens
+https://zekonew.newkso.ru/zeko/premium367/mono.m3u8
+#EXTINF:0 CUID="494248" tvg-name="Cinemalizia" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mutv-uk.png" group-title="° DDYL UK",Cinemalizia
+https://windnew.newkso.ru/wind/premium377/mono.m3u8
 #EXTINF:0 CUID="452878" tvg-name="Hub Premier 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="° IPTV TREE UK",Hub Premier 1
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/305270
 #EXTINF:0 CUID="452879" tvg-name="Hub Premier 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="° IPTV TREE UK",Hub Premier 2
@@ -2141,6 +2167,356 @@ https://tvpass.org/live/yes-network/sd/
 https://tvpass.org/live/truTVEast/hd/
 #EXTINF:0 CUID="486207" tvg-name="Cricket Gold" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="° TVPass",Cricket Gold
 https://tvpass.org/live/truTVEast/sd/
+#EXTINF:0 CUID="493970" tvg-name="¡Hola! Play" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="° TVPass",¡Hola! Play
+https://tvpass.org/live/AEEast/hd/
+#EXTINF:0 CUID="493971" tvg-name="¿Qué Culpa Tiene Fatmagül?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="° TVPass",¿Qué Culpa Tiene Fatmagül?
+https://tvpass.org/live/AEEast/sd/
+#EXTINF:0 CUID="493972" tvg-name="&TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="° TVPass",&TV
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd/
+#EXTINF:0 CUID="493973" tvg-name="<신병> 정주행" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="° TVPass",<신병> 정주행
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd/
+#EXTINF:0 CUID="493974" tvg-name="100% Adrenaline" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="° TVPass",100% Adrenaline
+https://tvpass.org/live/WABCDT1/hd/
+#EXTINF:0 CUID="493975" tvg-name="100% Docs" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="° TVPass",100% Docs
+https://tvpass.org/live/WABCDT1/sd/
+#EXTINF:0 CUID="493976" tvg-name="21 Jump Street" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="° TVPass",21 Jump Street
+https://tvpass.org/live/ACCNetwork/hd/
+#EXTINF:0 CUID="493977" tvg-name="21 Jump Street" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="° TVPass",21 Jump Street
+https://tvpass.org/live/ACCNetwork/sd/
+#EXTINF:0 CUID="493978" tvg-name="24H" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="° TVPass",24H
+https://tvpass.org/live/AMCEast/hd/
+#EXTINF:0 CUID="493979" tvg-name="2M" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="° TVPass",2M
+https://tvpass.org/live/AMCEast/sd/
+#EXTINF:0 CUID="493980" tvg-name="3BMeteo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="° TVPass",3BMeteo
+https://tvpass.org/live/altitude-sports-denver/hd/
+#EXTINF:0 CUID="493981" tvg-name="4UV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="° TVPass",4UV
+https://tvpass.org/live/altitude-sports-denver/sd/
+#EXTINF:0 CUID="493982" tvg-name="5 Cops" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="° TVPass",5 Cops
+https://tvpass.org/live/AmericanHeroesChannel/hd/
+#EXTINF:0 CUID="493983" tvg-name="5 Exploring Britain" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="° TVPass",5 Exploring Britain
+https://tvpass.org/live/AmericanHeroesChannel/sd/
+#EXTINF:0 CUID="493984" tvg-name="5-Minuti Creativi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="° TVPass",5-Minuti Creativi
+https://tvpass.org/live/AnimalPlanetEast/hd/
+#EXTINF:0 CUID="493985" tvg-name="60 Days In by A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="° TVPass",60 Days In by A&E
+https://tvpass.org/live/AnimalPlanetEast/sd/
+#EXTINF:0 CUID="493986" tvg-name="70-80.it" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="° TVPass",70-80.it
+https://tvpass.org/live/BBCAmericaEast/hd/
+#EXTINF:0 CUID="493987" tvg-name="8 Out Of 10 Cats" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="° TVPass",8 Out Of 10 Cats
+https://tvpass.org/live/BBCAmericaEast/sd/
+#EXTINF:0 CUID="493988" tvg-name="80 Anni - 2a Guerra Mondiale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="° TVPass",80 Anni - 2a Guerra Mondiale
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd/
+#EXTINF:0 CUID="493989" tvg-name="9X Jalwa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="° TVPass",9X Jalwa
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd/
+#EXTINF:0 CUID="493990" tvg-name="9X Jhakaas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="° TVPass",9X Jhakaas
+https://tvpass.org/live/BETEast/hd/
+#EXTINF:0 CUID="493991" tvg-name="9X Tashan" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="° TVPass",9X Tashan
+https://tvpass.org/live/BETEast/sd/
+#EXTINF:0 CUID="493992" tvg-name="9XM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="° TVPass",9XM
+https://tvpass.org/live/BETHerEast/hd/
+#EXTINF:0 CUID="493993" tvg-name="A Tavola" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="° TVPass",A Tavola
+https://tvpass.org/live/BETHerEast/sd/
+#EXTINF:0 CUID="493994" tvg-name="Aaj Tak" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="° TVPass",Aaj Tak
+https://tvpass.org/live/BloombergTV/hd/
+#EXTINF:0 CUID="493995" tvg-name="Aaj Tak HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="° TVPass",Aaj Tak HD
+https://tvpass.org/live/BloombergTV/sd/
+#EXTINF:0 CUID="493996" tvg-name="ABC News Live" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="° TVPass",ABC News Live
+https://tvpass.org/live/BravoEast/hd/
+#EXTINF:0 CUID="493997" tvg-name="ABP Ananda" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="° TVPass",ABP Ananda
+https://tvpass.org/live/BravoEast/sd/
+#EXTINF:0 CUID="493998" tvg-name="ABP Asmita" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="° TVPass",ABP Asmita
+https://tvpass.org/live/BTN/hd/
+#EXTINF:0 CUID="493999" tvg-name="ABP Majha" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="° TVPass",ABP Majha
+https://tvpass.org/live/BTN/sd/
+#EXTINF:0 CUID="494000" tvg-name="ABP News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="° TVPass",ABP News
+https://tvpass.org/live/Boomerang/hd/
+#EXTINF:0 CUID="494001" tvg-name="ACC Digital Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="° TVPass",ACC Digital Network
+https://tvpass.org/live/Boomerang/sd/
+#EXTINF:0 CUID="494002" tvg-name="Acción - Rakuten TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png" group-title="° TVPass",Acción - Rakuten TV
+https://tvpass.org/live/CSPAN2/hd/
+#EXTINF:0 CUID="494003" tvg-name="Action Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png" group-title="° TVPass",Action Movie Channel
+https://tvpass.org/live/CSPAN2/sd/
+#EXTINF:0 CUID="494004" tvg-name="Action Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="° TVPass",Action Movie Channel
+https://tvpass.org/live/CSPAN/hd/
+#EXTINF:0 CUID="494005" tvg-name="Action Movies - Rakuten TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="° TVPass",Action Movies - Rakuten TV
+https://tvpass.org/live/CSPAN/sd/
+#EXTINF:0 CUID="494006" tvg-name="Actionfilme - Rakuten TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="° TVPass",Actionfilme - Rakuten TV
+https://tvpass.org/live/CartoonNetworkEast/hd/
+#EXTINF:0 CUID="494007" tvg-name="Actionfilme - Rakuten TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="° TVPass",Actionfilme - Rakuten TV
+https://tvpass.org/live/CartoonNetworkEast/sd/
+#EXTINF:0 CUID="494008" tvg-name="Actionfilme - Rakuten TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="° TVPass",Actionfilme - Rakuten TV
+https://tvpass.org/live/CBSSportsNetworkUSA/hd/
+#EXTINF:0 CUID="494009" tvg-name="Actualidad 360" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="° TVPass",Actualidad 360
+https://tvpass.org/live/CBSSportsNetworkUSA/sd/
+#EXTINF:0 CUID="494010" tvg-name="ADN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png" group-title="° TVPass",ADN
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd/
+#EXTINF:0 CUID="494011" tvg-name="ADN [FR]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png" group-title="° TVPass",ADN [FR]
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd/
+#EXTINF:0 CUID="494012" tvg-name="Adrenaline Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="° TVPass",Adrenaline Movies
+https://tvpass.org/live/WCBSDT1/hd/
+#EXTINF:0 CUID="494013" tvg-name="Adventure Earth" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="° TVPass",Adventure Earth
+https://tvpass.org/live/WCBSDT1/sd/
+#EXTINF:0 CUID="494014" tvg-name="Adventure Sports TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="° TVPass",Adventure Sports TV
+https://tvpass.org/live/CinemaxEast/hd/
+#EXTINF:0 CUID="494015" tvg-name="AFTER FOOT TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="° TVPass",AFTER FOOT TV
+https://tvpass.org/live/CinemaxEast/sd/
+#EXTINF:0 CUID="494016" tvg-name="Águila Roja" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="° TVPass",Águila Roja
+https://tvpass.org/live/MoreMaxEast/hd/
+#EXTINF:0 CUID="494017" tvg-name="Ailleurs - Destination Luxe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="° TVPass",Ailleurs - Destination Luxe
+https://tvpass.org/live/MoreMaxEast/sd/
+#EXTINF:0 CUID="494018" tvg-name="Alberto Sordi & Co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="° TVPass",Alberto Sordi & Co
+https://tvpass.org/live/CMTEast/hd/
+#EXTINF:0 CUID="494019" tvg-name="Alberto Sordi & Co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="° TVPass",Alberto Sordi & Co
+https://tvpass.org/live/CMTEast/sd/
+#EXTINF:0 CUID="494020" tvg-name="Alerte à Malibu" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="° TVPass",Alerte à Malibu
+https://tvpass.org/live/CNBC/hd/
+#EXTINF:0 CUID="494021" tvg-name="Alerte à Malibu [FR]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="° TVPass",Alerte à Malibu [FR]
+https://tvpass.org/live/CNBC/sd/
+#EXTINF:0 CUID="494022" tvg-name="ALF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="° TVPass",ALF
+https://tvpass.org/live/CNN/hd/
+#EXTINF:0 CUID="494023" tvg-name="ALF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="° TVPass",ALF
+https://tvpass.org/live/CNN/sd/
+#EXTINF:0 CUID="494024" tvg-name="Alfred Hitchcock Presents" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="° TVPass",Alfred Hitchcock Presents
+https://tvpass.org/live/ComedyCentralEast/hd/
+#EXTINF:0 CUID="494025" tvg-name="Alien Nation by DUST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="° TVPass",Alien Nation by DUST
+https://tvpass.org/live/ComedyCentralEast/sd/
+#EXTINF:0 CUID="494026" tvg-name="ALL ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="° TVPass",ALL ACTION
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd/
+#EXTINF:0 CUID="494027" tvg-name="All Babies Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="° TVPass",All Babies Channel
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd/
+#EXTINF:0 CUID="494028" tvg-name="All Reality We TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="° TVPass",All Reality We TV
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd/
+#EXTINF:0 CUID="494029" tvg-name="All Weddings We TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="° TVPass",All Weddings We TV
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd/
+#EXTINF:0 CUID="494030" tvg-name="All-Out Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png" group-title="° TVPass",All-Out Reality
+https://tvpass.org/live/chicago-sports-network/hd/
+#EXTINF:0 CUID="494031" tvg-name="ALLBLK Gems" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png" group-title="° TVPass",ALLBLK Gems
+https://tvpass.org/live/chicago-sports-network/sd/
+#EXTINF:0 CUID="494032" tvg-name="alleskino" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="° TVPass",alleskino
+https://tvpass.org/live/CrimePlusInvestigation/hd/
+#EXTINF:0 CUID="494033" tvg-name="Allociné" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="° TVPass",Allociné
+https://tvpass.org/live/CrimePlusInvestigation/sd/
+#EXTINF:0 CUID="494034" tvg-name="Alone By History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="° TVPass",Alone By History
+https://tvpass.org/live/DiscoveryFamily/hd/
+#EXTINF:0 CUID="494035" tvg-name="Alta Tensione" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="° TVPass",Alta Tensione
+https://tvpass.org/live/DiscoveryFamily/sd/
+#EXTINF:0 CUID="494036" tvg-name="Always Funny Videos" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="° TVPass",Always Funny Videos
+https://tvpass.org/live/DiscoveryLife/hd/
+#EXTINF:0 CUID="494037" tvg-name="Always Funny Videos" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="° TVPass",Always Funny Videos
+https://tvpass.org/live/DiscoveryLife/sd/
+#EXTINF:0 CUID="494038" tvg-name="AMC en Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="° TVPass",AMC en Español
+https://tvpass.org/live/DisneyChannelEast/hd/
+#EXTINF:0 CUID="494039" tvg-name="America's Got Talent" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="° TVPass",America's Got Talent
+https://tvpass.org/live/DisneyChannelEast/sd/
+#EXTINF:0 CUID="494040" tvg-name="America's Test Kitchen" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="° TVPass",America's Test Kitchen
+https://tvpass.org/live/DestinationAmerica/hd/
+#EXTINF:0 CUID="494041" tvg-name="American Crimes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="° TVPass",American Crimes
+https://tvpass.org/live/DestinationAmerica/sd/
+#EXTINF:0 CUID="494042" tvg-name="American Idol" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="° TVPass",American Idol
+https://tvpass.org/live/DiscoveryChannelEast/hd/
+#EXTINF:0 CUID="494043" tvg-name="American Ninja Warrior" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="° TVPass",American Ninja Warrior
+https://tvpass.org/live/DiscoveryChannelEast/sd/
+#EXTINF:0 CUID="494044" tvg-name="American Pickers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="° TVPass",American Pickers
+https://tvpass.org/live/Science/hd/
+#EXTINF:0 CUID="494045" tvg-name="American Pickers by History" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="° TVPass",American Pickers by History
+https://tvpass.org/live/Science/sd/
+#EXTINF:0 CUID="494046" tvg-name="Anche i ricchi piangono" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="° TVPass",Anche i ricchi piangono
+https://tvpass.org/live/DisneyJuniorEast/hd/
+#EXTINF:0 CUID="494047" tvg-name="Ancient Aliens" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="° TVPass",Ancient Aliens
+https://tvpass.org/live/DisneyJuniorEast/sd/
+#EXTINF:0 CUID="494048" tvg-name="Andromeda" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="° TVPass",Andromeda
+https://tvpass.org/live/DisneyXDEast/hd/
+#EXTINF:0 CUID="494049" tvg-name="Angelique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="° TVPass",Angelique
+https://tvpass.org/live/DisneyXDEast/sd/
+#EXTINF:0 CUID="494050" tvg-name="Animation+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" group-title="° TVPass",Animation+
+https://tvpass.org/live/EEast/hd/
+#EXTINF:0 CUID="494051" tvg-name="Animation+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" group-title="° TVPass",Animation+
+https://tvpass.org/live/EEast/sd/
+#EXTINF:0 CUID="494052" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="° TVPass",Animax
+https://tvpass.org/live/ESPN2/hd/
+#EXTINF:0 CUID="494053" tvg-name="Animax 요리왕 비룡 더 마스터" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="° TVPass",Animax 요리왕 비룡 더 마스터
+https://tvpass.org/live/ESPN2/sd/
+#EXTINF:0 CUID="494054" tvg-name="Anime All day" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="° TVPass",Anime All day
+https://tvpass.org/live/espn-deportes/hd/
+#EXTINF:0 CUID="494055" tvg-name="Anime Visión" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="° TVPass",Anime Visión
+https://tvpass.org/live/espn-deportes/sd/
+#EXTINF:0 CUID="494056" tvg-name="Anime Visión Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="° TVPass",Anime Visión Classics
+https://tvpass.org/live/ESPN/hd/
+#EXTINF:0 CUID="494057" tvg-name="Aniverse TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="° TVPass",Aniverse TV
+https://tvpass.org/live/ESPNews/hd/
+#EXTINF:0 CUID="494058" tvg-name="Aniverse TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="° TVPass",Aniverse TV
+https://tvpass.org/live/ESPNews/sd/
+#EXTINF:0 CUID="494059" tvg-name="Aniverse TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="° TVPass",Aniverse TV
+https://tvpass.org/live/ESPN/sd/
+#EXTINF:0 CUID="494060" tvg-name="Antiques Road Trip" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="° TVPass",Antiques Road Trip
+https://tvpass.org/live/ESPNU/hd/
+#EXTINF:0 CUID="494061" tvg-name="Antiques Roadshow" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="° TVPass",Antiques Roadshow
+https://tvpass.org/live/ESPNU/sd/
+#EXTINF:0 CUID="494062" tvg-name="Antiques Roadshow" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="° TVPass",Antiques Roadshow
+https://tvpass.org/live/FoodNetworkEast/hd/
+#EXTINF:0 CUID="494063" tvg-name="Aquí y Ahora" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="° TVPass",Aquí y Ahora
+https://tvpass.org/live/FoodNetworkEast/sd/
+#EXTINF:0 CUID="494064" tvg-name="Architectural Digest" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="° TVPass",Architectural Digest
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd/
+#EXTINF:0 CUID="494065" tvg-name="ARD Plus Krimi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="° TVPass",ARD Plus Krimi
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd/
+#EXTINF:0 CUID="494066" tvg-name="Ardivision" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="° TVPass",Ardivision
+https://tvpass.org/live/WNYWDT1/hd/
+#EXTINF:0 CUID="494067" tvg-name="Are We There Yet?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="° TVPass",Are We There Yet?
+https://tvpass.org/live/WNYWDT1/sd/
+#EXTINF:0 CUID="494068" tvg-name="Artflix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="° TVPass",Artflix
+https://tvpass.org/live/FXMovieChannel/hd/
+#EXTINF:0 CUID="494069" tvg-name="Artflix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="° TVPass",Artflix
+https://tvpass.org/live/FXMovieChannel/sd/
+#EXTINF:0 CUID="494070" tvg-name="Artflix" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="° TVPass",Artflix
+https://tvpass.org/live/FXEast/hd/
+#EXTINF:0 CUID="494071" tvg-name="Artist of the Year" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="° TVPass",Artist of the Year
+https://tvpass.org/live/FXEast/sd/
+#EXTINF:0 CUID="494072" tvg-name="Astro Tak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="° TVPass",Astro Tak
+https://tvpass.org/live/FXXEast/hd/
+#EXTINF:0 CUID="494073" tvg-name="At Home with Family Handyman" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="° TVPass",At Home with Family Handyman
+https://tvpass.org/live/FXXEast/sd/
+#EXTINF:0 CUID="494074" tvg-name="Au coin du feu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png" group-title="° TVPass",Au coin du feu
+https://tvpass.org/live/FYIEast/hd/
+#EXTINF:0 CUID="494075" tvg-name="auto motor und sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png" group-title="° TVPass",auto motor und sport
+https://tvpass.org/live/FYIEast/sd/
+#EXTINF:0 CUID="494076" tvg-name="auto motor und sport" tvg-logo="https://i.imgur.com/1MDxLZf.png" group-title="° TVPass",auto motor und sport
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd/
+#EXTINF:0 CUID="494077" tvg-name="auto motor und sport" tvg-logo="https://i.imgur.com/1MDxLZf.png" group-title="° TVPass",auto motor und sport
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd/
+#EXTINF:0 CUID="494078" tvg-name="Autopsy" tvg-logo="https://i.imgur.com/fuCM2ei.png" group-title="° TVPass",Autopsy
+https://tvpass.org/live/fanduel-sports-network-florida/hd/
+#EXTINF:0 CUID="494079" tvg-name="Autostop per il Cielo" tvg-logo="https://i.imgur.com/fuCM2ei.png" group-title="° TVPass",Autostop per il Cielo
+https://tvpass.org/live/fanduel-sports-network-florida/sd/
+#EXTINF:0 CUID="494080" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/mPpaZCR.png" group-title="° TVPass",Ax Men
+https://tvpass.org/live/fanduel-sports-network-great-lakes/hd/
+#EXTINF:0 CUID="494081" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/mPpaZCR.png" group-title="° TVPass",Ax Men
+https://tvpass.org/live/fanduel-sports-network-great-lakes/sd/
+#EXTINF:0 CUID="494082" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/HUgEVWQ.png" group-title="° TVPass",Ax Men
+https://tvpass.org/live/fanduel-sports-indiana/hd/
+#EXTINF:0 CUID="494083" tvg-name="Azteca Internacional" tvg-logo="https://i.imgur.com/HUgEVWQ.png" group-title="° TVPass",Azteca Internacional
+https://tvpass.org/live/fanduel-sports-indiana/sd/
+#EXTINF:0 CUID="494084" tvg-name="Baby Einstein" tvg-logo="https://i.imgur.com/qfu8djF.png" group-title="° TVPass",Baby Einstein
+https://tvpass.org/live/fanduel-sports-network-north/hd/
+#EXTINF:0 CUID="494085" tvg-name="Baby Einstein" tvg-logo="https://i.imgur.com/qfu8djF.png" group-title="° TVPass",Baby Einstein
+https://tvpass.org/live/fanduel-sports-network-north/sd/
+#EXTINF:0 CUID="494086" tvg-name="BABY FIRST" tvg-logo="https://i.imgur.com/U4kf3x6.png" group-title="° TVPass",BABY FIRST
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd/
+#EXTINF:0 CUID="494087" tvg-name="Backstage" tvg-logo="https://i.imgur.com/U4kf3x6.png" group-title="° TVPass",Backstage
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd/
+#EXTINF:0 CUID="494088" tvg-name="Bad Girls Club" tvg-logo="https://i.imgur.com/mx7lyh5.png" group-title="° TVPass",Bad Girls Club
+https://tvpass.org/live/fanduel-sports-network-oklahoma/hd/
+#EXTINF:0 CUID="494089" tvg-name="Balle Balle" tvg-logo="https://i.imgur.com/mx7lyh5.png" group-title="° TVPass",Balle Balle
+https://tvpass.org/live/fanduel-sports-network-oklahoma/sd/
+#EXTINF:0 CUID="494090" tvg-name="Barbie and Friends" tvg-logo="https://i.imgur.com/yywNI3M.png" group-title="° TVPass",Barbie and Friends
+https://tvpass.org/live/fanduel-sports-network-socal/hd/
+#EXTINF:0 CUID="494091" tvg-name="Bares für Rares" tvg-logo="https://i.imgur.com/yywNI3M.png" group-title="° TVPass",Bares für Rares
+https://tvpass.org/live/fanduel-sports-network-socal/sd/
+#EXTINF:0 CUID="494092" tvg-name="Barney and Friends" tvg-logo="https://i.imgur.com/cv546ko.png" group-title="° TVPass",Barney and Friends
+https://tvpass.org/live/fanduel-sports-network-west/hd/
+#EXTINF:0 CUID="494116" tvg-name="BBC History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="° TVPass",BBC History
+https://tvpass.org/live/FoxNewsChannel/hd/
+#EXTINF:0 CUID="494117" tvg-name="BBC Home & Garden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="° TVPass",BBC Home & Garden
+https://tvpass.org/live/FoxNewsChannel/sd/
+#EXTINF:0 CUID="494118" tvg-name="BBC Home & Garden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="° TVPass",BBC Home & Garden
+https://tvpass.org/live/FoxSports1/hd/
+#EXTINF:0 CUID="494119" tvg-name="BBC Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="° TVPass",BBC Kids
+https://tvpass.org/live/FoxSports1/sd/
+#EXTINF:0 CUID="494120" tvg-name="BBC Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="° TVPass",BBC Kids
+https://tvpass.org/live/FoxSports2/hd/
+#EXTINF:0 CUID="494121" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="° TVPass",BBC News
+https://tvpass.org/live/FoxSports2/sd/
+#EXTINF:0 CUID="494122" tvg-name="BBC Travel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="° TVPass",BBC Travel
+https://tvpass.org/live/FreeformEast/hd/
+#EXTINF:0 CUID="494123" tvg-name="Beach Bonfire Vibes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="° TVPass",Beach Bonfire Vibes
+https://tvpass.org/live/FreeformEast/sd/
+#EXTINF:0 CUID="494124" tvg-name="Beach Bonfire Vibes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="° TVPass",Beach Bonfire Vibes
+https://tvpass.org/live/FuseEast/hd/
+#EXTINF:0 CUID="494130" tvg-name="BET Pluto TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="° TVPass",BET Pluto TV
+https://tvpass.org/live/HBOEast/hd/
+#EXTINF:0 CUID="494131" tvg-name="Beyblade" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="° TVPass",Beyblade
+https://tvpass.org/live/HBOEast/sd/
+#EXTINF:0 CUID="494132" tvg-name="Beyblade" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="° TVPass",Beyblade
+https://tvpass.org/live/HBO2East/hd/
+#EXTINF:0 CUID="494133" tvg-name="Beyblade" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="° TVPass",Beyblade
+https://tvpass.org/live/HBO2East/sd/
+#EXTINF:0 CUID="494134" tvg-name="Beyblade" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="° TVPass",Beyblade
+https://tvpass.org/live/HBOComedyEast/hd/
+#EXTINF:0 CUID="494135" tvg-name="Beyblade" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="° TVPass",Beyblade
+https://tvpass.org/live/HBOComedyEast/sd/
+#EXTINF:0 CUID="494136" tvg-name="BFM 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="° TVPass",BFM 2
+https://tvpass.org/live/HBOFamilyEast/hd/
+#EXTINF:0 CUID="494137" tvg-name="BFM Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="° TVPass",BFM Business
+https://tvpass.org/live/HBOFamilyEast/sd/
+#EXTINF:0 CUID="494138" tvg-name="BFM Grands Reportages" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="° TVPass",BFM Grands Reportages
+https://tvpass.org/live/HBOSignatureEast/hd/
+#EXTINF:0 CUID="494139" tvg-name="BFM TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="° TVPass",BFM TV
+https://tvpass.org/live/HBOSignatureEast/sd/
+#EXTINF:0 CUID="494140" tvg-name="BFM TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="° TVPass",BFM TV
+https://tvpass.org/live/HBOZoneEast/hd/
+#EXTINF:0 CUID="494141" tvg-name="Bhakti Play" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="° TVPass",Bhakti Play
+https://tvpass.org/live/HBOZoneEast/sd/
+#EXTINF:0 CUID="494142" tvg-name="Big 12 Studios" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="° TVPass",Big 12 Studios
+https://tvpass.org/live/HGTVEast/hd/
+#EXTINF:0 CUID="494143" tvg-name="Big 12 Studios" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="° TVPass",Big 12 Studios
+https://tvpass.org/live/HGTVEast/sd/
+#EXTINF:0 CUID="494144" tvg-name="Bigtime - Películas Gratis" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="° TVPass",Bigtime - Películas Gratis
+https://tvpass.org/live/HLN/hd/
+#EXTINF:0 CUID="494145" tvg-name="Billiard TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="° TVPass",Billiard TV
+https://tvpass.org/live/HLN/sd/
+#EXTINF:0 CUID="494146" tvg-name="Billiard TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="° TVPass",Billiard TV
+https://tvpass.org/live/HallmarkChannelEast/hd/
+#EXTINF:0 CUID="494147" tvg-name="Biography: The Icons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="° TVPass",Biography: The Icons
+https://tvpass.org/live/HallmarkChannelEast/sd/
+#EXTINF:0 CUID="494148" tvg-name="Bleach" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="° TVPass",Bleach
+https://tvpass.org/live/HallmarkDrama/hd/
+#EXTINF:0 CUID="494149" tvg-name="Blippi" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="° TVPass",Blippi
+https://tvpass.org/live/HallmarkDrama/sd/
+#EXTINF:0 CUID="494150" tvg-name="Blippi" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="° TVPass",Blippi
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd/
+#EXTINF:0 CUID="494151" tvg-name="Bloomberg Originals" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="° TVPass",Bloomberg Originals
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd/
+#EXTINF:0 CUID="494152" tvg-name="Bloomberg Originals" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="° TVPass",Bloomberg Originals
+https://tvpass.org/live/HistoryEast/hd/
+#EXTINF:0 CUID="494153" tvg-name="Bloomberg Originals" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="° TVPass",Bloomberg Originals
+https://tvpass.org/live/HistoryEast/sd/
+#EXTINF:0 CUID="494154" tvg-name="Bloomberg TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="° TVPass",Bloomberg TV
+https://tvpass.org/live/InvestigationDiscoveryEast/hd/
+#EXTINF:0 CUID="494155" tvg-name="Bloomberg TV+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="° TVPass",Bloomberg TV+
+https://tvpass.org/live/InvestigationDiscoveryEast/sd/
+#EXTINF:0 CUID="494156" tvg-name="Bloomberg TV+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="° TVPass",Bloomberg TV+
+https://tvpass.org/live/IFCEast/hd/
+#EXTINF:0 CUID="494157" tvg-name="Bloomberg TV+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="° TVPass",Bloomberg TV+
+https://tvpass.org/live/IFCEast/sd/
+#EXTINF:0 CUID="494158" tvg-name="Bloomberg TV+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="° TVPass",Bloomberg TV+
+https://tvpass.org/live/IONTVEast/hd/
+#EXTINF:0 CUID="494159" tvg-name="Bloomberg TV+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="° TVPass",Bloomberg TV+
+https://tvpass.org/live/IONTVEast/sd/
+#EXTINF:0 CUID="494160" tvg-name="Bloomberg TV+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png" group-title="° TVPass",Bloomberg TV+
+https://tvpass.org/live/LogoEast/hd/
+#EXTINF:0 CUID="494161" tvg-name="Bloomberg TV+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png" group-title="° TVPass",Bloomberg TV+
+https://tvpass.org/live/LogoEast/sd/
+#EXTINF:0 CUID="494162" tvg-name="Bloomberg TV+ UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="° TVPass",Bloomberg TV+ UHD
+https://tvpass.org/live/LifetimeMoviesEast/hd/
+#EXTINF:0 CUID="494163" tvg-name="Bob Esponja" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="° TVPass",Bob Esponja
+https://tvpass.org/live/LifetimeMoviesEast/sd/
+#EXTINF:0 CUID="494164" tvg-name="Bob L'eponge" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="° TVPass",Bob L'eponge
+https://tvpass.org/live/LifetimeEast/hd/
+#EXTINF:0 CUID="494165" tvg-name="Bob Ross" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="° TVPass",Bob Ross
+https://tvpass.org/live/LifetimeEast/sd/
+#EXTINF:0 CUID="494166" tvg-name="Bob the Builder" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="° TVPass",Bob the Builder
+https://tvpass.org/live/MLBNetwork/hd/
+#EXTINF:0 CUID="494167" tvg-name="Bob the Builder" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="° TVPass",Bob the Builder
+https://tvpass.org/live/MLBNetwork/sd/
+#EXTINF:0 CUID="494168" tvg-name="Bon Appétit" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="° TVPass",Bon Appétit
+https://tvpass.org/live/msg-madison-square-gardens/hd/
+#EXTINF:0 CUID="494169" tvg-name="Bon Appétit" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="° TVPass",Bon Appétit
+https://tvpass.org/live/msg-madison-square-gardens/sd/
+#EXTINF:0 CUID="494170" tvg-name="Bondi Rescue" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png" group-title="° TVPass",Bondi Rescue
+https://tvpass.org/live/msg-plus/hd/
+#EXTINF:0 CUID="494171" tvg-name="Bounce XL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png" group-title="° TVPass",Bounce XL
+https://tvpass.org/live/msg-plus/sd/
+#EXTINF:0 CUID="494172" tvg-name="Box Office Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="° TVPass",Box Office Action
+https://tvpass.org/live/MSNBC/hd/
 #EXTINF:0 CUID="486239" tvg-name="CURIOSITY Now" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1400001E4_20250107T031103SQUARE.png" group-title="° SamsungTVPlus UK",CURIOSITY Now
 https://jmp2.uk/sam-GB1400001E4.m3u8
 #EXTINF:0 CUID="486255" tvg-name="DAZN Ringside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD30000038U_20250107T030621SQUARE.png" group-title="° SamsungTVPlus UK",DAZN Ringside
@@ -2419,6 +2795,64 @@ https://jmp2.uk/sam-GBBB3800005QO.m3u8
 https://jmp2.uk/sam-GB340000289.m3u8
 #EXTINF:0 CUID="487818" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100013BJ_20250304T015523SQUARE.png" group-title="° SamsungTVPlus UK",Zee One
 https://jmp2.uk/sam-GBBD1100013BJ.m3u8
+#EXTINF:0 CUID="494202" tvg-name="Cash in the Attic" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200004J4_20250415T020928SQUARE.png" group-title="° SamsungTVPlus UK",Cash in the Attic
+https://jmp2.uk/sam-GB1200004J4.m3u8
+#EXTINF:0 CUID="494203" tvg-name="Catfish" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330003941_20250107T022822SQUARE.png" group-title="° SamsungTVPlus UK",Catfish
+https://jmp2.uk/sam-GBBA330003941.m3u8
+#EXTINF:0 CUID="494280" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20250422T043336SQUARE.png" group-title="° SamsungTVPlus UK",CNN Headlines
+https://jmp2.uk/sam-GBBD1900008O3.m3u8
+#EXTINF:0 CUID="494287" tvg-name="Come Dine With Me" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20250107T022825SQUARE.png" group-title="° SamsungTVPlus UK",Come Dine With Me
+https://jmp2.uk/sam-GBBC9000062G.m3u8
+#EXTINF:0 CUID="494327" tvg-name="Crime Network" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20250307T151830SQUARE.png" group-title="° SamsungTVPlus UK",Crime Network
+https://jmp2.uk/sam-GBBD4100010H1.m3u8
+#EXTINF:0 CUID="494366" tvg-name="DATELINE 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3700001AB_20250211T013910SQUARE.png" group-title="° SamsungTVPlus UK",DATELINE 24/7
+https://jmp2.uk/sam-GBBD3700001AB.m3u8
+#EXTINF:0 CUID="494377" tvg-name="Deal Masters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000037Y_20250131T145252SQUARE.png" group-title="° SamsungTVPlus UK",Deal Masters
+https://jmp2.uk/sam-GB12000037Y.m3u8
+#EXTINF:0 CUID="494380" tvg-name="Deal or No Deal US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB38000068U_20250107T022828SQUARE.png" group-title="° SamsungTVPlus UK",Deal or No Deal US
+https://jmp2.uk/sam-GBBB38000068U.m3u8
+#EXTINF:0 CUID="494385" tvg-name="Def Jam" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20250107T030629SQUARE.png" group-title="° SamsungTVPlus UK",Def Jam
+https://jmp2.uk/sam-GBBD3000004VR.m3u8
+#EXTINF:0 CUID="494404" tvg-name="Demand Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900005KI_20250408T021355SQUARE.png" group-title="° SamsungTVPlus UK",Demand Drama
+https://jmp2.uk/sam-GB900005KI.m3u8
+#EXTINF:0 CUID="494405" tvg-name="Dennis and Gnasher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100011V3_20250107T030631SQUARE.png" group-title="° SamsungTVPlus UK",Dennis and Gnasher
+https://jmp2.uk/sam-GBBD1100011V3.m3u8
+#EXTINF:0 CUID="494413" tvg-name="DFB Play TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB26000118T_20250415T020937SQUARE.png" group-title="° SamsungTVPlus UK",DFB Play TV
+https://jmp2.uk/sam-GB26000118T.m3u8
+#EXTINF:0 CUID="494429" tvg-name="Dog The Bounty Hunter" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB27000069E_20250107T030634SQUARE.png" group-title="° SamsungTVPlus UK",Dog The Bounty Hunter
+https://jmp2.uk/sam-GB27000069E.m3u8
+#EXTINF:0 CUID="494433" tvg-name="DP World Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5200001TM_20250205T021308SQUARE.png" group-title="° SamsungTVPlus UK",DP World Tour
+https://jmp2.uk/sam-GB5200001TM.m3u8
+#EXTINF:0 CUID="494443" tvg-name="Drama Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600012R3_20241022T043418SQUARE.png" group-title="° SamsungTVPlus UK",Drama Movies - Rakuten TV
+https://jmp2.uk/sam-GB2600012R3.m3u8
+#EXTINF:0 CUID="494450" tvg-name="Duck Dynasty" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700004BC_20250107T030636SQUARE.png" group-title="° SamsungTVPlus UK",Duck Dynasty
+https://jmp2.uk/sam-GB2700004BC.m3u8
+#EXTINF:0 CUID="494459" tvg-name="DW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1300001RX_20250107T031112SQUARE.png" group-title="° SamsungTVPlus UK",DW
+https://jmp2.uk/sam-GB1300001RX.m3u8
+#EXTINF:0 CUID="494462" tvg-name="Earth Touch" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200001E2_20250107T030638SQUARE.png" group-title="° SamsungTVPlus UK",Earth Touch
+https://jmp2.uk/sam-GBBD3200001E2.m3u8
+#EXTINF:0 CUID="494466" tvg-name="Eggheads" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200002CG_20250107T030641SQUARE.png" group-title="° SamsungTVPlus UK",Eggheads
+https://jmp2.uk/sam-GBBD3200002CG.m3u8
+#EXTINF:0 CUID="494471" tvg-name="Emergency 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB270001538_20250107T153916SQUARE.png" group-title="° SamsungTVPlus UK",Emergency 24/7
+https://jmp2.uk/sam-GB270001538.m3u8
+#EXTINF:0 CUID="494480" tvg-name="Entertainment Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250211T014102SQUARE.png" group-title="° SamsungTVPlus UK",Entertainment Hub
+https://jmp2.uk/sam-GBBC2300003ZQ.m3u8
+#EXTINF:0 CUID="494496" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600019ON_20250415T020939SQUARE.png" group-title="° SamsungTVPlus UK",Euronews LIVE
+https://jmp2.uk/sam-GB2600019ON.m3u8
+#EXTINF:0 CUID="494499" tvg-name="Evolution Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700003KS_20250107T031117SQUARE.png" group-title="° SamsungTVPlus UK",Evolution Earth
+https://jmp2.uk/sam-GB2700003KS.m3u8
+#EXTINF:0 CUID="494510" tvg-name="FailArmy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ40003642_20250107T022539SQUARE.png" group-title="° SamsungTVPlus UK",FailArmy
+https://jmp2.uk/sam-GBAJ40003642.m3u8
+#EXTINF:0 CUID="494550" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20250107T030643SQUARE.png" group-title="° SamsungTVPlus UK",FIFA+
+https://jmp2.uk/sam-GBBD1100008YW.m3u8
+#EXTINF:0 CUID="494581" tvg-name="Flipping Nation" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700010NQ_20250107T030650SQUARE.png" group-title="° SamsungTVPlus UK",Flipping Nation
+https://jmp2.uk/sam-GB2700010NQ.m3u8
+#EXTINF:0 CUID="494603" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20250107T030646SQUARE.png" group-title="° SamsungTVPlus UK",FRANCE 24 FAST
+https://jmp2.uk/sam-GBBD1100002L5.m3u8
+#EXTINF:0 CUID="494626" tvg-name="GB News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20250107T022831SQUARE.png" group-title="° SamsungTVPlus UK",GB News
+https://jmp2.uk/sam-GBBB1600008R3.m3u8
+#EXTINF:0 CUID="494632" tvg-name="Get.Factual" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700001R6_20250107T031122SQUARE.png" group-title="° SamsungTVPlus UK",Get.Factual
+https://jmp2.uk/sam-GB2700001R6.m3u8
 #EXTINF:0 CUID="486241" tvg-name="D&D Adventures" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400005I4_20241119T020410SQUARE.png" group-title="° SamsungTVPlus US",D&D Adventures
 https://jmp2.uk/sam-US3400005I4.m3u8
 #EXTINF:0 CUID="486245" tvg-name="Dance Moms" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20250325T015147SQUARE.png" group-title="° SamsungTVPlus US",Dance Moms
@@ -3047,6 +3481,150 @@ https://jmp2.uk/sam-USBD3500027DS.m3u8
 https://jmp2.uk/sam-USBD1700016X9.m3u8
 #EXTINF:0 CUID="487823" tvg-name="ZooMoo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20240520T214904SQUARE.png" group-title="° SamsungTVPlus US",ZooMoo
 https://jmp2.uk/sam-USBC2400019EF.m3u8
+#EXTINF:0 CUID="494127" tvg-name="beIN SPORTS XTRA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20241105T024240SQUARE.png" group-title="° SamsungTVPlus US",beIN SPORTS XTRA
+https://jmp2.uk/sam-USAJ4300001Q7.m3u8
+#EXTINF:0 CUID="494176" tvg-name="Brat TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20241014T232222SQUARE.png" group-title="° SamsungTVPlus US",Brat TV
+https://jmp2.uk/sam-USBC240001823.m3u8
+#EXTINF:0 CUID="494177" tvg-name="Bravo Vault" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800003BG_20240903T181345SQUARE.png" group-title="° SamsungTVPlus US",Bravo Vault
+https://jmp2.uk/sam-US1800003BG.m3u8
+#EXTINF:0 CUID="494182" tvg-name="BritBox Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700007E4_20241119T020408SQUARE.png" group-title="° SamsungTVPlus US",BritBox Mysteries
+https://jmp2.uk/sam-US3700007E4.m3u8
+#EXTINF:0 CUID="494187" tvg-name="BYUtv" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US410000230_20250415T005934SQUARE.png" group-title="° SamsungTVPlus US",BYUtv
+https://jmp2.uk/sam-US410000230.m3u8
+#EXTINF:0 CUID="494191" tvg-name="Caillou" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD50000048H_20250401T004837SQUARE.png" group-title="° SamsungTVPlus US",Caillou
+https://jmp2.uk/sam-USBD50000048H.m3u8
+#EXTINF:0 CUID="494195" tvg-name="Canal ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20241112T001006SQUARE.png" group-title="° SamsungTVPlus US",Canal ViX
+https://jmp2.uk/sam-US2200005Y2.m3u8
+#EXTINF:0 CUID="494196" tvg-name="Canela.TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000080S_20241228T011434SQUARE.png" group-title="° SamsungTVPlus US",Canela.TV
+https://jmp2.uk/sam-USBC39000080S.m3u8
+#EXTINF:0 CUID="494205" tvg-name="Caught on Tape" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700007CV_20250325T015136SQUARE.png" group-title="° SamsungTVPlus US",Caught on Tape
+https://jmp2.uk/sam-US700007CV.m3u8
+#EXTINF:0 CUID="494208" tvg-name="CBC News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20241112T000921SQUARE.png" group-title="° SamsungTVPlus US",CBC News
+https://jmp2.uk/sam-USBC4400003OU.m3u8
+#EXTINF:0 CUID="494224" tvg-name="CBS Sports HQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20250401T004857SQUARE.png" group-title="° SamsungTVPlus US",CBS Sports HQ
+https://jmp2.uk/sam-USBB4800005VO.m3u8
+#EXTINF:0 CUID="494233" tvg-name="Cheaters" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20241112T001009SQUARE.png" group-title="° SamsungTVPlus US",Cheaters
+https://jmp2.uk/sam-USBD3500031F3.m3u8
+#EXTINF:0 CUID="494234" tvg-name="Cheddar News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20250428T223355SQUARE.png" group-title="° SamsungTVPlus US",Cheddar News
+https://jmp2.uk/sam-USAJ3504714A.m3u8
+#EXTINF:0 CUID="494243" tvg-name="Cine Retro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500022U5_20241228T011501SQUARE.png" group-title="° SamsungTVPlus US",Cine Retro
+https://jmp2.uk/sam-USBD2500022U5.m3u8
+#EXTINF:0 CUID="494244" tvg-name="Cine Romantico" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20250325T020215SQUARE.png" group-title="° SamsungTVPlus US",Cine Romantico
+https://jmp2.uk/sam-USBA3800001E0.m3u8
+#EXTINF:0 CUID="494250" tvg-name="CINEVAULT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240730T222508SQUARE.png" group-title="° SamsungTVPlus US",CINEVAULT
+https://jmp2.uk/sam-USAJ30000148W.m3u8
+#EXTINF:0 CUID="494283" tvg-name="Cold Case Files" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20250325T015138SQUARE.png" group-title="° SamsungTVPlus US",Cold Case Files
+https://jmp2.uk/sam-USBC390002256.m3u8
+#EXTINF:0 CUID="494286" tvg-name="Combate Global MMA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20250421T234910SQUARE.png" group-title="° SamsungTVPlus US",Combate Global MMA
+https://jmp2.uk/sam-US4600006R8.m3u8
+#EXTINF:0 CUID="494320" tvg-name="Court TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20240520T221145SQUARE.png" group-title="° SamsungTVPlus US",Court TV
+https://jmp2.uk/sam-USBA34000049Z.m3u8
+#EXTINF:0 CUID="494322" tvg-name="Cozy Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900005NW_20241112T001015SQUARE.png" group-title="° SamsungTVPlus US",Cozy Vibes
+https://jmp2.uk/sam-US2900005NW.m3u8
+#EXTINF:0 CUID="494326" tvg-name="Crime 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508703A_20250325T014811SQUARE.png" group-title="° SamsungTVPlus US",Crime 24/7
+https://jmp2.uk/sam-USAK3508703A.m3u8
+#EXTINF:0 CUID="494332" tvg-name="Crime ThrillHer" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000236D_20250325T015141SQUARE.png" group-title="° SamsungTVPlus US",Crime ThrillHer
+https://jmp2.uk/sam-USBB52000236D.m3u8
+#EXTINF:0 CUID="494336" tvg-name="Crime Zone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20250318T020957SQUARE.png" group-title="° SamsungTVPlus US",Crime Zone
+https://jmp2.uk/sam-USBB36000040M.m3u8
+#EXTINF:0 CUID="494340" tvg-name="Crimes Cults Killers" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20250325T015144SQUARE.png" group-title="° SamsungTVPlus US",Crimes Cults Killers
+https://jmp2.uk/sam-USBB5200022PY.m3u8
+#EXTINF:0 CUID="494349" tvg-name="Curiosity Animales" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200001IY_20240910T003736SQUARE.png" group-title="° SamsungTVPlus US",Curiosity Animales
+https://jmp2.uk/sam-US2200001IY.m3u8
+#EXTINF:0 CUID="494350" tvg-name="Curiosity Explora" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US22000020U_20241217T202304SQUARE.png" group-title="° SamsungTVPlus US",Curiosity Explora
+https://jmp2.uk/sam-US22000020U.m3u8
+#EXTINF:0 CUID="494351" tvg-name="Curiosity Motores" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200003ZN_20240910T003743SQUARE.png" group-title="° SamsungTVPlus US",Curiosity Motores
+https://jmp2.uk/sam-US2200003ZN.m3u8
+#EXTINF:0 CUID="494359" tvg-name="Dallas Cowboys Cheer" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20241112T000620SQUARE.png" group-title="° SamsungTVPlus US",Dallas Cowboys Cheer
+https://jmp2.uk/sam-USBA300004TE.m3u8
+#EXTINF:0 CUID="494363" tvg-name="DangerTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20240520T221158SQUARE.png" group-title="° SamsungTVPlus US",DangerTV
+https://jmp2.uk/sam-USAJ3504708A.m3u8
+#EXTINF:0 CUID="494364" tvg-name="Dateline 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200007BY_20241008T212634SQUARE.png" group-title="° SamsungTVPlus US",Dateline 24/7
+https://jmp2.uk/sam-USBB5200007BY.m3u8
+#EXTINF:0 CUID="494379" tvg-name="Deal or No Deal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400017N3_20240625T011308SQUARE.png" group-title="° SamsungTVPlus US",Deal or No Deal
+https://jmp2.uk/sam-USBB4400017N3.m3u8
+#EXTINF:0 CUID="494381" tvg-name="Deal Zone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20250325T015150SQUARE.png" group-title="° SamsungTVPlus US",Deal Zone
+https://jmp2.uk/sam-USBB52000246M.m3u8
+#EXTINF:0 CUID="494384" tvg-name="Death Valley Days" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900007HA_20241210T013851SQUARE.png" group-title="° SamsungTVPlus US",Death Valley Days
+https://jmp2.uk/sam-US2900007HA.m3u8
+#EXTINF:0 CUID="494388" tvg-name="Degrassi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700010XU_20240520T221455SQUARE.png" group-title="° SamsungTVPlus US",Degrassi
+https://jmp2.uk/sam-USBD700010XU.m3u8
+#EXTINF:0 CUID="494414" tvg-name="Dinos 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700006XE_20241203T004820SQUARE.png" group-title="° SamsungTVPlus US",Dinos 24/7
+https://jmp2.uk/sam-US3700006XE.m3u8
+#EXTINF:0 CUID="494416" tvg-name="Divorce Court" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300006A6_20250211T021721SQUARE.png" group-title="° SamsungTVPlus US",Divorce Court
+https://jmp2.uk/sam-USBD300006A6.m3u8
+#EXTINF:0 CUID="494426" tvg-name="Documentary+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20240730T222515SQUARE.png" group-title="° SamsungTVPlus US",Documentary+
+https://jmp2.uk/sam-USAJ3504701A.m3u8
+#EXTINF:0 CUID="494428" tvg-name="Dog the Bounty Hunter" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20250415T005946SQUARE.png" group-title="° SamsungTVPlus US",Dog the Bounty Hunter
+https://jmp2.uk/sam-US900002IH.m3u8
+#EXTINF:0 CUID="494431" tvg-name="Dog Whisperer" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400001FX_20241105T024333SQUARE.png" group-title="° SamsungTVPlus US",Dog Whisperer
+https://jmp2.uk/sam-US3400001FX.m3u8
+#EXTINF:0 CUID="494432" tvg-name="Dove Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700016JY_20250211T021651SQUARE.png" group-title="° SamsungTVPlus US",Dove Channel
+https://jmp2.uk/sam-USBD700016JY.m3u8
+#EXTINF:0 CUID="494434" tvg-name="DP World Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600010KE_20250204T014300SQUARE.png" group-title="° SamsungTVPlus US",DP World Tour
+https://jmp2.uk/sam-US4600010KE.m3u8
+#EXTINF:0 CUID="494435" tvg-name="Dr Phil's MeritTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US70001475_20250304T041456SQUARE.png" group-title="° SamsungTVPlus US",Dr Phil's MeritTV
+https://jmp2.uk/sam-US70001475.m3u8
+#EXTINF:0 CUID="494437" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200004X3_20240625T011347SQUARE.png" group-title="° SamsungTVPlus US",Dr. G: Medical Examiner
+https://jmp2.uk/sam-USBB3200004X3.m3u8
+#EXTINF:0 CUID="494438" tvg-name="DraftKings Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20250401T004829SQUARE.png" group-title="° SamsungTVPlus US",DraftKings Network
+https://jmp2.uk/sam-USBD700013BW.m3u8
+#EXTINF:0 CUID="494442" tvg-name="Drama Life" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000015Y_20241112T000622SQUARE.png" group-title="° SamsungTVPlus US",Drama Life
+https://jmp2.uk/sam-USAJ26000015Y.m3u8
+#EXTINF:0 CUID="494448" tvg-name="Dry Bar Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000039U_20240520T215832SQUARE.png" group-title="° SamsungTVPlus US",Dry Bar Comedy
+https://jmp2.uk/sam-USAJ30000039U.m3u8
+#EXTINF:0 CUID="494451" tvg-name="Duck Dynasty" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20250421T234912SQUARE.png" group-title="° SamsungTVPlus US",Duck Dynasty
+https://jmp2.uk/sam-USBC4400002GF.m3u8
+#EXTINF:0 CUID="494460" tvg-name="E! Keeping Up" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000133I_20240909T184452SQUARE.png" group-title="° SamsungTVPlus US",E! Keeping Up
+https://jmp2.uk/sam-US18000133I.m3u8
+#EXTINF:0 CUID="494463" tvg-name="EBONY TV by Lionsgate" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500012DH_20240520T222852SQUARE.png" group-title="° SamsungTVPlus US",EBONY TV by Lionsgate
+https://jmp2.uk/sam-USBD2500012DH.m3u8
+#EXTINF:0 CUID="494470" tvg-name="ElectricNOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20240520T222632SQUARE.png" group-title="° SamsungTVPlus US",ElectricNOW
+https://jmp2.uk/sam-USBC6000225M.m3u8
+#EXTINF:0 CUID="494486" tvg-name="Estrella Games" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000145I_20240520T212753SQUARE.png" group-title="° SamsungTVPlus US",Estrella Games
+https://jmp2.uk/sam-USBC24000145I.m3u8
+#EXTINF:0 CUID="494525" tvg-name="Family Hour TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100024YU_20250311T003453SQUARE.png" group-title="° SamsungTVPlus US",Family Hour TV
+https://jmp2.uk/sam-US4100024YU.m3u8
+#EXTINF:0 CUID="494526" tvg-name="Family Ties" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20241112T000627SQUARE.png" group-title="° SamsungTVPlus US",Family Ties
+https://jmp2.uk/sam-USBB3500003D6.m3u8
+#EXTINF:0 CUID="494527" tvg-name="FanDuel TV Extra" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400012RF_20250318T021027SQUARE.png" group-title="° SamsungTVPlus US",FanDuel TV Extra
+https://jmp2.uk/sam-US1400012RF.m3u8
+#EXTINF:0 CUID="494533" tvg-name="FARSCAPE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100022W9_20250428T223441SQUARE.png" group-title="° SamsungTVPlus US",FARSCAPE
+https://jmp2.uk/sam-US4100022W9.m3u8
+#EXTINF:0 CUID="494542" tvg-name="Fear Factor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300002Q6_20241105T024252SQUARE.png" group-title="° SamsungTVPlus US",Fear Factor
+https://jmp2.uk/sam-USBB2300002Q6.m3u8
+#EXTINF:0 CUID="494543" tvg-name="Fear Zone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20250408T020801SQUARE.png" group-title="° SamsungTVPlus US",Fear Zone
+https://jmp2.uk/sam-USBC1300012VK.m3u8
+#EXTINF:0 CUID="494554" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20241105T024210SQUARE.png" group-title="° SamsungTVPlus US",FIFA+
+https://jmp2.uk/sam-USBD12000255B.m3u8
+#EXTINF:0 CUID="494565" tvg-name="FilmRise Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500004M7_20250211T021714SQUARE.png" group-title="° SamsungTVPlus US",FilmRise Anime
+https://jmp2.uk/sam-US3500004M7.m3u8
+#EXTINF:0 CUID="494578" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20241105T185655SQUARE.png" group-title="° SamsungTVPlus US",Fireplace Vibes
+https://jmp2.uk/sam-USBA3800004EL.m3u8
+#EXTINF:0 CUID="494582" tvg-name="Flipping Nation by A&E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200008RS_20250325T015159SQUARE.png" group-title="° SamsungTVPlus US",Flipping Nation by A&E
+https://jmp2.uk/sam-USBD4200008RS.m3u8
+#EXTINF:0 CUID="494594" tvg-name="Forged In Fire" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20250325T015201SQUARE.png" group-title="° SamsungTVPlus US",Forged In Fire
+https://jmp2.uk/sam-USBD2700014QW.m3u8
+#EXTINF:0 CUID="494595" tvg-name="Formula 1 Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US600011Q2_20241112T001019SQUARE.png" group-title="° SamsungTVPlus US",Formula 1 Channel
+https://jmp2.uk/sam-US600011Q2.m3u8
+#EXTINF:0 CUID="494596" tvg-name="FOX SOUL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300032J7_20240520T214534SQUARE.png" group-title="° SamsungTVPlus US",FOX SOUL
+https://jmp2.uk/sam-USBA300032J7.m3u8
+#EXTINF:0 CUID="494597" tvg-name="FOX Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" group-title="° SamsungTVPlus US",FOX Sports
+https://jmp2.uk/sam-US2700001QY.m3u8
+#EXTINF:0 CUID="494598" tvg-name="FOX Weather" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20240520T222853SQUARE.png" group-title="° SamsungTVPlus US",FOX Weather
+https://jmp2.uk/sam-USBD700003L7.m3u8
+#EXTINF:0 CUID="494609" tvg-name="FreeTV Estelar" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ1700009QJ_20241112T000634SQUARE.png" group-title="° SamsungTVPlus US",FreeTV Estelar
+https://jmp2.uk/sam-USAJ1700009QJ.m3u8
+#EXTINF:0 CUID="494616" tvg-name="fubo Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20250325T015044SQUARE.png" group-title="° SamsungTVPlus US",fubo Sports Network
+https://jmp2.uk/sam-USAJ2200023Z0.m3u8
+#EXTINF:0 CUID="494618" tvg-name="Galanes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700002DU_20241228T011511SQUARE.png" group-title="° SamsungTVPlus US",Galanes
+https://jmp2.uk/sam-USBD2700002DU.m3u8
+#EXTINF:0 CUID="494622" tvg-name="Game Show Central" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400012FA_20240924T010837SQUARE.png" group-title="° SamsungTVPlus US",Game Show Central
+https://jmp2.uk/sam-USAJ3400012FA.m3u8
+#EXTINF:0 CUID="494630" tvg-name="GET Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000563_20241022T004412SQUARE.png" group-title="° SamsungTVPlus US",GET Comedy
+https://jmp2.uk/sam-US350000563.m3u8
+#EXTINF:0 CUID="494631" tvg-name="get TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200002PM_20241112T002029SQUARE.png" group-title="° SamsungTVPlus US",get TV
+https://jmp2.uk/sam-USBD1200002PM.m3u8
 #EXTINF:0 CUID="485859" tvg-name="100% Docs" tvg-ID="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K",100% Docs
 https://a1xs.vip/2000015
 #EXTINF:0 CUID="485860" tvg-name="21 Jump Street" tvg-ID="SkySp.F1.uk" tvg-logo="https://i.ibb.co/swp9ncv/Sky-f1-uhd.png" group-title="UHD | 4K",21 Jump Street
