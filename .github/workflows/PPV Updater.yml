@@ -3,7 +3,7 @@ name: daddylive updater #
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '* * * * *'
   workflow_dispatch: {} # Enables manual triggering
 
 jobs:
